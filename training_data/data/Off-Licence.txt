@@ -1,11 +1,5 @@
-DIRECTION:
-Close up of a man's face.
-
 ERIC IDLE:
 Yet fear, not like an aged florin, can so disseminate men's eyes, that fortune, straining at a kissing touch may stop her ceaseless search to sport amidst the rampant thrust of time, and bring the thing undone to pass by that with which the cock may chance an arm.
-
-DIRECTION:
-Cut to a wider shot to show that he is in an off-licence. Mr Bones is behind the counter.
 
 JOHN CLEESE:
 Well that's all very well, sir, but this is an off-licence.
@@ -31,12 +25,6 @@ There we are, sir. That'll be a pound, please.
 ERIC IDLE:
 A pound a pound and all around abound
 
-DIRECTION:
-A pound found found
-
-DIRECTION:
-Lost lost the cost till was't embossed...
-
 JOHN CLEESE:
 Excuse me, sir.
 
@@ -52,9 +40,6 @@ No, no, I'm a solicitor... well versed within the written law of man, we can to 
 JOHN CLEESE:
 Oh
 
-DIRECTION:
-shut
-
 JOHN CLEESE:
 up.
 
@@ -69,9 +54,6 @@ Really? When?
 
 JOHN CLEESE:
 Oh, once upon a time ... there lived in Wiltshire a young Chap called Dennis Moore. Now Dennis was a highwayman by profession ...
-
-DIRECTION:
-we ripple through to Dennis Moore riding along with a big bag of swag
 
 JOHN CLEESE:
 ... and for several months he had been stealing from the rich to give to the poor. One day...

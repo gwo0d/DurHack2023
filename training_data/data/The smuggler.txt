@@ -1,11 +1,5 @@
-DIRECTION:
-Film animation leads us into customs hall.
-
 JOHN CLEESE:
 Have you read this, sir?
-
-DIRECTION:
-holds up notice
 
 MICHAEL PALIN:
 No! Oh, yes, yes - yes.
@@ -40,9 +34,6 @@ The label says 'Zurich', sir.
 MICHAEL PALIN:
 Yes well ... it
 
-DIRECTION:
-was
-
 MICHAEL PALIN:
 Spain then.
 
@@ -67,17 +58,11 @@ No... just the watches... er just my watch, er, my watch on the currency... I've
 JOHN CLEESE:
 That came out a bit glib didn't it?
 
-DIRECTION:
-an alarm clock goes off inside his case; the Man thumps it, unsuccessfully
-
 JOHN CLEESE:
 Have you got an alarm clock in there, sir?
 
 MICHAEL PALIN:
 No, no, heavens no, no... just vests.
-
-DIRECTION:
-he thumps the case and the alarm stops
 
 JOHN CLEESE:
 Sounded a bit like an alarm going off.
@@ -87,9 +72,6 @@ Well it can't have been... it must be a vest, er, going off.
 
 JOHN CLEESE:
 Going off?
-
-DIRECTION:
-Clocks start ticking and chiming in the case. The man desperately thumps the case.
 
 MICHAEL PALIN:
 All right, I confess, I'm a smuggler ... This whole case is crammed full of Swiss watches and clocks. I've been purposely trying to deceive Her Majesty's Customs and Excise. I've been a bloody fool.
@@ -112,9 +94,6 @@ Now come along please, you're wasting our time... move along please.
 MICHAEL PALIN:
 Look!
 
-DIRECTION:
-he opens his case to reveal it stuffed full of watches and clocks
-
 MICHAEL PALIN:
 Look - look at this.
 
@@ -127,21 +106,9 @@ What? I wouldn't buy two thousand clocks.
 JOHN CLEESE:
 People do, now close your case move along please come on. Don't waste our time, we're out to catch the real smugglers. Come on.
 
-DIRECTION:
-shouting
-
-DIRECTION:
-he is removed struggling
-
-DIRECTION:
-A vicar is next.
-
 ERIC IDLE:
 Poor fellow. I think he needs help.
 
 JOHN CLEESE:
 Right, cut the wisecracks, vicar. Get to the search room, and strip.
-
-DIRECTION:
-Cut to chairman of discussion group.
 

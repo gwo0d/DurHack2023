@@ -1,29 +1,11 @@
-DIRECTION:
-Zoom in to overlay showing some stock film of hansom caps galloping past.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'LONDON 1895'
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'THE RESIDENCE OF MR OSCAR WILDE'
-
-DIRECTION:
-Suitably classy music starts. Mix through to Wilde's drawing room. A crowd of suitably dressed folk are engaged in typically brilliant conversation, laughing affectedly and drinking champagne.
-
 TERRY JONES:
 My congratulations, Wilde. Your latest play is a great success. The whole of London's talking about you.
 
 GRAHAM CHAPMAN:
 There is only one thing in the world worse than being talked about, and that is not being talked about.
 
-DIRECTION:
-There follows fifteen seconds of restrained and sycophantic laughter.
-
 TERRY JONES:
 Very very witty ... very
-
-DIRECTION:
-very
 
 TERRY JONES:
 witty.
@@ -31,17 +13,11 @@ witty.
 JOHN CLEESE:
 There is only one thing in the world worse than being witty, and that is not being witty.
 
-DIRECTION:
-Fifteeen more seconds of the same.
-
 GRAHAM CHAPMAN:
 I wish I had said that.
 
 JOHN CLEESE:
 You will, Oscar, you will.
-
-DIRECTION:
-more laughter
 
 GRAHAM CHAPMAN:
 Your Majesty, have you met James McNeill Whistler?
@@ -52,17 +28,11 @@ Yes, we've played squash together.
 GRAHAM CHAPMAN:
 There is only one thing worse than playing squash together, and that is playing it by yourself.
 
-DIRECTION:
-silence
-
 GRAHAM CHAPMAN:
 I wish I hadn't said that.
 
 JOHN CLEESE:
 You did, Oscar, you did.
-
-DIRECTION:
-a little laughter
 
 TERRY JONES:
 I've got to get back up the Palace.
@@ -82,14 +52,8 @@ I never said that.
 GRAHAM CHAPMAN:
 You did, James, you did.
 
-DIRECTION:
-The Prince of Wales stares expectantly at Whistler.
-
 JOHN CLEESE:
 ... Well, Your Highness, what I meant was that, like a doughnut, um, your arrival gives us pleasure and your departure only makes us hungry for more.
-
-DIRECTION:
-laughter
 
 JOHN CLEESE:
 Your Highness, you are also like a stream of bat's piss.
@@ -106,26 +70,14 @@ It sodding was not! It was Shaw!
 MICHAEL PALIN:
 I ... I merely meant, Your Majesty, that you shine out like a shaft of gold when all around is dark.
 
-DIRECTION:
-accepting the compliment
-
 TERRY JONES:
 Oh.
-
-DIRECTION:
-to Whistler
-
-DIRECTION:
-to Prince
 
 GRAHAM CHAPMAN:
 Your Majesty is like a dose of clap.
 
 JOHN CLEESE:
 Before you arrive - before you arrive is pleasure, and after is a pain in the dong.
-
-DIRECTION:
-What?
 
 GRAHAM CHAPMAN:
 One of Shaw's, one of Shaw's.
@@ -150,13 +102,4 @@ Let's have a bit of wit, then, man.
 
 GRAHAM CHAPMAN:
 Come on, Shaw-y
-
-DIRECTION:
-.
-
-DIRECTION:
-blows a raspberry
-
-DIRECTION:
-The Prince shakes Shaw's hand. Laughter all round. We then link to animation for a few minutes, then back to Dickie Attenborough at the awards ceremony. He nows has bunches of onions slung around his neck.
 

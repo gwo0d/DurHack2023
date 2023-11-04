@@ -1,29 +1,5 @@
-DIRECTION:
-CAPTION: 'THE WORLD AROUND US'
-
-DIRECTION:
-Photo of newspaper headlines: Pop Stars In Mouse Scandal; Peer Faces Rodent Charges. A man in a mouse skin running into police station with bag over head.
-
-DIRECTION:
-CAPTION: 'THE MOUSE PROBLEM'
-
-DIRECTION:
-Cut to a policeman leading a man in mouse costume into a police station. Photo of headline: Mouse Clubs On Increase.
-
-DIRECTION:
-Cut to: photos of neon signs of clubs: Eek Eek Club; The Little White Rodent Room; Caerphilly A Go-Go.
-
-DIRECTION:
-Cut to studio: ordinary grey-suited linkman.
-
 MICHAEL PALIN:
 Yes. The Mouse Problem. This week 'The World Around Us' looks at the growing social phenomenon of Mice and Men. What makes a man want to be a mouse.
-
-DIRECTION:
-Interviewer, Harold Voice, sitting facing a confessor. The confessor is badly lit and is      turned away from camera.
-
-DIRECTION:
-very slowly and painfully
 
 JOHN CLEESE:
 Well it's not a question of wanting to be a mouse... it just sort of happens to you. All of a sudden you realize... that's what you want to be.
@@ -52,38 +28,14 @@ And what was your reaction to this?
 JOHN CLEESE:
 Well I was shocked. But, er... gradually I came to feel that I was more at ease ... with other mice.
 
-DIRECTION:
-Cut to linkman.
-
 MICHAEL PALIN:
 A typical case, whom we shall refer to as Mr A, although his real name is this:
-
-DIRECTION:
-and CAPTION:
-
-DIRECTION:
-ARTHUR JACKSON
-
-DIRECTION:
-32A MILTON AVENUE,
-
-DIRECTION:
-HOUNSLOW, MIDDLESEX.
 
 MICHAEL PALIN:
 What is it that attracts someone like mr. A to this way of life? I have with me a consultant psychiatrist.
 
-DIRECTION:
-The camera pulls back to reveal the psychiatrist who places in front og himself a notice saying 'The Amazing Kargol And Janet'.
-
 GRAHAM CHAPMAN:
 Well, we've just heard a typical case history. I myself have over seven hundred similar histories, all fully documented. Would you care to choose one?
-
-DIRECTION:
-Janet (Carol), dressed in a showgirl's outfit, enters and offers linkman the case histories fanned out like cards, with one more prominent than the others; he picks it out.
-
-DIRECTION:
-without looking
 
 GRAHAM CHAPMAN:
 Mr Arthur Aldridge of Leamington.
@@ -91,14 +43,8 @@ Mr Arthur Aldridge of Leamington.
 MICHAEL PALIN:
 Well, that's amazing, amazing. Thank you, Janet.
 
-DIRECTION:
-chord; Janet postures and exits
-
 MICHAEL PALIN:
 Kargol, speaking as a psychiatrist as opposed to a conjuror...
-
-DIRECTION:
-disappointed
 
 GRAHAM CHAPMAN:
 Oh...
@@ -109,38 +55,14 @@ MICHAEL PALIN:
 GRAHAM CHAPMAN:
 Well, we psychiatrist have found that over 8% of the population will always be mice, I mean, after all, there's something of the mouse in all of us. I mean, how many of us can honestly say that at one time or another he hasn't felt sexually attracted to mice.
 
-DIRECTION:
-linkman looks puzzeld
-
-DIRECTION:
-linkman looks increasingly embarrassed
-
-DIRECTION:
-phone on desk rings; the linkman picks it up but does not answer it
-
 GRAHAM CHAPMAN:
 The only way to bring the crime figures down is to reduce the number of offences - get it out in the open - I know I have.
-
-DIRECTION:
-replacing phone
 
 MICHAEL PALIN:
 The Amazing Kargol And Janet.  What a lot of people don't realize is that a mouse, once accepted, can fulfil a very useful role in society. Indeed there are examples throughout history of famous men now known to have been mice.
 
-DIRECTION:
-Cut to julius Caesar on beach. He shouts 'Veni Vidi, Vici'. Then he adds a furtive      squeak. Napoleon pulls slice of cheese out of jacket and bites into it.
-
-DIRECTION:
-Cut to Linkman
-
 MICHAEL PALIN:
 And, of course, Hillaire Belloc. But what is the attitude...
-
-DIRECTION:
-Cut to man in a Viking helmet.
-
-DIRECTION:
-Eric Idle
 
 ERIC IDLE:
 ... of the man in the street towards...
@@ -148,14 +70,8 @@ ERIC IDLE:
 MICHAEL PALIN:
 ... this growing social problem?
 
-DIRECTION:
-Vox pops films.
-
 ERIC IDLE:
 Clamp down on them.
-
-DIRECTION:
-How?
 
 ERIC IDLE:
 I'd strangle them.
@@ -181,20 +97,11 @@ Well I mean, they can't help it, can they? But, er, there's nothing you can do a
 MICHAEL PALIN:
 Clearly the British public's view is a hostile one.
 
-DIRECTION:
-'HOSTILE'
-
 MICHAEL PALIN:
 But perhaps this is because so little is generally known of these mice men. We have      some film now taken of one of the notorious weekend mouse parties, where these disgusting      little perverts meet.
 
-DIRECTION:
-Cut to exterior house (night). The blinds are drawn so that only shadows of enormous      mice can be seen, holding slices of cheese and squeaking.
-
 MICHAEL PALIN:
 Mr A tells us what actually goes on at these mouse parties.
-
-DIRECTION:
-Cut to Mr A.
 
 JOHN CLEESE:
 Well first of all you get shown to your own private hole in the skirting board... then you      put the mouse skin on... then you scurry into the main room, and perhaps take a run in the      wheel.
@@ -202,14 +109,8 @@ Well first of all you get shown to your own private hole in the skirting board..
 MICHAEL PALIN:
 The remainder of this film was taken secretly at one of these mouse parties by a      BBC cameraman posing as a vole. As usual we apologize for the poor quality of the film.
 
-DIRECTION:
-Very, poor quality film, shadowy shapes, the odd mouse glimpsed.
-
 JOHN CLEESE:
 Well, er, then you steal some cheese, Brie or Camembert, or Cheddar or      Gouda, if you're on the harder stuff. You might go and see one of the blue cheese films...      there's a big clock in the middle of the room, and about 12:50 you climb up it and then      ...eventually, it strikes one... and you all run down.
-
-DIRECTION:
-Cut to a large matron with apron and cawing knife.
 
 MICHAEL PALIN:
 And what's that?
@@ -217,20 +118,11 @@ And what's that?
 JOHN CLEESE:
 That's the farmer's wife.
 
-DIRECTION:
-Cut to the linkman at desk.
-
 MICHAEL PALIN:
 Perhaps we need to know more of these mice men before we can really judge      them. Perhaps not. Anyway, our thirty minutes are up.
 
-DIRECTION:
-Sound of baa-ing. The linkman looks up in air, looks startled, pulls a gun from under the      desk and fires in the air. The body of a sheep falls to the floor.
-
 MICHAEL PALIN:
 Goodnight.
-
-DIRECTION:
-CAPTION: 'SEX AND VIOLENCE' WAS CONCIEVED, WRITTEN AND PERFORMED BY:... (CREDITS)'
 
 JOHN CLEESE:
 And here is the result of the Epilogue: God exists by two falls to a submission

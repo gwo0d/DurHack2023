@@ -1,6 +1,3 @@
-DIRECTION:
-Third Interviewer and Arthur 'Two Sheds' Jackson. Musical score blow-up behind.
-
 ERIC IDLE:
 Last week the Royal Festival Hall saw the first performance of a new symphony by one of the world's leading modern composers, Arthur 'Two Sheds' Jackson. Mr Jackson.
 
@@ -46,9 +43,6 @@ No.
 ERIC IDLE:
 I see, I see. Well let's return to your symphony. Ah, now then, did you write this symphony...
 
-DIRECTION:
-in
-
 ERIC IDLE:
 the shed?
 
@@ -57,9 +51,6 @@ Have you written any of your recent works in this shed of yours?
 
 TERRY JONES:
 No it's just a perfectly ordinary garden shed.
-
-DIRECTION:
-A picture of a shed appears on the screen behind them.
 
 ERIC IDLE:
 I see. And you're thinking of buying this second shed to write in.
@@ -88,9 +79,6 @@ What?
 ERIC IDLE:
 Apparently your symphony was written for organ and tympani.
 
-DIRECTION:
-catches sight of the picture of the shed behind hin
-
 TERRY JONES:
 What's that?
 
@@ -100,20 +88,11 @@ What's what?
 TERRY JONES:
 It's a shed. Get it off.
 
-DIRECTION:
-He points to BP screen shed. The picture of the shed disappears and is replaced by a picture of Jackson. Jackson looks at it carefully.
-
 TERRY JONES:
 Right.
 
 ERIC IDLE:
 Now then Mr. Jackson...your symphony.
-
-DIRECTION:
-CAPTION: 'ARTHUR "TWO SHEDS" JACKSON'
-
-DIRECTION:
-Cut back to studio: the picture of him is replaced by a picture of two sheds, one with a question mark over it.
 
 ERIC IDLE:
 I understand that you used to be interested in train-spotting.
@@ -123,9 +102,6 @@ I understand that, about thirty years ago, you were extremely interested in trai
 
 TERRY JONES:
 What's that got to do with my bloody music?
-
-DIRECTION:
-Enter Second Interviewer from Edward Ross sketch (John)
 
 JOHN CLEESE:
 Are you having any trouble from him?
@@ -139,35 +115,17 @@ Exactly. Well we interviewers are more than a match for the likes of you, 'Two S
 ERIC IDLE:
 Yes, make yourself scarce, 'Two Sheds'. This studio isn't big enough for the three of us!
 
-DIRECTION:
-They push him away and propel him out.
-
 TERRY JONES:
 What are you doing?
-
-DIRECTION:
-he is pushed out of vision with a crash
 
 JOHN CLEESE:
 Get your own Arts programme, you fairy!
 
-DIRECTION:
-to camera
-
 ERIC IDLE:
 Arthur 'Two Sheds' Jackson.
 
-DIRECTION:
-Cut to linkman. He is about to speak when:
-
-DIRECTION:
-off-screen
-
 ERIC IDLE:
 Never mind, Timmy.
-
-DIRECTION:
-off-screen
 
 JOHN CLEESE:
 Oh, Michael, you are such a comfort.
@@ -175,12 +133,6 @@ Oh, Michael, you are such a comfort.
 MICHAEL PALIN:
 Arthur 'Two Sheds'...
 
-DIRECTION:
-Cut to a man in Viking helmet at desk.
-
 JOHN CLEESE:
 ...Jackson.
-
-DIRECTION:
-Cut back to linkman.
 

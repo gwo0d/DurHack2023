@@ -1,23 +1,11 @@
-DIRECTION:
-Cut to a throne room. George III is being read to by an adviser.
-
-DIRECTION:
-CAPTION: 'THE COURT OF GEORGE III, 1781'
-
 ERIC IDLE:
 ... Titty was very worried. Where could Mary be? He looked everywhere. Under the stones and behind the bushes... and Mr Squirrel helped him by looking up in the trees, and Mr Badger helped him by looking under the ground...
-
-DIRECTION:
-There is a knock on the door. George III looks up quickly. The reader, with obvoiously well practiced skill, shuts the book, slips it beneath another book which he opens and carries on reading.
 
 ERIC IDLE:
 ... and so, Your Majesty, we the Commons do herein crave and beseech that...
 
 GRAHAM CHAPMAN:
 Enter!
-
-DIRECTION:
-Lord North enters and bows briefly.
 
 TERRY JONES:
 Your Majesty... Louis XVIII is here!
@@ -31,29 +19,14 @@ The King of France, Your Majesty! This is a great moment to have, sir.
 GRAHAM CHAPMAN:
 There is no Louis XVIII.
 
-DIRECTION:
-We hear a Scottish voice outside the door. Lord North ducks his head out for a moment, then reappears.
-
 TERRY JONES:
 He craves Your Majesty's pardon. He has had a long journey here and miscounted... He is Louis XVII.
 
 GRAHAM CHAPMAN:
 Louis XVI is dead already?
 
-DIRECTION:
-A trace of worry crosses North's face. He goes outside the door again for a moment. Sounds of a slight argument between himself and the Glaswegians. Suddenly there is a yell of pain and Lord North reels in holding the bridge of his nose.
-
 TERRY JONES:
 Aaaaaaaaaaaaghh! Oh my God! Oh... ah... oh Christ!
-
-DIRECTION:
-Louis strides in with the two dukes. They all wear tam o'shanters.
-
-DIRECTION:
-to the reader
-
-DIRECTION:
-to George III
 
 MICHAEL PALIN:
 Your Majesty... I am Louis XVI as you so rightly say, and I don't want to muck about. I have a wee proposition which could make the name of George IV the most respected in Europe...
@@ -61,26 +34,17 @@ Your Majesty... I am Louis XVI as you so rightly say, and I don't want to muck a
 GRAHAM CHAPMAN:
 George
 
-DIRECTION:
-III
-
 MICHAEL PALIN:
 George III! Sorry. Where can we talk?
 
 TERRY JONES:
 Oh! God! ... did you see that?... Oh!... aaaargh! Oh dear!
 
-DIRECTION:
-he is in great pain still and clutching his nose
-
 GRAHAM CHAPMAN:
 We shall have a state banquet at St James' Palace!
 
 MICHAEL PALIN:
 No no, look, I can't hang about. It's take it or leave... we got to get back to... er...
-
-DIRECTION:
-Paris.
 
 MICHAEL PALIN:
 Paris, by tonight...
@@ -103,14 +67,8 @@ And, I shall give you £10,000 for the plans...
 MICHAEL PALIN:
 Ten thousand
 
-DIRECTION:
-pounds
-
 MICHAEL PALIN:
 ! Right, well, we'll disengage the, urn, you know... like you said - we'll disengage 'em... tell you what, then, I'll put a duke on to it... OK? Right!
-
-DIRECTION:
-still clutching his nose
 
 TERRY JONES:
 That's the worst thing you can do to anybody.
@@ -145,17 +103,11 @@ Ah! Well, actually, we'd rather you didn't... we've been having a wee bit of tro
 GRAHAM CHAPMAN:
 Monsieur Necker? The man who introduced so many valuable reforms and who proved so popular despite his opposition to Mirabeau's policy of issuing 'assignats'?
 
-DIRECTION:
-SUPERIMPOSED CAPTION: 'THIS SPEECH HAS BEEN VERIFIED BY ENCYCLOPAEDIA BRITANNICA'
-
 MICHAEL PALIN:
 Er... aye, yeah... the trouble is he's been drinking a bit recently ... you' know, fourteen lagers with his breakfast... that sort of thing.
 
 GRAHAM CHAPMAN:
 Well... very well, Louis...
-
-DIRECTION:
-The door flies open and there is Joseph Montgolfier, still clad only in towel and silly bath hat.
 
 TERRY JONES:
 Just a moment!
@@ -175,9 +127,6 @@ Ooh! I am not ... honestly!
 TERRY JONES:
 No, not you, Your Majesty
 
-DIRECTION:
-he points at Louis
-
 TERRY JONES:
 This man - this Louis, the so-called King of France man. Which number did you give this time - Louis the 23rd?
 
@@ -190,35 +139,11 @@ I bet you took a few guesses.
 MICHAEL PALIN:
 Listen, you spotty sassenach pillock..
 
-DIRECTION:
-not a doctor but a period butler
-
 TERRY GILLIAM:
 Your Majesty! The Ronettes are here.
 
-DIRECTION:
-And Mr Bartlett.
-
-DIRECTION:
-Three black ladies wearing modern showbiz costumes come in and sing 'George III' song. Two men come in and set up a screen as before.
-
-DIRECTION:
-singing
-
-DIRECTION:
-George III ... etc .... etc ....
-
 GRAHAM CHAPMAN:
 Oh dear, I'm not supposed to go mad till 1800!
-
-DIRECTION:
-Louis, arguing violently with the butler, butts him. Music comes up and the sound fades on this strange scene. George III falls to the floor and waggles his legs around in the air. Zoom in as the men in black take cover off the caption.
-
-DIRECTION:
-CAPTION: 'MEANWHILE, IN FRANCE...'
-
-DIRECTION:
-Cut to drawing more in the Montgolfiers' house. Jacques is at a table working on some drawings. Behind him Antoinette paces the room nervously. She is still wearing her harness, but it is no longer attached to the gas balloon. In a corner of the room a plumber is still mending the elaborate plumbing.
 
 CAROL CLEVELAND:
 Joseph has been gone for six months now ... we have heard nothing!
@@ -229,20 +154,11 @@ He can look after himself.
 CAROL CLEVELAND:
 But he had only on a towel, you know.
 
-DIRECTION:
-Jacques takes off his false ears and walks over to Antoinette.
-
 ERIC IDLE:
 Antoinette... from now on there is only one Montgolfier brother.
 
 CAROL CLEVELAND:
 But Louis XIV has the plans... you must wait until Joseph returns.
-
-DIRECTION:
-casually loosening her harness
-
-DIRECTION:
-he indicates the desk where he has been working
 
 ERIC IDLE:
 Let me put my tongue in your mouth.
@@ -262,17 +178,11 @@ Please, let me put it in a little way.
 CAROL CLEVELAND:
 Oh, Jacques, ze
 
-DIRECTION:
-plans
-
 CAROL CLEVELAND:
 !
 
 ERIC IDLE:
 I take it out if you don't like it.
-
-DIRECTION:
-He chases her a bit with his tongue out. Antoinette is about to react rather violently one way or the other, when her dramatic moment is cut short by the entrance of O'Toole the butler.
 
 GRAHAM CHAPMAN:
 Are you sure the claret was on the left of the sideboard, sir?
@@ -283,9 +193,6 @@ Yes, O'Toole, it's always been there.
 GRAHAM CHAPMAN:
 Well I'll look for one more month, sir.
 
-DIRECTION:
-he turns and goes out; Jacques eyes Antoinette lasciviously and is about to try and make contact in the French way when the butler returns
-
 GRAHAM CHAPMAN:
 By the way sir, Mr Bartlett has gone, sir. He said he couldn't wait any longer.
 
@@ -295,29 +202,17 @@ Thank you, O'Toole...
 GRAHAM CHAPMAN:
 Not at all, sir... I've enjoyed being in it...
 
-DIRECTION:
-impatiently
-
 ERIC IDLE:
 Right!
 
 GRAHAM CHAPMAN:
 Thank you, sir... mam'selle.
 
-DIRECTION:
-He exits. Tremendous applause. He reappears, takes a bow and leaves again. Jacques and Antoinette look nonplussed. He reappears. Terrific applause. He gestures for them to quiet down. Eventually them is silence.
-
 GRAHAM CHAPMAN:
 By the way, sir, Mr Bartlett has gone, sir.
 
-DIRECTION:
-tremendous applause
-
 GRAHAM CHAPMAN:
 He said he couldn't wait any longer, sir.
-
-DIRECTION:
-Incredible volume of laughter here brings the house down. The rest of the scene is pandemonium with laughter developing into prolonged applause.
 
 ERIC IDLE:
 Thank you, O'Toole.
@@ -328,15 +223,6 @@ Not at all, sir ... I've enjoyed being in it.
 GRAHAM CHAPMAN:
 Thank you, sir ... mam'selle.
 
-DIRECTION:
-More! More! More! etc .... etc .... etc ....
-
-DIRECTION:
-Crescendo of applause. Over shouts of more! More! Superimposed Python credits. The butler is showered with flowers. Fans come on and congratulate him. A BBC security man restrains them. Other members of the cast appear and shake hands, and stand in a row behind, applauding. A dear old middle-aged lady comes in and stands beside him, weeping proudly.
-
 MICHAEL PALIN:
 George III was arranged and composed by Neil Innes. He is available from the BBC price £4 or eight months' imprisonment.
-
-DIRECTION:
-The credits end. Cut to BBC world symbol.
 

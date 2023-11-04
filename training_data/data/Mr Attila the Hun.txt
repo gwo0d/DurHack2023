@@ -1,6 +1,3 @@
-DIRECTION:
-male voce
-
 JOHN CLEESE:
 Attila the Hun to see you, sir.
 
@@ -27,12 +24,6 @@ No, no, no, I'll go. You stay here.
 
 GRAHAM CHAPMAN:
 Oh goody! I can get on with the ironing.
-
-DIRECTION:
-The chief constable walks through the door into the reception area of the police station. There is a policeman behind the counter and a little insignificant man is standing waiting.
-
-DIRECTION:
-to policeman
 
 TERRY JONES:
 Right where is he?
@@ -73,9 +64,6 @@ Looting, pillaging, sacking a major city, and I'd like nine thousand other charg
 TERRY JONES:
 I say, excuse me, Mr Hun.
 
-DIRECTION:
-he takes his hat off, removes his moustache, puts it in the hat and puts the hat back on
-
 TERRY JONES:
 Have you any objection to taking a breath test?
 
@@ -85,14 +73,8 @@ Oh, no. No, no, no, no.
 TERRY JONES:
 Right, er, sergeant will you bring the Hunalyser, please?
 
-DIRECTION:
-The constable produces a breathalyser.
-
 JOHN CLEESE:
 Here we are, sir.
-
-DIRECTION:
-Hands it to the chief constable.
 
 TERRY JONES:
 Er, how's it work?
@@ -106,9 +88,6 @@ I see. Right. Would you mind breathing into this Mr Hun?
 MICHAEL PALIN:
 Right.
 
-DIRECTION:
-blows into bag
-
 TERRY JONES:
 What if nothing happens, sergeant?
 
@@ -118,29 +97,17 @@ He's Alexander the Great!
 TERRY JONES:
 Ha, ha! Caught you, Mr A. T. Great!
 
-DIRECTION:
-who is now Alexander the Great
-
 MICHAEL PALIN:
 Oh curses! Curses! I thought I was safe, disguised as Attila the Hun.
 
 TERRY JONES:
 Oh perhaps so, but you made one fatal mistake... you see, this wasn't a Hunalyser... it was an Alexander the Greatalyser Take him away, Beryl!
 
-DIRECTION:
-Cut to letter (as used for 'Xmas night with the stars' after pet shop. I'm sorry...as not used in 'Xmas night with the stars').
-
 ERIC IDLE:
 Dear Sir, I object very strongly to that last scene, and to the next letter.
 
-DIRECTION:
-Cut to second letter.
-
 MICHAEL PALIN:
 Dear Sir, I object to being objected to by the last letter, before my drift has become apparent. I spent many years in India during the last war and am now a part-time notice board in a prominent public school. Yours etc., Brigadier Zoe La Rue (deceased). PS Aghhh!
-
-DIRECTION:
-Cut to third letter.
 
 JOHN CLEESE:
 Dear Sir, When I was at school, I was beaten regularly every thirty minutes, and it never did me any harm - except for psychological maladjusunent and blurred vision. Yours truly, Flight Lieutenant Ken Frankenstein (Mrs).

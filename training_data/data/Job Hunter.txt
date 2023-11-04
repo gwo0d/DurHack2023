@@ -1,11 +1,5 @@
-DIRECTION:
-Cut to Mr Glans who is sitting next to a fully practical old 8mm home projector. There is a knock at the door. He switches the projector off and hides it furtively. He is sitting in an office, with a placard saying 'Exchange and Mart, Editor' on his desk. He points to it rather obvoiusly.
-
 JOHN CLEESE:
 Hello, come in.
-
-DIRECTION:
-enter Bee, a young aspirant job hunter
 
 JOHN CLEESE:
 Ah, hello, hello, how much do you want for that briefcase?
@@ -76,77 +70,26 @@ That's marvellous.
 JOHN CLEESE:
 If you throw in the shoes as well.
 
-DIRECTION:
-presses intercom
-
 JOHN CLEESE:
 Hello, er ... Miss Johnson? Could we have two coffees and biscuits please?
-
-DIRECTION:
-over intercom
-
-DIRECTION:
-One coffee and one biscuit for the two ex-army greatcoats and the alarm clock on the mantelpiece.
 
 JOHN CLEESE:
 Two ex-army greatcoats and the alarm clock and a table lamp, for two coffees and biscuits.
 
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-an elderly secretary at a desk in an empty room.
-
-DIRECTION:
-Two greatcoats and two table lamps.
-
-DIRECTION:
-Cut back to real office.
-
 JOHN CLEESE:
 Two greatcoats, one table lamp and a desert boat.
 
-DIRECTION:
-Cut back to cartoon.
-
-DIRECTION:
-For two coffees and biscuits? Office.
-
 JOHN CLEESE:
-Done.
-
-DIRECTION:
-Cartoon.
-
-DIRECTION:
 Done.
 
 TERRY GILLIAM:
 So Miss Johnson returned to her typing and dreamed her little dreamy dreams, unaware as she was of the cruel trick fate had in store for her. For Miss Johnson was about to fall victim of the dreaded international Chinese Communist Conspiracy.
 
-DIRECTION:
-lots of little yellow men pour into the office
-
-DIRECTION:
-who appears in the animation
-
-DIRECTION:
-Miss Johnson is submerged in a tide of yellow men
-
 TERRY GILLIAM:
 Just as they are ready to do anytime free men anywhere waver in their defence of democracy.
 
-DIRECTION:
-A sailing ship with American flag sails in over yellow men. Zoom in on the flag: Uncle Sam appears in front of it.
-
 TERRY GILLIAM:
 Yes, once again American defence proves its effectiveness against international communism. Using this diagram of a tooth to represent any small country, we can see how international communism works by eroding away form the inside
-
-DIRECTION:
-diagram of tooth rotting from inside and collapsing
-
-DIRECTION:
-the remaining teeth fall sideways into the gap
 
 TERRY GILLIAM:
 In dentistry, this is known as Domino Theory. but with american defence the decay is stopped before it starts and that's why nine out of ten small countries choose American defense ...
@@ -154,32 +97,11 @@ In dentistry, this is known as Domino Theory. but with american defence the deca
 ERIC IDLE:
 ... Or Crelm toothpaste with the miracle ingredient, Fraudulin! The white car represents Crelm toothpaste with the miracle ingredient, Fraudulin.
 
-DIRECTION:
-two cars in a bleak landscape
-
-DIRECTION:
-the cars race of
-
-DIRECTION:
-they pass a banner: '60% protection'
-
-DIRECTION:
-the grey car stops dead at the '90% protection' banner
-
 ERIC IDLE:
 The non-white car is out, and the Crelm toothpaste goes on to win with 100% protection! Yes, do like all smart motorists. Choose Crelm toothpaste.
 
-DIRECTION:
-Cut to 'Shrill' advertising man
-
 MICHAEL PALIN:
 Or Shrill Petrol with the new addititve GLC 9424075. After 6 p.m., 9424047. Using this white card
-
-DIRECTION:
-half of screen goes white
-
-DIRECTION:
-shot, off
 
 MICHAEL PALIN:
 Aaaagh!

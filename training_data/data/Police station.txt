@@ -1,6 +1,3 @@
-DIRECTION:
-Police station: a police sergeant is talking over the counter to a girl dressed in a short frilly tennis dress. She holds a racquet and tennis balls.
-
 JOHN CLEESE:
 A blancmange, eh?
 
@@ -55,9 +52,6 @@ It's not messing it up, officer, we like to play with five.
 JOHN CLEESE:
 Look it's
 
-DIRECTION:
-your
-
 JOHN CLEESE:
 affair if you want to play with five people ... but don't go calling it doubles. Look at Wimbledon, right? If Fred Stolle and Tony Roche played Charlie Pasarell and Cliff Drysdale and Peaches Bartcowitz... they wouldn't go calling it doubles.
 
@@ -66,9 +60,6 @@ But what about the blancmange?
 
 JOHN CLEESE:
 That could play Ann Haydon-Jones and her husband Pip.
-
-DIRECTION:
-Cut back to Podgorny's shop. He and his wife are frozen in the positions in which we left them. They pick up the conversation as if nothing had happened.
 
 TERRY JONES:
 Oh, a blancmange gave you an order for 48,000,000 kilts?
@@ -79,9 +70,6 @@ Aye!
 TERRY JONES:
 And you
 
-DIRECTION:
-believed
-
 TERRY JONES:
 it?
 
@@ -90,12 +78,6 @@ Aye, I did.
 
 TERRY JONES:
 Och, you're a stupid man, Angus Podgorny.
-
-DIRECTION:
-getting a little angry
-
-DIRECTION:
-bet
 
 MICHAEL PALIN:
 I believe it.
@@ -111,9 +93,6 @@ Oh, but Angus... he hasna given you an earnest of his good faith!
 
 MICHAEL PALIN:
 Ah mebbe not but he has gi' me this...
-
-DIRECTION:
-brings out piece of folded paper from sporran
 
 TERRY JONES:
 What is it now?
@@ -136,62 +115,29 @@ But I must.
 TERRY JONES:
 Och, no you'll not ...
 
-DIRECTION:
-Close-up on Angus.
-
 MICHAEL PALIN:
 Oh, Mary...
-
-DIRECTION:
-suddenly we hear a strange creaking and a slurping noise; a look of horror comes into his eyes
 
 MICHAEL PALIN:
 Oh, oh, Mary! Look out! Look out!
 
-DIRECTION:
-Big close-up of Mrs Podgorny's eyes starting out from head.
-
 TERRY JONES:
 Urrgh. It's the blancmange.
-
-DIRECTION:
-Blur focus.
-
-DIRECTION:
-Cut to a desk for police spokesman. A peaked-capped policeman sits there, reading 'The Rise and Fall of the Roman Empire' by Googie Withers. He lowers book and talks chattily to camera.
 
 GRAHAM CHAPMAN:
 Oh, now this is where Mr Podgorny could have saved his wife's life. If he'd gone to the police and told them that he'd been approached by unearthly beings from the Galaxy of Andromeda, we'd have sent a man round to investigate. As it was he did a deal with a blancmange, and the blancmange ate his wife. So if you're going out, or going on holiday, or anything strange happens involving other galaxies, just nip round to your local police station, and tell the sergeant on duty - or his wife - of your suspicions. And the same goes for dogs. So I'm sorry to have interrupted your exciting science fiction story ... but, then, crime's our business you know. So carry on viewing, and my thanks to the BBC for allowing me to have this little chat with you. Goodnight. God bless, look after yourselves.
 
-DIRECTION:
-He is hit on the head by knight in suit of armour with raw chicken.
-
-DIRECTION:
-Cut to CID office: a plainclothes detective is sitting in his office. Podgorny is sobbing.
-
-DIRECTION:
-softly and understandingly
-
 ERIC IDLE:
 Do sit down, Mr Podgorny... I... I ... think what's happened is ... terribly ... terribly... funny .... tragic. But you must understand that we have to catch the creature that ate your wife, and if you could help us answer a few questions, we may be able to help save a few lives. I know this is the way your wife would have wanted it.
 
-DIRECTION:
-He is sitting on the desk next to Podgorny. Podgorny with superhuman control makes a great effort to stop sobbing.
-
 MICHAEL PALIN:
 Aye ... I'll ... do ... my best, sergeant.
-
-DIRECTION:
-slapping Podgorny
 
 ERIC IDLE:
 Detective Inspector!
 
 MICHAEL PALIN:
 Er, detective inspector.
-
-DIRECTION:
-getting up and talking sharply and fast
 
 ERIC IDLE:
 Now then. The facts are these. You received an order for 48,000,000 kilts from a blancmange from the planet Skyron in the Galaxy of Andromeda ... you'd just shown your wife an entry form for Wimbledon, which you'd filled in... when you turned round and saw her legs disappearing into a blancmange. Is that correct?
@@ -208,14 +154,8 @@ No, sir.
 ERIC IDLE:
 Well that's a relief. 'Cos if you were, your story would be less plausible.
 
-DIRECTION:
-detective brings out photograph of blancmange
-
 ERIC IDLE:
 Now then, do you recognize this?
-
-DIRECTION:
-with a squeak of fear
 
 MICHAEL PALIN:
 Oh yes. That's the one that ate my Mary!
@@ -271,89 +211,38 @@ I know.
 MICHAEL PALIN:
 She was...
 
-DIRECTION:
-Suddenly, we hear a strange noise. Angus looks frightened. Detective narrows his eyes and walks over to the door.
-
 ERIC IDLE:
 Good lord what's that?
-
-DIRECTION:
-he opens the door and we get a close-up of his staring eyes
-
-DIRECTION:
-with sudden fear
 
 ERIC IDLE:
 Eh Riley? Riley! Riley! It's not Riley!
 
-DIRECTION:
-Eating noises. He is dragged out of camera shot. Refocus on Angus ... he averts his eyes as we hear the detective inspector off-screen.
-
-DIRECTION:
-off-screen
-
 ERIC IDLE:
 It's an extra-terrestial being! Agggh!
-
-DIRECTION:
-Jarring chord: Angus shuts his eyes.
-
-DIRECTION:
-Cut back to laboratory: she is sitting suggestively on a stool. He is pacing up and down looking intense.
 
 GRAHAM CHAPMAN:
 So, everyone in England is being turned into Scotsmen, right?
 
-DIRECTION:
-Yes.
-
 GRAHAM CHAPMAN:
 Now, which is the worst tennis-playing nation in the world?
-
-DIRECTION:
-Er ... Australia.
 
 GRAHAM CHAPMAN:
 No. Try again.
 
-DIRECTION:
-Australia?
-
-DIRECTION:
-testily
-
 GRAHAM CHAPMAN:
 No... try again but say a different place.
-
-DIRECTION:
-Oh, I thought you meant I'd said it badly.
 
 GRAHAM CHAPMAN:
 No, course you didn't say it badly. Now hurry.
 
-DIRECTION:
-Er, Czechoslovakia.
-
 GRAHAM CHAPMAN:
 No! Scotland!
-
-DIRECTION:
-Of course.
 
 GRAHAM CHAPMAN:
 Now ... now these blancmanges, apart from the one that killed Mrs Podgorny have all appeared in which London suburb?
 
-DIRECTION:
-Finchley?
-
 GRAHAM CHAPMAN:
 No. Wimbledon ... Now do you begin to see the pattern? With what sport is Wimbledon commonly associated?
-
-DIRECTION:
-She is thinking really hard.
-
-DIRECTION:
-off-screen
 
 TERRY JONES:
 For viewers at home, the answer is coming up on your screens. Those of you who wish to play it the hard way, stand upside down with your head in a bucket of piranha fish. Here is the question once again.
@@ -361,65 +250,29 @@ For viewers at home, the answer is coming up on your screens. Those of you who w
 GRAHAM CHAPMAN:
 With what sport is Wimbledon commonly associated?
 
-DIRECTION:
-SUPERIMPOSED CAPTION: 'TENNIS'
-
-DIRECTION:
-Cricket.
-
 GRAHAM CHAPMAN:
 No.
-
-DIRECTION:
-Pelote?
 
 GRAHAM CHAPMAN:
 No. Wimbledon is most commonly associated with tennis.
 
-DIRECTION:
-Of course! Now I see!
-
 GRAHAM CHAPMAN:
 Yes, it all falls into place!
-
-DIRECTION:
-The blancmangcs are really Australians trying to get the rights of the pelota rules from the Czech publishers!
-
-DIRECTION:
-heavily
 
 GRAHAM CHAPMAN:
 No ... not quite ... but, er, just look in here.
 
-DIRECTION:
-He indicates microscope. As she eagerly bends to look into it he picks up a sock filled with sand and without looking strikes her casually over the head with it. She collapses out of sight under desk. He continues to think out loud.
-
 GRAHAM CHAPMAN:
 Yes. So these blancmanges, blancmange-shaped creatures come from the planet Skyron in the Galaxy of Andromeda. They order 48,000,000 kilts from a Scottish menswear shop ... turn the population of England into Scotsmen (well known as the worst tennis-playing nation on Earth) thus leaving England empty
 
-DIRECTION:
-during Wimbledon fortnight
-
-DIRECTION:
-practising
-
 GRAHAM CHAPMAN:
 . This can only mean one thing!
-
-DIRECTION:
-Flash up caption quickly:
-
-DIRECTION:
-and CAPTION
 
 TERRY JONES:
 'THEY MEAN TO WIN WIMBLEDON'
 
 GRAHAM CHAPMAN:
 They mean to
-
-DIRECTION:
-win Wimbledon
 
 GRAHAM CHAPMAN:
 !

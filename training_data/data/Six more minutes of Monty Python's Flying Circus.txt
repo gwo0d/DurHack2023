@@ -1,6 +1,3 @@
-DIRECTION:
-Fade to black and then to BBC world symbol
-
 ERIC IDLE:
 And now on BBC another six minutes of Monty Python's Flying Circus.
 

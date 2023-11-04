@@ -1,12 +1,3 @@
-DIRECTION:
-Mix through to mill-owner's opulent sitting room at the turn of the century. Lady Mountback sits with her crochet. There is a knock on the door.
-
-DIRECTION:
-Come in.
-
-DIRECTION:
-Enter Reg, cap in hand.
-
 GRAHAM CHAPMAN:
 Trouble at mill.
 
@@ -22,50 +13,23 @@ Pardon?
 CAROL CLEVELAND:
 I don't understand what you're saying.
 
-DIRECTION:
-slightly irritatedly and with exaggeratedly clear accent
-
 GRAHAM CHAPMAN:
 One of the cross beams has gone out askew on the treddle.
 
 CAROL CLEVELAND:
 Well what on earth does that mean?
 
-DIRECTION:
-I
-
 GRAHAM CHAPMAN:
 don't know. Mr Wentworth just told me to come in here and say that there was trouble at the mill, that's all - I didn't expect a kind of Spanish Inquisition.
-
-DIRECTION:
-Jarring chord. The door flies open and Cardinal Ximinez of Spain enters, flanked by two junior cardinals. Cardinal Biggles has goggles pushed over his forehead. Cardinal Fang is just Cardinal Fang.
 
 MICHAEL PALIN:
 Nobody expects the Spanish Inquisition! Our chief weapon is surprise...surprise and fear...fear and surprise.... our two weapons are fear and surprise...and ruthless efficiency.... Our
 
-DIRECTION:
-three
-
-DIRECTION:
-four
-
-DIRECTION:
-amongst
-
-DIRECTION:
-exit and exeunt
-
 GRAHAM CHAPMAN:
 I didn't expect a kind of Spanish Inquisition.
 
-DIRECTION:
-Jarring chord. They burst in.
-
 MICHAEL PALIN:
 Nobody expects the Spanish Inquisition! Amongst our weaponry are such diverse elements as fear, surprise, ruthless efficiency, and an almost fanatical devotion to the Pope, and nice red uniforms - oh damn!
-
-DIRECTION:
-to Biggles
 
 MICHAEL PALIN:
 I can't say it, you'll have to say it.
@@ -78,12 +42,6 @@ You'll have to say the bit about 'Our chief weapons are ...'
 
 TERRY JONES:
 I couldn't do that...
-
-DIRECTION:
-Ximinez bundles the cardinals outside.
-
-DIRECTION:
-They all enter.
 
 TERRY JONES:
 Er.... Nobody...um....
@@ -121,9 +79,6 @@ You are hereby charged that you did on diverse dates commit heresy against the H
 TERRY JONES:
 That's enough.
 
-DIRECTION:
-to Lady Mountback
-
 TERRY JONES:
 Now, how do you plead?
 
@@ -133,32 +88,17 @@ We're innocent.
 MICHAEL PALIN:
 Ha! Ha! Ha! Ha! Ha!
 
-DIRECTION:
-SUPERIMPOSED CAPTION: 'DIABOLICAL LAUGHTER'
-
 TERRY JONES:
 We'll soon change your mind about that!
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'DIABOLICAL ACTING'
 
 MICHAEL PALIN:
 Fear, surprise, and a most ruthless...
 
-DIRECTION:
-controls himself with a supreme effort
-
 MICHAEL PALIN:
 ooooh! Now, Cardinal, the rack!
 
-DIRECTION:
-Biggles produces a plastic-coated dish-drying rack. Ximinez looks at it and clenches his teeth in an effort not to lose control. He hums heavily to cover his anger.
-
 MICHAEL PALIN:
 You....Right! Tie her down.
-
-DIRECTION:
-Fang and Biggles make a pathetic attempt to tie her on to the drying rack
 
 MICHAEL PALIN:
 Right! How do you plead?
@@ -169,23 +109,11 @@ Innocent.
 MICHAEL PALIN:
 Ha! Right! Cardinal, give the rack
 
-DIRECTION:
-oh dear
-
 MICHAEL PALIN:
 give the rack a turn.
 
-DIRECTION:
-Cardinal Biggles stands their awkwardly and shrugs.
-
 TERRY JONES:
 I....
-
-DIRECTION:
-gritting his teeth
-
-DIRECTION:
-know
 
 MICHAEL PALIN:
 . I know you can't. I didn't want to say anything. I just wanted to try and ignore your crass mistake.
@@ -202,9 +130,6 @@ Shall I, um...?
 MICHAEL PALIN:
 Oh, go on, just pretend for God's sake.
 
-DIRECTION:
-Biggles turns an imaginary handle on the side of the rack. The doorbell rings. Reg detaches himself from the scene and answers it. Outside there is a dapper BBC man with a suit and a beard, slightly arty.
-
 JOHN CLEESE:
 Ah, hello, you don't know me, but I'm from the BBC. We were wondering if you'd come and answer the door in a sketch over there, in that sort of direction... You wouldn't have to do anything - just open the door and that's it.
 
@@ -213,12 +138,6 @@ Oh, well all right, yes.
 
 JOHN CLEESE:
 Jolly good. Come this way.
-
-DIRECTION:
-Cut to film of them coming out of the front door of the house and walking to BBC van. Conversation is heard throughout (slightly faintly).
-
-DIRECTION:
-.
 
 JOHN CLEESE:
 Yes, we're on film at the moment you see.
@@ -229,23 +148,14 @@ It's a link, is it?
 JOHN CLEESE:
 Yes that's right, that sort of thing, yes, a link. It's all a bit zany - you know a bit madcap funster... frankly I don't fully understand it myself, the kids seem to like it. I much prefer Des O'Connor ... Rolf Harris ... Tom Jones, you know...
 
-DIRECTION:
-They get into the van. It drives off. They pass an AA sign saying 'To the Sketch'. Panning shot of them, in which we see them convening and hear...
-
 GRAHAM CHAPMAN:
 You do a lot of this sort of thing, do you?
 
 JOHN CLEESE:
 Quite a lot yes, quite a lot. I'm mainly in comedy. I'd like to be in Programming Planning actually, but unfortunately I've got a degree.
 
-DIRECTION:
-They arrive outside a suburban house, where the novelty salesman, Mr Johnson, is already waiting outside the front door. BBC man points and gives Reg direction. Reg goes to the door saying: 'Excuse me' and goes in, closing the front door. The novelty man rings bell. Reg opens the door.
-
 ERIC IDLE:
 Joke, sir? Guaranteed amusing. As used by the crowned heads of Europe. Has brought tears to the eyes of Royalty. 'Denmark has never laughed so much' - 'The Stage'. Nice little novelty number - 'a naughty Humphrey' - breaks the ice at parties. Put it on the table. Press the button. It vomits. Absolutely guaranteed. With refills. 'Black soap' - leave it in the bathroom, they wash their hands, real fungus grows on the fingers. Can't get it off for hours. Guaranteed to break the ice at parties. Frighten the elderly - real snakes. Comedy hernia kit. Plastic flesh wounds - just keep your friends in stitches. Guaranteed to break the ice at parties. Hours of fun with 'honeymoon delight' - empty it into their beds - real skunk juice. They won't forget
-
-DIRECTION:
-their
 
 ERIC IDLE:
 wedding night. Sticks to the skin, absolutely waterproof, guaranteed to break the ice at parties. Amuse your friends - CS gas canisters - smells, tastes and acts just like the real thing - can blind, maim or kill. Or for drinks, why not buy a 'wicked willy' with a life-size winkle - serves warm beer. Makes real cocktails. Hours of amusement. Or get the new Pooh-Pooh machine. Embarrass your guests - completely authentic sound. Or why not try a new 'naughty nightie' - put it on and it melts - just watch their faces. Guaranteed to break the ice at naughty parties. Go on, go on.
@@ -268,17 +178,11 @@ I don't know it. They didn't say anything about a punchline.
 ERIC IDLE:
 Oh! Oh well in that case I'll be saying goodbye then, sir... Goodbye then, sir.
 
-DIRECTION:
-He turns and walks away. Reg looks around desperately. And then runs out of the door. He runs to BBC van as Johnson walks out of picture. Cut to cabin of BBC van with the BBC man sitting there.
-
 GRAHAM CHAPMAN:
 What's the punchline?
 
 JOHN CLEESE:
 Punchline? I don't think there's a punchline scheduled, is there? Where are we? A week 39.4 no, it's Friday, isn't it - 39.7. Oh ... here we are. Oh!
-
-DIRECTION:
-laughs
 
 JOHN CLEESE:
 Ha, ha, ha, very good. Ha, ha, ha, very good. What a good punchline. Pity we missed that. Still, never mind, we can always do it again. Make a series out of it. Now if you'll just sign there, I'll put this through to our contracts department and you should be hearing from them in a year or two.
@@ -291,18 +195,6 @@ Ah - can do. But won't. We were wondering if we could possibly borrow your head 
 
 JOHN CLEESE:
 Oh jolly good. Thanks very much. You will get expenses.
-
-DIRECTION:
-BBC staff set on Reg and saw his head off.
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-Reg's head starts off by being thrown into picture.
-
-DIRECTION:
-Animation leads to an oak panelled, Civil Service committee room. A politician is addressing three officals.
 
 JOHN CLEESE:
 Gentlemen, our MP saw the PM this AM and the PM wants more LSD from the PIB by tomorrow AM or PM at the latest. I told the PM's PPS that AM was NBG so tomorrow PM it is for the PM nem. con. Give us a fag or I'll go spare. Now, the fiscal deficit with regard to the monetary balance, the current financial year excluding invisible exports, but adjusted of course for seasonal variations and the incremental statistics of the fiscal and revenue arrangements for the forthcoming annual budgetary period terminating in April.
@@ -342,9 +234,6 @@ No.
 
 GRAHAM CHAPMAN:
 Thank God for that. Excuse me for a moment.
-
-DIRECTION:
-leaves
 
 TERRY JONES:
 No, no, no - thingy.

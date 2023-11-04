@@ -1,32 +1,11 @@
-DIRECTION:
-Cut to a doctor's surgery. It has a wall shrine with a photo of Christiaan Barnard with flowers and candles in front of it. The doctor is talking to an embarrassed-looking man.
-
 GRAHAM CHAPMAN:
 Well, Mr Cotton, you have what we in the medical profession call a naughty complaint. My advice to you is to put this paper bag over your head - it has little holes there for your eyes, you see - and to ring this bell, and to take this card along to your hospital.
-
-DIRECTION:
-he hands him card three feet long which reads 'For Special Treatment'
-
-DIRECTION:
-the man hands him over wad of fivers
-
-DIRECTION:
-the man gets up to go
-
-DIRECTION:
-he picks up big text book entitled 'Medical Practice' and flicks through the pages
 
 GRAHAM CHAPMAN:
 Hmm.,. hmm ... Hippocratic oath ... it's not in there ... jolly good. Very useful. Next!
 
-DIRECTION:
-An out-of-vision scream. A man staggers in clutching his bleeding stomach. Lots of blood pours out of him throughout the scene.
-
 GRAHAM CHAPMAN:
 Ah, yes you must be Mr Williams.
-
-DIRECTION:
-obviously fatally wounded
 
 TERRY JONES:
 Y... yes...
@@ -39,9 +18,6 @@ I've... I've just been stabbed by your nurse...
 
 GRAHAM CHAPMAN:
 Oh dear.... well I'd probably better have a look at you then. Could you fill in this form first?
-
-DIRECTION:
-he hands him a form
 
 TERRY JONES:
 She just stabbed me...
@@ -58,14 +34,8 @@ No, no. You'd have bled to death by then. Can you hold a pen?
 TERRY JONES:
 I'll try.
 
-DIRECTION:
-With great effort he releases one of his hands from his bleeding stomach.
-
 GRAHAM CHAPMAN:
 Yes, it's a hell of a nuisance all this damn paperwork, really it is...
-
-DIRECTION:
-he gets up and strolls around fairly unconcerned
 
 GRAHAM CHAPMAN:
 it's a real nightmare, this damned paperwork. It really is a hell of a nuisance. Something ought to be done about it.
@@ -76,9 +46,6 @@ Do I have to answer all the questions, doctor?
 GRAHAM CHAPMAN:
 No, no, no, just fill in as many as you can - no need to go into too much detail. I don't know why we bother with it all, really, it's such a nuisance. Well let's see how you've done, then...
 
-DIRECTION:
-Williams half collapses
-
 GRAHAM CHAPMAN:
 Oh dear oh dear... that's not very good, is it. Look, surely you knew number four!
 
@@ -87,9 +54,6 @@ No ... I didn't...
 
 GRAHAM CHAPMAN:
 It's from 'The Merchant of Venice' - even I know that!
-
-DIRECTION:
-bleeding profusely
 
 TERRY JONES:
 It's going on the carpet, doctor.
@@ -103,23 +67,14 @@ Ahgg... aghhh.
 GRAHAM CHAPMAN:
 And number nine - Emerson Fittipaldi!
 
-DIRECTION:
-gives Williams a look
-
 GRAHAM CHAPMAN:
 Virginia Wade? You must be mad!
-
-DIRECTION:
-The nurse enters with a smoking revolver.
 
 CAROL CLEVELAND:
 Oh doctor, I've just shot another patient. I don't think there's any point in your seeing him.
 
 GRAHAM CHAPMAN:
 You didn't
-
-DIRECTION:
-kill
 
 GRAHAM CHAPMAN:
 him, did you?
@@ -136,17 +91,11 @@ them, nurse.
 CAROL CLEVELAND:
 Oh, I'm sorry doctor. It was just on the spur of the moment. Rather silly really.
 
-DIRECTION:
-She exits, taking a sword from the wall. Through the next bit of the scene we hear screams off.
-
 TERRY JONES:
 I'm sorry about the carpet, doctor.
 
 GRAHAM CHAPMAN:
 Mr Williams, I'm afraid I can't give you any marks, so I won't be able to recommend you for hospital. Tell you what - I'll stop the bleeding - but strictly speaking I shouldn't even do that on marks like these...
-
-DIRECTION:
-The nurse enters covered in blood.
 
 CAROL CLEVELAND:
 There are no more patients now, doctor.
@@ -156,9 +105,6 @@ Oh well, let's go and have lunch, then.
 
 CAROL CLEVELAND:
 What about... er...
-
-DIRECTION:
-she points to Williams who is lying on the floor gurgling by this time
 
 GRAHAM CHAPMAN:
 Ah yes - look, Mr Williams we're just popping out for a bite of lunch while we've got a spare moment, you know. Look, have another bash at the form... and if at least you can answer the question on history right, then we may be able to give you some morphine or something like that, OK?

@@ -1,74 +1,26 @@
-DIRECTION:
-Cut to stock film of train wheels in the night. The siren sounds. Superimposed names zoom into camera, as in a musical: Petrograd, Ottograd, Lewgrad, Lesliegrad, Etceteragrad, Dukhovskoknabilebskohatsk, Moscva. Cut to the stage of a big Russian hall. A banner across the top of the stage reads 'Russian 42nd International Clambake'. At the back of the stage sits Pither with his bicycle. At one side of the stage, at an impressive table on a dais, are some very important Russian persons including generals. One of the generals addresses the audience.
-
-DIRECTION:
-General
-
 JOHN CLEESE:
 ...Dostoievye useye tovarich trotsky borodina
-
-DIRECTION:
-etc.
-
-DIRECTION:
-SUBTITLE: 'THIS IS THE MAN WHO BROUGHT OUR BELOVED TROTSKY BACK TO US'
 
 JOHN CLEESE:
 Beluntanks dretsky mihai ovna isky Mr Reg Pither.
 
-DIRECTION:
-SUBTITLE: 'FIRST MAY I PRESENT MR PITHER FROM WEST OF ENGLAND'
-
-DIRECTION:
-Pandemonium lasting for about ten seconds.
-
 JOHN CLEESE:
 Shi muska di scensand dravenka oblomov Engleska Solzhenitzhin.
-
-DIRECTION:
-SUBTITLE: 'FORGIVE ME IF I CONTINUE IN ENGLISH IN ORDER TO SAVE TIME'
 
 JOHN CLEESE:
 And now, Comrades, the greatest moment of the day, the moment when I ask you to welcome the return of one of Russia's greatest heroes, creator of the Red Army, Lenin's greatest friend, Lev Davidovich Trotsky!
 
-DIRECTION:
-Gulliver appears looking as much like Trotsky as possible. He wears a uniform and has a beard and glasses. Pandemonium breaks out. He eventually quietens them by raising his hands for silence.
-
 TERRY JONES:
 Comrades. Bolsheviks. Friends of the Revolution. I have returned.
-
-DIRECTION:
-renewed cheering
-
-DIRECTION:
-his movements are becoming a little camp and slinky
-
-DIRECTION:
-sings
-
-DIRECTION:
-a certain amount of confusion is spreading among the audience and particulary the general on the podium
 
 TERRY JONES:
 I want an old-fashioned house with an old-fashioned fence, and an old-fashioned millionaire.
 
-DIRECTION:
-From now on Gulliver continues exactly as Eartha Kitt. He has aquired a fur stole which he manipulates slinkily. The confusion is complete on the stage.
-
-DIRECTION:
-voice over
-
 MICHAEL PALIN:
 Our friend Mr Gulliver was clearly undergoing another change of personality.
 
-DIRECTION:
-A senior general appears beside Pither with two guards.
-
 JOHN CLEESE:
 So! You have duped us. You shall pay for this. Guards, seize him.
-
-DIRECTION:
-The guards seize the startled Pither and drag him away. The senior general strides back across the stage avoiding Gulliver, towards the general who addressed the audience.
 
 JOHN CLEESE:
 Shall I seize him too?
@@ -82,18 +34,6 @@ He's more fun than he used to be.
 GRAHAM CHAPMAN:
 He's loosened up a lot. This is an old Lenin number.
 
-DIRECTION:
-Cut to Pither sitting in a cell.
-
-DIRECTION:
-two Russian guards throw the cell door open
-
-DIRECTION:
-they grab him and march him out of cell
-
-DIRECTION:
-Cut to exterior of a door leading out into prison yard. The door is thrown open and Pither is marched over and stood against a blank wall. There are lots of small holes in the wall.
-
 MICHAEL PALIN:
 What a pleasant exercise yard. How friendly they were all being.
 
@@ -103,62 +43,26 @@ Cigarettes?
 MICHAEL PALIN:
 Oh, no thank you I don't smoke.
 
-DIRECTION:
-Pither facing a line of uniformed men with guns, obviously a firing squad.
-
-DIRECTION:
-cut to Pither against the wall looking behind him
-
 MICHAEL PALIN:
 I looked around but could not see the target.
 
 JOHN CLEESE:
 Blindfold?
 
-DIRECTION:
-very cheerful
-
 MICHAEL PALIN:
 No thank you, no.
-
-DIRECTION:
-stepping clear
-
-DIRECTION:
-the firing squad snaps to attention
-
-DIRECTION:
-they raise their rifles
 
 JOHN CLEESE:
 Verschnitzen.
 
-DIRECTION:
-Drum roll. The firing squad takes aim. A messenger runs frantically up.
-
 GRAHAM CHAPMAN:
 Nyet! Nyet! Nyet!
-
-DIRECTION:
-he hands the officer a paper
 
 JOHN CLEESE:
 A telegram?
 
-DIRECTION:
-examines it
-
-DIRECTION:
-The squad raise their rifles
-
 MICHAEL PALIN:
 Now I was really for it.
-
-DIRECTION:
-Cut to shot of officer with his hand raised. The same as before, only without Pither in shot. Drum rolls again. He brings his sword down. Volley of shots from the firing squad. The officer is looking in Pither's direction. Long pause.
-
-DIRECTION:
-to soldiers
 
 JOHN CLEESE:
 How could you miss?
@@ -169,35 +73,20 @@ He moved.
 JOHN CLEESE:
 Shut up! Go and practise.
 
-DIRECTION:
-to Pither
-
 JOHN CLEESE:
 I'm so sorry. Do you mind waiting in your cell?
-
-DIRECTION:
-Pither is flung back in his cell by the guards, and the door slammed.
 
 MICHAEL PALIN:
 What a stroke of luck. My Crunchie was totally intact. I settled down to a quick intermeal snack...
 
-DIRECTION:
-But he is bundled out again. Pause. Shots. He si bundled in. The officer appears at door.
-
 JOHN CLEESE:
 Next time. Definitely!
-
-DIRECTION:
-to aide
 
 JOHN CLEESE:
 Now then, how many of them have been injured? Oh God...
 
 MICHAEL PALIN:
 As I lay dwon to the sound of the Russian gentlemen practising their shooting, I realised I was in a bit of a pickle. My heart sank as I realised I should never see the Okehampton by-pass again...
-
-DIRECTION:
-Mix to Pither's sleeping face, waking up, shaking himself in disbelief at finding himself in a beautiful garden, with the sun shining, the birds singing. He is in a deckchair, and his mother, having poured him a jug of iced fruit juice, is gently nudging Pither to wake him.
 
 ERIC IDLE:
 Come on, dear. Wake up dear.
@@ -214,14 +103,8 @@ So, it was all a dream.
 ERIC IDLE:
 No dear,
 
-DIRECTION:
-this
-
 ERIC IDLE:
 is the dream, you're still in the cell.
-
-DIRECTION:
-Mix to Pither waking up in the cell. The officer enters carrying a rifle.
 
 JOHN CLEESE:
 OK, we're going to have another try. I think we've got it now. My boys have been looking down the wrong bit, you see.
@@ -238,71 +121,29 @@ No, no, you've got to look down that bit, or you won't hit anything.
 JOHN CLEESE:
 Alright, we'll give it a whirl. Guards, seize him.
 
-DIRECTION:
-they take him out
-
-DIRECTION:
-as he leaves
-
 JOHN CLEESE:
 Listen. You've got to look down this bit.
-
-DIRECTION:
-As they leave, we can see on the wall of the cell a poster, saying: 'Saturday Night at the Moscow Praesidium, starring Eartha Kitt, with Burgess and Maclean. "A Song a Dance and a Piece of Treachery". Marshal Bulganin and "Charlie", Peter Cook, Dudley Moore, Leningrad has never laughed so much.'
-
-DIRECTION:
-Mix through to stock film of the Kremlin. Dubber over laughter and applause. A cheerful band sing. Mix through to stage where someone dressed as Marshall Bulganin, is standing with a little real ventriloquist's dummy. He gets up, takes his bow and walks off as the curtain swings down. Lots of applause and atmosphere. Terrible Russian compère comes on smiling and applauding.
 
 ERIC IDLE:
 Osledi Osledi.
 
-DIRECTION:
-He tells a quick joke in Russian, and roars with laughter. Laughter from audience. He holds up his hands and then becomes very sincere, saying obviously deeply moving, wonderful things about the next guest, whom he finally introduces.
-
 ERIC IDLE:
 Eartha Kitt!
-
-DIRECTION:
-Gulliver comes on-stage in the full Eartha Kitt rig - white fur stole, slit skirt and jewellery. He mimes to the voice of Edward Heath.
-
-DIRECTION:
-Trade Union leaders - I would say this - we've done our part. Now, on behalf of the community, we have a right to expect you, the Trade Union leaders, to do yours.
-
-DIRECTION:
-etc.
-
-DIRECTION:
-Unrest in the audience as they recognize him. They start shouting 'sing "Old-Fashioned Girl"' and throwing vegetables. Slow motion shot of a tomato hitting Gulliver. He is seen to be holding a turnip.
 
 TERRY JONES:
 That turnip's certainly not safe.
 
-DIRECTION:
-looking round and seeing where he is
-
 TERRY JONES:
 Oh no! Mr Pither! Mr Pither!
 
-DIRECTION:
-He runs off-stage, pursued by the guards. Cut to the stage-door of the hall. A sign on the door says 'Next week Clodagh Rogers'. Gulliver out, and then through the streets, hotly pursued by soldiers and secret service men, firing after him.
-
-DIRECTION:
-calling
-
 TERRY JONES:
 Mr Pither! Mr Pither!
-
-DIRECTION:
-He is seen running through a dockyard. Finally he stops by a high stone wall.
 
 TERRY JONES:
 Mr Pither!
 
 MICHAEL PALIN:
 Here!
-
-DIRECTION:
-Gulliver looks round and then rapidly climbs up and over the wall. He drops down to find Pither standing on the other side.
 
 MICHAEL PALIN:
 Gulliver.
@@ -313,45 +154,9 @@ Pither! What a stroke of luck.
 MICHAEL PALIN:
 Well yes and no.
 
-DIRECTION:
-He indicates with his head. Cut to show that both of them are standing in front of a firing squad. The officer is heard as before. The squard runs towards them with fixed bayonets.
-
-DIRECTION:
-CAPTION: 'SCENE MISSING'
-
-DIRECTION:
-Cut to Cornish country lane. A road sign says 'Tavistock 12 miles'. Pither stands beneath with Gulliver and his bicycle.
-
 MICHAEL PALIN:
 Phew, what an amazing escape. Well goodbye, Reginald.
 
 TERRY JONES:
 Goodbye, Mr Pither, and good luck with the tour!
-
-DIRECTION:
-They shake hands. Gulliver strides off. Pither mounts his bike and rides off into the sunset. Music swells. Roll credits. Cut to a field with hedgerow behind. The first animated monster peeks over the hedge.
-
-DIRECTION:
-Hey, I think he's finally gone!
-
-DIRECTION:
-Second monster appears.
-
-DIRECTION:
-Ooh yes!
-
-DIRECTION:
-They hop over the fence into the field.
-
-DIRECTION:
-Ready, Maurice?
-
-DIRECTION:
-Right-ho, Kevin. Let's go.
-
-DIRECTION:
-All right, maestro, hit it!
-
-DIRECTION:
-We hear Clodagh Rogers singing 'Jack in a Box'. The two monsters jump up and down enthusiastically if not gracefully. Fade out.
 

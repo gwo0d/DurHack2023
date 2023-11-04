@@ -1,9 +1,3 @@
-DIRECTION:
-CAPTION: 'SOMEWHERE IN ENGLAND, 1944'
-
-DIRECTION:
-The squadron leader enters an RAF officers' mess and takes off his helmet.
-
 TERRY JONES:
 Morning, Squadron Leader.
 
@@ -28,20 +22,11 @@ No, I'm just not understanding banter at all well today. Give us it slower.
 ERIC IDLE:
 Banter's not the
 
-DIRECTION:
-same
-
 ERIC IDLE:
 if you say it slower, Squiffy.
 
 TERRY JONES:
 Hold on then.
-
-DIRECTION:
-shouts
-
-DIRECTION:
-Wingco
 
 GRAHAM CHAPMAN:
 Yes!
@@ -58,15 +43,6 @@ Jolly good.
 GRAHAM CHAPMAN:
 Fire away.
 
-DIRECTION:
-draws a deep breath and looks slightly uncertain, then starts even more deliberately than before
-
-DIRECTION:
-can
-
-DIRECTION:
-Bertie
-
 ERIC IDLE:
 ...
 
@@ -76,14 +52,8 @@ GRAHAM CHAPMAN:
 ERIC IDLE:
 Something up with my banter, chaps?
 
-DIRECTION:
-A siren goes. The door bursts open and an out-of-breath young pilot rushes in in his flying gear.
-
 MICHAEL PALIN:
 Bunch of monkeys on the ceiling, sir! Grab your egg and fours and let's get the bacon delivered!
-
-DIRECTION:
-General incomprehension. They look at each other.
 
 GRAHAM CHAPMAN:
 Do you understand that?
@@ -97,9 +67,6 @@ Sorry old man, we don't understand your banter.
 MICHAEL PALIN:
 You know...bally ten-penny ones dropping in the custard...
 
-DIRECTION:
-searching for words
-
 MICHAEL PALIN:
 un...Charlie Choppers chucking a handful...
 
@@ -111,9 +78,6 @@ Say it a bit slower, old chap.
 
 MICHAEL PALIN:
 Slower
-
-DIRECTION:
-banter
 
 MICHAEL PALIN:
 , sir?
@@ -132,12 +96,6 @@ Um...cabbage crates coming over the briny?
 
 ERIC IDLE:
 No.
-
-DIRECTION:
-No, no....
-
-DIRECTION:
-Stock film of a German bombing raid.
 
 ERIC IDLE:
 But by then it was too late. The first cabbage crates hit London on July the 7th. That was just the beginning.

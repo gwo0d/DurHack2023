@@ -1,11 +1,5 @@
-DIRECTION:
-Cut back to shop, the robber walks in and points gun at the assistant.
-
 JOHN CLEESE:
 Good morning, I am a bank robber. Er, please don't panic, just hand over all your money.
-
-DIRECTION:
-politely
 
 ERIC IDLE:
 This is a lingerie shop, sir.
@@ -13,14 +7,8 @@ This is a lingerie shop, sir.
 JOHN CLEESE:
 Fine, fine, fine.
 
-DIRECTION:
-slightly nonplussed
-
 JOHN CLEESE:
 Adopt, adapt and improve. Motto of the round table. Well, um ... what have you got?
-
-DIRECTION:
-still politely
 
 ERIC IDLE:
 Er, we've got corsets, stockings, suspender belts, tights, bras, slips, petticoats, knickers, socks and garters, sir.

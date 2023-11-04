@@ -1,38 +1,14 @@
 ERIC IDLE:
 And now a choice of viewing on BBC Television.
 
-DIRECTION:
-cut to BBC world symbol
-
 ERIC IDLE:
 Just started on BBC2, the semi final of Episode 3 of 'Kierkegaard's Journals', staring Richard Chamberlain, Peggy Mount and Billy Bremner, and on BBC1, 'Ethel the Frog'
-
-DIRECTION:
-Stirring music - 'This Week' type.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'ETHEL THE FROG'
-
-DIRECTION:
-Cut to Presenter at desk in usual grey suit and floral tie.
 
 JOHN CLEESE:
 Good evening. On 'Ethel the Frog' tonight we look at violence. The violence of British Gangland. Last Tuesday a reign of terror was ended when the notorious Piranha brothers, Doug and Dinsdale
 
-DIRECTION:
-photo of same
-
-DIRECTION:
-photo of Eastend grotty house
-
-DIRECTION:
-old wedding photo
-
 JOHN CLEESE:
 an up-and-coming Eastend boxer. Doug was bornin February 1929 and Dinsdale two weeks later; and again a week after that. Their next door neighbour was Mrs April Simnel.
-
-DIRECTION:
-Exterior in street; interviewer and Mrs Simnel. Line of gas men behind.
 
 MICHAEL PALIN:
 Kipling Road was a typical sort of Eastend street, people were in and out of each other's houses with each other's property all day. They were a cheery lot.
@@ -40,50 +16,23 @@ Kipling Road was a typical sort of Eastend street, people were in and out of eac
 ERIC IDLE:
 Was it a terribly violent area?
 
-DIRECTION:
-laughs deprecatingly
-
 MICHAEL PALIN:
 Oh ho......yes. Cheerful and violent. I remember Doug was very keen on boxing, until he learned to walk, then he took up putting the boot in the groin. Oh he was very interested in that. His mother had such trouble getting him to come in for his tea. He'd be out there putting his little boot in, you know, bless him. You know kids were very different then. They didn't have their heads filled with all this Cartesian dualism.
-
-DIRECTION:
-Cut to scool playground.
 
 JOHN CLEESE:
 At the age of fifteen Doug and Dinsdale started attending the Ernest Pythagoras Primary School in Clerkenwell.
 
-DIRECTION:
-Pan to show Anthony Viney and interviewer with stick mike.
-
 TERRY JONES:
 Anthony Viney. You taught the Piranha brothers English. What do you remember most about them?
-
-DIRECTION:
-He fails to point stick mike at Viney (graham) who answers. However, when the interviewer poses the next question he points the stick mike to Viney as he does so. This continues, with the mike always pointing to the one who is not talking while Viney relates a fascinating tale complete with large riveting gestures.
 
 TERRY JONES:
 ...Anthoney Viney.
 
-DIRECTION:
-Cut to presenter.
-
 JOHN CLEESE:
 When the Piranhas left school they were called up but were found by an Army Board to be too unstable even for National Service. Denied the opportunity to use their talents in the service of their country, they began to operate what they called 'The Operation'. They would select a victim and then threaten to beat him up if he paid the so-called protection money. Four months later they started another operation which the called 'The Other Operation'. In this racket they selected another victim and threatened
 
-DIRECTION:
-not
-
-DIRECTION:
-didn't
-
 JOHN CLEESE:
 pay them. One month later they hit upon 'The Other Other Operation'. In this the victim was threatened that if he didn't pay them, they would beat him up. This for the Piranha brothers was the turning point.
-
-DIRECTION:
-Cut to Superintendent Organs
-
-DIRECTION:
-SUBTITLE: 'HARRY "SNAPPER" ORGANS'
 
 TERRY JONES:
 Doug and Dinsdale Piranha now formed a gang, which the called 'The Gang' and used terror to take over night clubs, billiard halls, gaming casinos and race tracks. When they tried to take over the MCC they were for the only time in their lives, slit up a treat. As their empire spread however, we in Q Division were keeping tabs on their every move by reading the colour supplements.
@@ -91,14 +40,8 @@ Doug and Dinsdale Piranha now formed a gang, which the called 'The Gang' and use
 JOHN CLEESE:
 A small-time operator who fell foul of Dinsdale Piranha was Vince Snetterton-Lewis.
 
-DIRECTION:
-Cut to Vince in a chair in a nasty flat.
-
 GRAHAM CHAPMAN:
 Well one day I was sitting at home threatening the kids, and I looked out of the hole in the wall and sees this tank drive up and one of Dinsdale's boys gets out and he comes up, all nice and friendly like, and says Dinsdale wants to have a talk with me. So he chains me to the back of the tank and takes me for a scrape round to Dinsdale's. And Dinsdale's there in the conversation pit with Doug and Charles Paisley, the baby crusher, and a couple of film producers and a man they called 'Kierkegaard', who just sat there biting the heads of whippets and Dinsdale sayd 'I hear you've been a naughty boy Clement' and he splits me nostrils open and saws me leg off and pulls me liver out, and I said my name's not Clement and then he loses his temper and nails my head to the floor.
-
-DIRECTION:
-off-screen
 
 TERRY JONES:
 He nailed your head to the floor?
@@ -108,9 +51,6 @@ At first, yeah
 
 JOHN CLEESE:
 Another man who had his head nailed to the floor was Stig O' Tracey.
-
-DIRECTION:
-Cut to another younger more cheerful man on sofa.
 
 TERRY JONES:
 Stig, I've been told Dinsdale Piranha nailed your head to the floor.
@@ -145,17 +85,11 @@ A grudge! Old Dinsy? He was a real darling.
 TERRY JONES:
 I understand he also nailed your wife's head to a coffee table. Isn't that right Mrs O' Tracey?
 
-DIRECTION:
-Camera pans to show woman with coffee table nailed to head.
-
 GRAHAM CHAPMAN:
 Oh, no. No. No.
 
 ERIC IDLE:
 Yeah, well, he did do that. Yeah, yeah. He was a cruel man, but fair
-
-DIRECTION:
-Cut back to Vince.
 
 TERRY JONES:
 Vince, after he nailed your head to the floor, did you ever see him again
@@ -169,35 +103,14 @@ Every Sunday?
 GRAHAM CHAPMAN:
 Yeah but he was very reasonable about it. I mean one Sunday when my parents were coming round for tea, I asked him if he'd mind very much not nailing my head to the floor that week and he agreed and just screwed my pelvis to a cake stand.
 
-DIRECTION:
-Cut to man affixed to a coffee table and a standard lamp.
-
 TERRY JONES:
 He was the only friend I ever had.
-
-DIRECTION:
-Cut to block of concrete with a man upside down with his head buried in it.
-
-DIRECTION:
-I wouldn't head a word against him.
-
-DIRECTION:
-Cut to a gravestone, which says: 'R.I.P. and Good Luck, Dinsdale'.
-
-DIRECTION:
-Lovely fella.
 
 JOHN CLEESE:
 Clearly Dinsdale inspired tremendous loyalty and terror amongst his business associates, but what was he really like?
 
-DIRECTION:
-Cut to a bar.
-
 JOHN CLEESE:
 I walked out with Dinsdale on many occasions and found him a most charming and erudite companion. He was wont to introduce one to eminent persons, celebrated American singers, members of the aristocracy and other gang leaders.
-
-DIRECTION:
-off screen
 
 ERIC IDLE:
 How had he met them?
@@ -217,23 +130,11 @@ How big was Norman supposed to be?
 JOHN CLEESE:
 Normally he was wont to be about twelve feet from nose to tail, but when Dinsdale was
 
-DIRECTION:
-very
-
 JOHN CLEESE:
 depressed Norman could be anything up to eight hundred yards long. When Norman was about, Dinsdale would go very quiet and his nose would swell up and his teeth would start moving about and he'd become very violent and claim that he'd laid Stanley Baldwin. Dinsdale was a gentleman. And what's more he knew how to treat a female impersonator.
 
-DIRECTION:
-Cut to dark-suited loony in armchair.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'A CRIMINOLOGIST'
-
 GRAHAM CHAPMAN:
 It is easy for us to judge Dinsdale Piranha too harshly. After all he only did what many of us simply dream of doing...
-
-DIRECTION:
-tic...controls himself
 
 GRAHAM CHAPMAN:
 I'm sorry. After all a murderer is only an extroverted suicide. Dinsdale was a looney, but he was a happy looney. Lucky bastard.
@@ -241,26 +142,8 @@ I'm sorry. After all a murderer is only an extroverted suicide. Dinsdale was a l
 JOHN CLEESE:
 Most of the strange tales concern Dinsdale, but what about Doug? One man who met him was Luigi Vercotti.
 
-DIRECTION:
-Cut to tatty office with desk and phone. Vercotti at deak.
-
 MICHAEL PALIN:
 Well, I had been running a successful escort agency - high class, no really, high class girls - we didn't have any of that. That was right out. And I decided.
-
-DIRECTION:
-phone rings on desk
-
-DIRECTION:
-he answers it
-
-DIRECTION:
-watch
-
-DIRECTION:
-Chinese watch
-
-DIRECTION:
-he replaces reciever
 
 MICHAEL PALIN:
 Anyway I decided then to open a high-class night club for the gentry at Biggleswade with International cuisine, cooking, top-line acts, and not a cheap clip joint for picking up tarts, that was right out, I deny that completely, and one night Dinsdale walked in with a couple of big lads, one of whom was carrying a tactical nuclear missile. They said I'd bought one of their fruit machines and would I pay for it.
@@ -283,9 +166,6 @@ Doug?
 MICHAEL PALIN:
 Doug
 
-DIRECTION:
-takes a drink
-
 MICHAEL PALIN:
 I was terrified of him. Everyone was terrified of Doug. I've seen grown men pull their own heads off rather than see Doug. Even Dinsdale was frightened of Doug.
 
@@ -295,17 +175,8 @@ What did he do?
 MICHAEL PALIN:
 He used sarcasm. He knew all the tricks, dramatic irony, metaphor, bathos, puns, parody, litotes and satire.
 
-DIRECTION:
-Cut to map.
-
-DIRECTION:
-voice over
-
 JOHN CLEESE:
 By a combination of violence and sarcasm, the Piranha brothers by February 1966 controlled London and the South East. In February, though, Dinsdale made a big mistake.
-
-DIRECTION:
-Cut back to bar and Gloria
 
 JOHN CLEESE:
 Latterly Dinsdale had become increasingly worried about Spiny Norman. He had come to the conclusion that Norman slept in an aeroplane hangar at Luton Airport.
@@ -313,44 +184,17 @@ Latterly Dinsdale had become increasingly worried about Spiny Norman. He had com
 JOHN CLEESE:
 And so on February 22nd 1966, at Luton airport...
 
-DIRECTION:
-stock film of H-Bomb exploding
-
 JOHN CLEESE:
 Even the police began to sit up and take notice.
-
-DIRECTION:
-Cut to 'Snapper' Organs.
 
 TERRY JONES:
 The Piranhas realized they had gone too far and that the hunt was on. They went into hiding and I decided on a subtle approach, viz some form of disguise, as the old helmet and boots are a bit of a giveaway. Luckily my years with Bristol Rep. stood me in good stead, as I assumed a bewildering variety of disguises. I tracked them to Cardiff, posing as the Reverend Smiler Egret. Hearing they'd gone back to London, I assumed the identity of a pork butcher, Brian Stoats.
 
-DIRECTION:
-photo of Organs disguised as a butcher
-
-DIRECTION:
-photo of Organs as Gloucester
-
-DIRECTION:
-photo of Ratty
-
-DIRECTION:
-photo
-
 TERRY JONES:
 in 'Man of la Mancha' which the 'Bristol Evening Post' described as 'a glittering performance of rare perception', although the 'Bath Chronicle' was less than enthusiastic. In fact it gave me a right panning. I quote...
 
-DIRECTION:
-Cut to press cutting, shich reads:
-
 ERIC IDLE:
 'As for the performance of Superintendent Harry "Snapper" Organs as Sancho Panza, the audience were bemused by his high-pitched Welsh accent and intimidated by his abusive ad-libs.'
-
-DIRECTION:
-Cut to letterhead of newspaper - 'The Western Daily News'.
-
-DIRECTION:
-off screen
 
 TERRY JONES:
 'The 'Western Daily News' said......
@@ -358,29 +202,17 @@ TERRY JONES:
 JOHN CLEESE:
 'Sancho Panza (Mr Organs) spoilt an otherwise impeccably choreographed rape scene by his unscheduled appearance and persistent cries of "What's all this then?".'
 
-DIRECTION:
-Cut to back-stage-type dressing-room, with make-up mirrors.
-
 GRAHAM CHAPMAN:
 Never mind, Snapper, love, you can't win 'em all
 
 TERRY JONES:
 True constable. Could I have my eye-liner please?
 
-DIRECTION:
-Telegram for you, love.
-
 TERRY JONES:
 Good-oh. Bet it's from Binkie.
 
-DIRECTION:
-Those flowers are for Sergant Lauderdale - from the gentleman waiting outside
-
 TERRY JONES:
 Oh good
-
-DIRECTION:
-Knock, knock. Head comes round the door.
 
 TERRY JONES:
 Thirty seconds, superintendent.
@@ -400,30 +232,6 @@ Oh, merde, superintendent.
 TERRY JONES:
 Good luck, then.
 
-DIRECTION:
-Cut to exterior of Police Station. They come down the stairs and walk off along pavement. The city gent passes them doing his silly walk. Cut to a little newspaper seller
-
-DIRECTION:
-Read all about it. Piranha brothers escape.
-
-DIRECTION:
-Cut to suburban street: it completely clears very fast. Freeze frame on empty street. An enormous hedgehog higher that the houses comes into shot saying 'Dinsdale?'
-
-DIRECTION:
-Roll credits, behind which we see the enormous hedgehog appearing in various well-known London locations.
-
-DIRECTION:
-Dinsdale? Dinsdale? Dinsdale?
-
-DIRECTION:
-Cut to John in cage as in opening shot.
-
 JOHN CLEESE:
 Well, that's all for now and so until next week...
-
-DIRECTION:
-roars
-
-DIRECTION:
-Pan to next cage to show skeleton of 'It's' Man. Fade out.
 

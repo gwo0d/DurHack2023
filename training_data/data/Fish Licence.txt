@@ -1,14 +1,5 @@
-DIRECTION:
-The man walks out backwards, pasing Mr Praline as he enters. He looks at the man, puzzled, and then goes up to first of two grils which has a sign saying 'stamps and licences'.
-
 JOHN CLEESE:
 Excuse me, I would like to buy a fish license, please.
-
-DIRECTION:
-the man behind the counter points to next grille; to camera
-
-DIRECTION:
-he goes to next grille
 
 JOHN CLEESE:
 Hello, I would like to buy a fish licence, please.
@@ -24,9 +15,6 @@ How did you know my name was Eric?
 
 JOHN CLEESE:
 No no no, my
-
-DIRECTION:
-fish's
 
 JOHN CLEESE:
 name is Eric, Eric the fish. 'E's an 'alibut.
@@ -57,9 +45,6 @@ For a fish.
 
 MICHAEL PALIN:
 You
-
-DIRECTION:
-are
 
 MICHAEL PALIN:
 a loony.
@@ -142,14 +127,8 @@ There's nothing so odd about that: Kemal Ataturk had an entire menagerie, all ca
 MICHAEL PALIN:
 No he didn't!
 
-DIRECTION:
-takes book from pocket
-
 JOHN CLEESE:
 He did, he did, he did, he did and did. There you are. 'Kemal Ataturk, the Man' by E. W. Swanton with a foreword by Paul Anka, page 91, please.
-
-DIRECTION:
-referring to page 91
 
 MICHAEL PALIN:
 I owe you an apology, sir.
@@ -163,26 +142,11 @@ I promise you that there is no such thing. You don't need one.
 JOHN CLEESE:
 Then I would like a statement to that effect signed by the Lord Mayor.
 
-DIRECTION:
-Fanfare of trumpets. Mayor gorgeously dressed with dignitaries enters flanked by trumpeters.
-
 MICHAEL PALIN:
 You're in luck.
 
-DIRECTION:
-In long shot now. The Mayor, who is nine foot high, and dignitaries approach a startled Praline. Organ music below a reverent voice over:
-
 JOHN CLEESE:
 And now, there is the Mayor. Surely the third tallest mayor in Derby's history. And there are the Aldermen magnificently resplendent in their Aldermanic hose and just look at the power in those thighs. The New Zealanders are going to find it pretty tough going in the set pieces in the second half... So Dawn Palethorpe with one clear round on Sir Gerald... and now the Mayor has reached the Great Customer Mr Eric Praline.
-
-DIRECTION:
-the mayor takes a piece of Paper from the post office man
-
-DIRECTION:
-the mayor signs it and hands it to Praline
-
-DIRECTION:
-Praline looks very confused
 
 JOHN CLEESE:
 has finally gone spare and there is the going sparal look on the front of his head. And now the Aldermen are finishing their oranges and leaving the post office for the start of the second half.

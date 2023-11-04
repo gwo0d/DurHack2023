@@ -1,41 +1,20 @@
-DIRECTION:
-A reception desk in a sort of office building.
-
 RITA DAVIES:
 Yes, sir?
 
 MICHAEL PALIN:
 I'd like to have an argument please.
 
-DIRECTION:
-Certainly, sir. Have you been here before...?
-
 MICHAEL PALIN:
 No, this is my first time.
-
-DIRECTION:
-I see. Do you want to have the full argument, or were you thinking of taking a course?
 
 MICHAEL PALIN:
 Well, what would be the cost?
 
-DIRECTION:
-Yes, it's one pound for a five-minute argument, but only eight pounds for a course of ten.
-
 MICHAEL PALIN:
 Well, I think it's probably best if I start with the one and see how it goes from there. OK?
 
-DIRECTION:
-Fine. I'll see who's free at the moment ... Mr. Du-Bakey's free, but he's a little bit conciliatory ... yes, try Mr. Barnard - Room 12.
-
 MICHAEL PALIN:
 Thank you.
-
-DIRECTION:
-The man walks down a corridor. He opens door 12. There is a man at a desk.
-
-DIRECTION:
-shouting
 
 GRAHAM CHAPMAN:
 What do you want?
@@ -55,9 +34,6 @@ Shut your festering gob you tit! Your type makes me puke! You vacuous toffee-nos
 MICHAEL PALIN:
 Look! I came here for an argument.
 
-DIRECTION:
-calmly
-
 GRAHAM CHAPMAN:
 Oh! I'm sorry, this is abuse.
 
@@ -70,29 +46,14 @@ No, you want room 12A next door.
 MICHAEL PALIN:
 I see - sorry.
 
-DIRECTION:
-exits
-
 GRAHAM CHAPMAN:
 Not at all.
-
-DIRECTION:
-as he goes
 
 GRAHAM CHAPMAN:
 Stupid git.
 
-DIRECTION:
-Outside 12A. The man knocks on the door.
-
-DIRECTION:
-from within
-
 JOHN CLEESE:
 Come in.
-
-DIRECTION:
-The man enters the room. Mr Vibrating is sitting at a desk.
 
 MICHAEL PALIN:
 Is this the right room for an argument?
@@ -138,9 +99,6 @@ Oh ... Just a five-minute one.
 
 JOHN CLEESE:
 Fine
-
-DIRECTION:
-makes a note of it; the man sists down
 
 JOHN CLEESE:
 thank you. Anyway, I did.
@@ -232,9 +190,6 @@ Not at all.
 MICHAEL PALIN:
 Now look!
 
-DIRECTION:
-pressing the bell on his desk
-
 JOHN CLEESE:
 That's it. Good morning.
 
@@ -265,9 +220,6 @@ If you want me to go on arguing you'll have to pay for another five minutes.
 MICHAEL PALIN:
 But that was never five minutes just now ... oh Come on!
 
-DIRECTION:
-Vibrating looks round as though man was not there
-
 MICHAEL PALIN:
 This is ridiculous.
 
@@ -276,9 +228,6 @@ I'm very sorry, but I told you I'm not allowed to argue unless you've paid.
 
 MICHAEL PALIN:
 Oh. all right.
-
-DIRECTION:
-pays
 
 MICHAEL PALIN:
 There you are.
@@ -331,9 +280,6 @@ I've had enough of this.
 MICHAEL PALIN:
 Oh shut up!
 
-DIRECTION:
-he leaves and sees a door marked complaints; he goes in
-
 MICHAEL PALIN:
 I want to complain.
 
@@ -346,20 +292,11 @@ No, I want to complain about ...
 ERIC IDLE:
 If you complain nothing happens ... you might just as well not bother. My back hurts and ...
 
-DIRECTION:
-the man exits, walks down the corridor and enters a room
-
-DIRECTION:
-'Spreaders' who is just inside the door hits man on the head with a mallet
-
 MICHAEL PALIN:
 Ooh!
 
 TERRY JONES:
 No, no, no, hold your head like this, and then go 'waaagh'! Try it again.
-
-DIRECTION:
-he hits him again
 
 MICHAEL PALIN:
 Waaghh!
@@ -372,9 +309,6 @@ No!
 
 TERRY JONES:
 Now.
-
-DIRECTION:
-hits him
 
 MICHAEL PALIN:
 Waagh!
@@ -409,26 +343,14 @@ Oh I'm sorry, that's next door. It's being hit on the head lessons in here.
 MICHAEL PALIN:
 What a stupid concept.
 
-DIRECTION:
-Detective Inspector Fox enters
-
 GRAHAM CHAPMAN:
 Right. Hold it there.
-
-DIRECTION:
-What?
 
 GRAHAM CHAPMAN:
 Allow me to introduce myself. I'm Inspector Fox of the Light Entertainment Police, Comedy Division, Special Flying Squad.
 
-DIRECTION:
-Flying Fox of the Yard.
-
 GRAHAM CHAPMAN:
 Shut up!
-
-DIRECTION:
-he hits the man with a truncheon
 
 MICHAEL PALIN:
 Ooooh?
@@ -438,9 +360,6 @@ No, no, no - Waagh!
 
 GRAHAM CHAPMAN:
 And you.
-
-DIRECTION:
-he hits Spreaders
 
 TERRY JONES:
 Waagh!
@@ -460,9 +379,6 @@ The what?
 GRAHAM CHAPMAN:
 You are hereby charged that you did wilfully take part in a strange sketch, that is, a skit, spoof or humorous vignette of an unconventional nature with intent to cause grievous mental confusion to the Great British Public.
 
-DIRECTION:
-to camera
-
 GRAHAM CHAPMAN:
 Evening all.
 
@@ -472,17 +388,11 @@ It's a fair cop.
 GRAHAM CHAPMAN:
 And you tosh.
 
-DIRECTION:
-hits the man
-
 MICHAEL PALIN:
 WAAAGH!
 
 GRAHAM CHAPMAN:
 That's excellent! Right, come on down the Yard.
-
-DIRECTION:
-Another inspector arrives.
 
 ERIC IDLE:
 Hold it. Hold it. Allow me to introduce myself. I'm Inspector Thompson's Gazelle of the Programme Planning Police, Light Entertainment Division, Special Flying Squad.
@@ -493,17 +403,11 @@ Flying Thompson's Gazelle of the Yard!
 ERIC IDLE:
 Shut up!
 
-DIRECTION:
-he hits him
-
 GRAHAM CHAPMAN:
 Waaaagh!
 
 TERRY JONES:
 He's good.
-
-DIRECTION:
-hits Spreaders
 
 TERRY JONES:
 WAAGH!
@@ -511,27 +415,12 @@ WAAGH!
 MICHAEL PALIN:
 Rotten.
 
-DIRECTION:
-he gets hit
-
 ERIC IDLE:
 Good. Now I'm arrestin' this entire show on three counts: one, acts of self-conscious behaviour contrary to the 'Not in front of the children' Act, two, always saying 'It's so and so of the Yard' every time the fuzz arrives and, three, and this is the cruncher, offenses against the 'Getting out of sketches without using a proper punchline' Act, four, namely, simply ending every bleedin' sketch by just having a policeman come in and... wait a minute.
-
-DIRECTION:
-Another policeman enters.
 
 JOHN CLEESE:
 Hold it.
 
-DIRECTION:
-puts his hand on Inspector Thompson's Gazelle's shoulder
-
 ERIC IDLE:
 It's a fair cop.
-
-DIRECTION:
-A large hairy hand appears through the door and claps him on the shoulder.
-
-DIRECTION:
-CAPTION: 'THE END'
 

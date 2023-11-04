@@ -1,6 +1,3 @@
-DIRECTION:
-Fade out. Fade in on ordinary interview set. Interviewer sitting with man with large semitic polystyrene nose.
-
 MICHAEL PALIN:
 Good evening. I have with me in the studio tonight one of the country's leading skin specialists - Raymond Luxury Yacht.
 
@@ -9,9 +6,6 @@ That's not my name.
 
 MICHAEL PALIN:
 I'm sorry - Raymond Luxury
-
-DIRECTION:
-Yach-t
 
 MICHAEL PALIN:
 .
@@ -27,9 +21,6 @@ Ah, anti-semitism!
 
 MICHAEL PALIN:
 Not at all. It's not even a proper nose.
-
-DIRECTION:
-takes it off
 
 MICHAEL PALIN:
 It's polystyrene.

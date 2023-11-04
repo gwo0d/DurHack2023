@@ -1,11 +1,5 @@
-DIRECTION:
-Cut to a night school Teacher looking down out of classroom window. He crosses to a long wall blackboard with line of pigs drawn on near end. He crosses one off, walks along blackboard to other end which has written on it 'evening classes 7-8 p.m.'. He writes 'Italian' below this and turns to camera.
-
 TERRY JONES:
 Ah - good evening everyone, and welcome to the second of our Italian language classes, in which we'll be helping you brush up your Italian. Last week we started at the beginning, and we learnt the Italian for a 'spoon'. Now, I wonder how many of you can remember what it was?
-
-DIRECTION:
-Shout of 'Si! Si! Si!' from the class whom we see are all Italians.
 
 TERRY JONES:
 Not all at once ... sit down Mario. Giuseppe!
@@ -21,9 +15,6 @@ Grazie signor ... grazie di tutta la sua gentilezza.
 
 TERRY JONES:
 Well, now, this week we're going to learn some useful phrases to help us open a conversation with an Italian. Now first of all try telling him where you come from. For example, I would say: 'Sono Inglese di Gerrard's Cross', I am an Englishman from Gerrard's Cross. Shall we all try that together?
-
-DIRECTION:
-Sono Inglese di Gerrard's Cross.
 
 TERRY JONES:
 Not too bad, now let's try it with somebody else. Er... Mr... ?
@@ -61,14 +52,8 @@ Non conosgeve parliamente, signor devo me parlo sono Italiano di Napoli quando i
 TERRY JONES:
 I'm sorry ... I don't understand!
 
-DIRECTION:
-pointing to Francesco
-
 MICHAEL PALIN:
 My friend say 'Why must he say...'
-
-DIRECTION:
-Hand goes up at back of room and a Lederhosen Teutonic figure stands up.
 
 GRAHAM CHAPMAN:
 Bitte mein Herr. Was ist das Won für Mittelschmerz?
@@ -79,20 +64,11 @@ Ah! Helmut - you want the German classes.
 GRAHAM CHAPMAN:
 Oh ja! Danke schön.
 
-DIRECTION:
-he starts to leave
-
-DIRECTION:
-he leaves
-
 MICHAEL PALIN:
 My friend he say, 'Why must I say I am Italian from Napoli when he lives in Milan?'
 
 TERRY JONES:
 Ah, I... well, tell your friend ... if he lives in Milan he must say 'Sono Italiano di Milano...'
-
-DIRECTION:
-agitatedly, leaping to his feet
 
 ERIC IDLE:
 Eeeeeee! Milano è tanto meglio di Napoli. Milano è la citta la più bella di tutti ... nel mondo...
@@ -102,13 +78,4 @@ He say 'Milan is better than Napoli'.
 
 TERRY JONES:
 Oh, he shouldn't be saying that, we haven't done comparatives yet.
-
-DIRECTION:
-In the background everyone has started talking in agitated Italian. At this point a genuine mandolin-playing Italian secreted amongst the cast strikes up: 'Quando Caliente Del Sol...' or similar. The class is out of control by this time. The teacher helplessly tries to control then but eventually gives up and retreats to his desk and sits down. There is a loud pig squeal and he leaps up.
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-The Blackboard with the coloured pigs drawn on it, is reproduced on the first few frames of the animation film. A real hand comes into the picture and crosses off a third pig. Thereafter action follows the dictates of Señor Gilliam's wonderfully visual mind.
 

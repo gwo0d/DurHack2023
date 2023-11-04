@@ -1,17 +1,5 @@
-DIRECTION:
-... despite the union's recommendation that the strikers should accept the second and third clauses of the agreement arrived at last Thursday.
-
-DIRECTION:
-the National Anthem starts to play in the background and Reggie stands, continuing to read
-
-DIRECTION:
-A hospital: a sign above door says 'Intensive Care Unit'. A group of heavily bandaged patients with crutches, legs and arms in plaster, etc., struggle out and onto a courtyard.
-
 JOHN CLEESE:
 Get on parade! Come on! We haven't got all day, have we? Come on, come on, come on.
-
-DIRECTION:
-the patients painfully get themselves into line
 
 JOHN CLEESE:
 Hurry up ... right! Now, I know some hospitals where you get the patients lying around in bed. Sleeping, resting, recuperating, convalescing. Well, that's not the way we do things here, right! No, you won't be loafing about in bed wasting the doctors' time. You - you horrible little cripple. What's the matter with you?
@@ -22,14 +10,8 @@ Fractured tibia, sergeant.
 JOHN CLEESE:
 'Fractured tibia, sergeant'? 'Fractured tibia, sergeant'? Ooh. Proper little mummy's boy, aren't we? Well, I'll tell you something, my fine friend, if you fracture a tibia here you keep quiet about it! Look at him!
 
-DIRECTION:
-looks more closely
-
 JOHN CLEESE:
 He's broken both his arms and he don't go shouting about it, do he? No! 'Cos he's a man - he's a woman, you see, so don't come that broken tibia talk with me. Get on at the double. One, two, three, pick that crutch up, pick that crutch right up.
-
-DIRECTION:
-The patient hobbles off at the double and falls over.
 
 MICHAEL PALIN:
 Aaargh!
@@ -37,17 +19,8 @@ Aaargh!
 JOHN CLEESE:
 Right, squad, 'shun! Squad, right turn. Squad, by the left, quick limp! Come on, pick 'em up. Get some air in those wounds.
 
-DIRECTION:
-Cut to second doctor. He is smoking a cigar.
-
-DIRECTION:
-to camera
-
 ERIC IDLE:
 Here at St Pooves, we believe in ART - Active Recuperation Techniques. We try to help the patient understand that however ill he may be, he can still fulfill a useful role in society. Sun lounge please, Mr Griffiths.
-
-DIRECTION:
-Pull back to show doctor sitting in a wheelchair. A bandaged patient wheels him off.
 
 MICHAEL PALIN:
 I've got a triple fracture of the right leg, dislocated collar bone and multiple head injuries, so I do most of the heavy work, like helping the surgeon.
@@ -70,14 +43,8 @@ Do all the patients work?
 MICHAEL PALIN:
 No, no, the ones that are really ill do sport.
 
-DIRECTION:
-Cut to bandaged patients on a cross-country run.
-
 MICHAEL PALIN:
 Yes, one thing patients here dread are the runs.
-
-DIRECTION:
-The patients climb over a fence with much difficulty. One falls.
 
 ERIC IDLE:
 How are you feeling?
@@ -85,33 +52,18 @@ How are you feeling?
 GRAHAM CHAPMAN:
 Much better.
 
-DIRECTION:
-Shots of patients doing sporting acivities.
-
 MICHAEL PALIN:
 But patients are allowed visiting. And this week they're visiting an iron foundry at Swindon, which is crying out for unskilled labour.
 
-DIRECTION:
-'Dr Kildare' theme music; shot - doctors being manicured having shoes cleaned etc. by patients
-
 MICHAEL PALIN:
 But this isn't the only hospital where doctors' conditions are improving.
-
-DIRECTION:
-Sign on wall: 'St Nathan's Hospital For Young, Attractive Girls Who Aren't Particularly Ill'. Pan down to a doctor.
 
 TERRY
 JONES:
 Er, very little shortage of doctors here. We have over forty doctors per bed - er, patient. Oh, be honest. Bed.
 
-DIRECTION:
-Sign: 'St Gandalf's Hospital For Very Rich People Who Like Giving Doctors Lots Of Money'. Pull back to show another doctor.
-
 GRAHAM CHAPMAN:
 We've every facility here for dealing with people who are rich. We can deal with a blocked purse, we can drain private accounts and in the worst cases we can perform a total cashectomy, which is total removal of all moneys from the patient.
-
-DIRECTION:
-Sign: 'St Michael's Hospital For Linkmen'. Pan down to doctor.
 
 JOHN CLEESE:
 Well, here we try to help people who have to link sketches together. We try to stop them saying 'Have you ever wondered what it would be like if' and instead say something like um... er... 'And now the mountaineering sketch'.

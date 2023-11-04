@@ -1,35 +1,17 @@
-DIRECTION:
-voice over
-
 MICHAEL PALIN:
 After several days I succeeded in tracking down my friend Mr Gulliver on the outskirts of Smolensk.
-
-DIRECTION:
-Cut to military man. He has a large map of Europe and Russia and a stick with which he raps at the places.
 
 ERIC IDLE:
 Smolensk. 200 miles east of Minsk. 200 north of Kursk. 1500 miles west of Omsk.
 
-DIRECTION:
-Cut back to Pither and Gulliver.
-
 MICHAEL PALIN:
 Thank you.
-
-DIRECTION:
-They've stopped by a signpost that says 'Smolensk town centre 1/2, Tavistock 1612 miles'.
 
 MICHAEL PALIN:
 Anyway, as we were so far from home, and as Mr Gulliver, still believing himself to be Trotsky, was very tired from haranguing the masses all the way from Monte Carlo,
 
-DIRECTION:
-Cut to military man who thumps the map again.
-
 ERIC IDLE:
 Monte Carlo. 100 miles south of Turin. 100 east of Pisa. 500 miles west of Bilbao.
-
-DIRECTION:
-Cut back to Pither.
 
 MICHAEL PALIN:
 Thank you. I decided to check...
@@ -43,32 +25,17 @@ No, sorry you go on.
 MICHAEL PALIN:
 I decided to check him into a hotel while I visited the British Embassy to ask for help in returning to Cornwall.
 
-DIRECTION:
-They leave the bicycle on the kerb and enter a door with the sign 'YMACA.' over it.
-
 MICHAEL PALIN:
 And so we registered at the Smolensk Young Men's Anti-Christian Association.
 
-DIRECTION:
-Cut to military man.
-
 ERIC IDLE:
 YMACA. Corner of Anti-Semitic Street and Pogrom Square.
-
-DIRECTION:
-by now standing at the reception desk with Gulliver
-
-DIRECTION:
-to departing desk clerk
 
 MICHAEL PALIN:
 No, not you. A single room for my friend please.
 
 TERRY GILLIAM:
 Yes, sir. Bugged or unbugged?
-
-DIRECTION:
-as Trotsky
 
 TERRY JONES:
 I think I'd be happier with a bugged one.
@@ -79,17 +46,8 @@ Right, one bugged with bath.
 MICHAEL PALIN:
 Well, just have a nice lie down, and I'll go to the Embassy.
 
-DIRECTION:
-He goes. Gulliver signs hotel register.
-
-DIRECTION:
-looking at the book
-
 TERRY GILLIAM:
 Trotsky! My lack of God, it's Trotsky!
-
-DIRECTION:
-A couple of people race in excitedly.
 
 TERRY JONES:
 Comrades. Socialism is not a...
