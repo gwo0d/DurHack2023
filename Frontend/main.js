@@ -13,5 +13,16 @@ function submission(){
         //Text Animation
         var text = document.getElementById("form");
         text.classList.toggle("transformation-active");
+        setTimeout(reset, 4000); 
+        setTimeout(output, 5000); 
     }
+}
+
+function reset(){
+    var head = document.getElementById("top-half");
+    head.classList.toggle("transform-active");
+}
+function output(){
+    var head = document.getElementById("top-half");
+    head.classList.toggle("transform-active");
 }
