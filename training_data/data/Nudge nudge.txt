@@ -1,6 +1,3 @@
-DIRECTION:
-Two men in a pub
-
 ERIC IDLE:
 Is your wife a...goer...eh? Know what I mean? Know what I mean? Nudge nudge. Nudge nudge. Know what I mean? Say no more...know what I mean?
 
@@ -22,44 +19,20 @@ I'm sorry, I don't quite follow you.
 ERIC IDLE:
 Follow me.
 
-DIRECTION:
-Follow me.
-
-DIRECTION:
-elbow gesture; rubs it
-
 TERRY JONES:
 Are you trying to sell something?
 
 ERIC IDLE:
 Selling, selling. Very good.
 
-DIRECTION:
-Very
-
-DIRECTION:
-hand tilting quickly
-
-DIRECTION:
-leaning over to him, making eye gesture; speaks slowly
-
-DIRECTION:
-leans back as if having imparted a great secret
-
 TERRY JONES:
 But...
-
-DIRECTION:
-stops him with finger which he lays alongside nose; gives slight tap
 
 ERIC IDLE:
 Your wife is she, eh... is she a sport. Eh?
 
 TERRY JONES:
 She
-
-DIRECTION:
-likes
 
 TERRY JONES:
 sport, yes!
@@ -70,9 +43,6 @@ I bet she does, I bet she does!
 TERRY JONES:
 She is very fond of cricket, as a matter of fact.
 
-DIRECTION:
-leans across, looking away
-
 ERIC IDLE:
 Who isn't, eh? Know what I mean. Likes games, likes games. Knew she would. Knew she would. Knew she would. Likes games, eh? She's been around, eh? Been around?
 
@@ -82,20 +52,8 @@ She's traveled. She's from Purley.
 ERIC IDLE:
 Oh...oh. Say no more, say no more. Say no more -
 
-DIRECTION:
-Purley
-
 ERIC IDLE:
 , say no more. Purley, eh? Know what I mean, know what I mean. Say no more.
-
-DIRECTION:
-about to speak; can't think of anything to say
-
-DIRECTION:
-leers, grinning
-
-DIRECTION:
-waggles head, leans across
 
 ERIC IDLE:
 photographs, eh? Know what I mean? Photographs, 'he asked him knowingly'.
@@ -117,9 +75,6 @@ No, no we don't have a camera.
 
 ERIC IDLE:
 Oh. Still
-
-DIRECTION:
-slaps hands lightly twice
 
 ERIC IDLE:
 Woah! Eh? Wo-oah! Eh?
@@ -147,12 +102,6 @@ Yes.
 
 ERIC IDLE:
 What's it like?
-
-DIRECTION:
-Enourmous artificial laugh on sound track. Closing film, starting with referee blowing whistle and then into 'It's' man running away from camera.
-
-DIRECTION:
-ROLLER CAPTION: '"HOW TO RECOGNIZE DIFFERENT TYPES OF TREES FROM QUITE A LONG WAY AWAY" WAS CONCIEVED, WRITTEN AND PERFORMED BY...(CREDITS)'
 
 JOHN CLEESE:
 The Larch.

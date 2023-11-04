@@ -1,6 +1,3 @@
-DIRECTION:
-Pull back to reveal that the hand appears to belong to a standard interviewer in two shot. Chair set up with standard interviewee. The interviewer suddenly pulls the hand off, revealing that he has a hook. He throws the hand away and starts the interview.
-
 MICHAEL PALIN:
 Good evening. I have with me in the studio tonight Mr Norman St. John Polevaulter, who for the last few years has been contradicting people...Mr Polevaulter, why do you contradict people?
 
@@ -28,9 +25,6 @@ Yes I do!
 MICHAEL PALIN:
 And when
 
-DIRECTION:
-didn't
-
 MICHAEL PALIN:
 you start contradicting people?
 
@@ -49,20 +43,11 @@ Twenty-three years ago.
 TERRY JONES:
 No!
 
-DIRECTION:
-Cut to announcer at desk in farmyard. He is fondly holding a small pig.
-
 JOHN CLEESE:
 And so on and so on and so on. And now...
 
-DIRECTION:
-Cut to picture of the Pope. Slight pause, so we think it might be something to do with the Pope. An arrow suddenly comes in above him pointing down at his head.
-
 JOHN CLEESE:
 Number seventeen. The top of the head.
-
-DIRECTION:
-Cut to picture of an indeterminate bit of flesh with a feather sticking out. Superimposed arrow pointing to feather.
 
 JOHN CLEESE:
 Number eighteen...the feather, rare.

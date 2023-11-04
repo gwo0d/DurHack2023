@@ -1,12 +1,3 @@
-DIRECTION:
-CAPTION: 'PART 2'
-
-DIRECTION:
-CAPTION: 'SHEEP'
-
-DIRECTION:
-A small set of a gate in the country overlooking a field. A real rustic in smock and floppy hat is leaning on the gate. A city gent on holiday appears behind him. Off-screen baa-ing noises throughout.
-
 TERRY JONES:
 Good afternoon.
 
@@ -27,12 +18,6 @@ Nope, I live 'ere.
 
 TERRY JONES:
 Oh, jolly good too.
-
-DIRECTION:
-surveys field; he looks puzzled
-
-DIRECTION:
-are
 
 TERRY JONES:
 sheep aren't they?
@@ -55,15 +40,6 @@ Like birds?
 GRAHAM CHAPMAN:
 Ar. Exactly. Birds is the key to the whole problem. It's my belief that these sheep are laborin' under the misapprehension that they're birds. Observe their behavior. Take for a start the sheeps' tendency to 'op about the field on their back legs.
 
-DIRECTION:
-off-screen baa-ing
-
-DIRECTION:
-sound of sheep plummeting
-
-DIRECTION:
-baaaaaa...thump
-
 GRAHAM CHAPMAN:
 Talk about the blind leading the blind.
 
@@ -72,9 +48,6 @@ But why do they think they're birds?
 
 GRAHAM CHAPMAN:
 Another fair question. One thing is for sure; a sheep is not a creature of the air. They have enormous difficulty in the comparatively simple act of perchin'.
-
-DIRECTION:
-crash
 
 GRAHAM CHAPMAN:
 As you see. As for flight, its body is totally unadapted to the problems of aviation. Trouble is, sheep are very dim. Once they get an idea in their heads, there's no shifting it.

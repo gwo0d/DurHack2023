@@ -1,44 +1,8 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-Five seconds of Gilliam animation. To gentle children's programme music, we see bunnies jumping up and down.
-
-DIRECTION:
-Cut to children's storyteller in studio.
-
-DIRECTION:
-sitting with large children's book, at desk
-
-DIRECTION:
-opens book; reads
-
-DIRECTION:
-reads silently, turns over page quickly, smiles
-
-DIRECTION:
-reads on silently; a stick enters vision and pokes him; he starts and turns over page
-
-DIRECTION:
-without looking up, reads a bit; then, incredulously to himself
-
-DIRECTION:
-melon
-
 ERIC IDLE:
 !?
 
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-A hippo squashes the bunnies...and other things happen. Cut to a seaside beach. By a notice, 'Donkey Rides', run two men carrying a donkey. The compère addresses the camera.
-
 MICHAEL PALIN:
 Hello again, now here's a little sketch by two boys from London town. They've been writing for three years and they've called this little number - here it is, it's called - Restaurant sketch.
-
-DIRECTION:
-Film clip of Women's Institute applauding. A couple are seated at a table in a restaurant.
 
 CAROL CLEVELAND:
 It's nice here, isn't it?
@@ -94,9 +58,6 @@ They really look after you... yes.
 MICHAEL PALIN:
 Excuse me monsieur and madame.
 
-DIRECTION:
-examines the fork
-
 MICHAEL PALIN:
 It's filthy, Gaston ... find out who washed this up, and give them their cards immediately.
 
@@ -111,9 +72,6 @@ No, look I don't want to make any trouble.
 
 MICHAEL PALIN:
 Oh, no please, no trouble. It's quite right that you should point these kind of things out. Gaston, tell the manager what has happened immediately!
-
-DIRECTION:
-The Waiter runs off
 
 GRAHAM CHAPMAN:
 Oh, no I don't want to cause any fuss.
@@ -132,9 +90,6 @@ It wasn't smelly.
 
 MICHAEL PALIN:
 It was smelly, and obscene and disgusting and I hate it, I hate it ,.. nasty, grubby, dirty, mingy, scrubby little fork. Oh ... oh . . . oh . . .
-
-DIRECTION:
-runs off in a passion as the manager comes to the table
 
 ERIC IDLE:
 Good evening, sir, good evening, madam. I am the manager. I've only just heard . .. may I sit down?
@@ -157,41 +112,17 @@ It's not as bad as that.
 ERIC IDLE:
 It gets me
 
-DIRECTION:
-here
-
-DIRECTION:
-emotionally
-
 ERIC IDLE:
 things aren't going very well back there. The poor cook's son has been put away again, and poor old Mrs Dalrymple who does the washing up can hardly move her poor fingers, and then there's Gilberto's war wound - but they're good people, and they're kind people, and together we were beginning to get over this dark patch ... there was light at the end of the tunnel . .. now this . .. now this...
 
 GRAHAM CHAPMAN:
 Can I get you some water?
 
-DIRECTION:
-in tears
-
 ERIC IDLE:
 It's the end of the road!!
 
-DIRECTION:
-The cook comes in; he is very big and comes a meat cleaver.
-
-DIRECTION:
-shouting
-
-DIRECTION:
-slams cleaver into the table
-
-DIRECTION:
-The head waiter comes in and tries to restrain him.
-
 MICHAEL PALIN:
 Easy, Mungo, easy... Mungo...
-
-DIRECTION:
-clutches his head in agony
 
 MICHAEL PALIN:
 the war wound!... the wound... the wound...
@@ -199,36 +130,12 @@ the war wound!... the wound... the wound...
 ERIC IDLE:
 This is the end! The end! Aaargh!!
 
-DIRECTION:
-stabs himself with the fork
-
 JOHN CLEESE:
 They've destroyed him! He's dead!! They killed him!!!
-
-DIRECTION:
-goes completely mad
-
-DIRECTION:
-trying to restrain him
-
-DIRECTION:
-in pain
-
-DIRECTION:
-he and the cook fight furiously and fall over the table
-
-DIRECTION:
-CAPTION: 'AND NOW THE PUNCH-LINE'
 
 GRAHAM CHAPMAN:
 Lucky we didn't say anything about the dirty knife.
 
-DIRECTION:
-Boos of disgust from off-screen. Cut back to seaside.
-
 MICHAEL PALIN:
 Well, there we are then, that was the restaurant sketch, a nice little number...a bit vicious in parts, but a lot of fun...but how about that punch line, eh?...Oh, you know what I mean - oh...oh...really.
-
-DIRECTION:
-The man from the sketch borrows the knight's chicken and hits commentator with it.
 

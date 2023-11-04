@@ -1,6 +1,3 @@
-DIRECTION:
-CAPTION: 'A PARTY POLITICAL BROADCAST ON BEHALF OF THE LIBERAL PARTY'
-
 MICHAEL PALIN:
 There now follows a Party Political Broadcast on behalf of the Liberal Party...
 

@@ -19,14 +19,14 @@ def scrape_all_scripts() -> None:
                     f.write(line)
             current_sketch = entry[3]
             current_scene_dialogue = []
-            if entry[5] is None:
-                current_scene_dialogue.append(f"DIRECTION:\n{entry[7]}\n\n")
-            else:
+            # if entry[5] is None:
+            #     current_scene_dialogue.append(f"DIRECTION:\n{entry[7]}\n\n")
+            if entry[5] is not None:
                 current_scene_dialogue.append(f"{entry[5].upper()}:\n{entry[7]}\n\n")
         else:
-            if entry[5] is None:
-                current_scene_dialogue.append(f"DIRECTION:\n{entry[7]}\n\n")
-            else:
+            # if entry[5] is None:
+            #     current_scene_dialogue.append(f"DIRECTION:\n{entry[7]}\n\n")
+            if entry[5] is not None:
                 current_scene_dialogue.append(f"{entry[5].upper()}:\n{entry[7]}\n\n")
 
 if __name__ == "__main__":

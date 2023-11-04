@@ -1,20 +1,5 @@
-DIRECTION:
-Cut to art critic examining a nude painting.
-
-DIRECTION:
-CAPTION: 'AN ART CRITIC'
-
-DIRECTION:
-He sees the camera and starts guiltily.
-
 MICHAEL PALIN:
 Good evening. I'd like to talk to you tonight about the place of the nude in my bed ... um ... in the history of my bed ... of art, of
-
-DIRECTION:
-art
-
-DIRECTION:
-a seductively dressed girl enters slinkily
 
 MICHAEL PALIN:
 Oh hello there father, er confessor, professor, your honour, your grace ...
@@ -28,32 +13,11 @@ I'm not your Grace, I'm your Elsie.
 MICHAEL PALIN:
 What a terrible joke!
 
-DIRECTION:
-crying
-
-DIRECTION:
-But it's my only line!
-
-DIRECTION:
-Cut to an idyllic countryside. Birds sing etc. as the camera starts a lyrical pan across the fields.
-
-DIRECTION:
-and SUPERIMPOSED CAPTION
-
-DIRECTION:
-'BUT THERE LET US LEAVE THE ART CRITIC TO STRANGLE HIS WIFE AND MOVE ON TO PASTURES NEW'
-
-DIRECTION:
-After about ten seconds of mood setting the camera suddenly comes across the art critic strangling his wife in middle foreground. As the camera passes him he hums nervously and tries to look as though he isn't strangling anybody. The camera doesn't stop panning, and just as it goes off him we see him start strangling again. The pan carries on and catches up with a bridegroom carrying his bride across a field and finally arriving in a high street where, breathless and panting, he carries her through traffic and into a large department store. Finally cut to the furniture department of the store. The bridegroom and bride enter, he puts her down and addresses one of the assistants.
-
 TERRY JONES:
 We want to buy a bed, please.
 
 GRAHAM CHAPMAN:
 Og, certainly, I'll, I'll get someone to help you.
-
-DIRECTION:
-calling off
 
 GRAHAM CHAPMAN:
 Mr Verity!
@@ -76,9 +40,6 @@ Or, er, perhaps I should have explained. Mr Verity does tend to exaggerate, so e
 TERRY JONES:
 Oh I see. I see.
 
-DIRECTION:
-to Verity
-
 TERRY JONES:
 So your cheapest bed then is eighty pounds?
 
@@ -94,17 +55,11 @@ Er, the width is, er, sixty feet wide.
 TERRY JONES:
 Oh...
 
-DIRECTION:
-laughing politely he mutters to wife
-
 TERRY JONES:
 six foot wide, eh. And the length?
 
 ERIC IDLE:
 The length is ... er ...
-
-DIRECTION:
-calls off
 
 ERIC IDLE:
 Lambert! What is the length of the Comfydown Majorette?
@@ -136,9 +91,6 @@ Oh, how much is that?
 ERIC IDLE:
 Er, Mr Lambert will be able to help you there.
 
-DIRECTION:
-calls
-
 ERIC IDLE:
 Lambert! Will you show these twenty good people the, er, dog kennels, please?
 
@@ -150,9 +102,6 @@ Dog kennel? No, no, no, mattresses, mattresses!
 
 ERIC IDLE:
 Oh no, no you have to say dog kennel to Mr Lambert because if you say mattress he puts a bag over his head. I should have explained. Apart from that he's really all right.
-
-DIRECTION:
-They go to Lambert.
 
 TERRY JONES:
 Ah, hum, er we'd like to see the dog kennels please.
@@ -169,9 +118,6 @@ Ah yes, well that's the pets' department. Second floor.
 TERRY JONES:
 Oh, no, no, we want to see the
 
-DIRECTION:
-dog kennels
-
 TERRY JONES:
 .
 
@@ -187,12 +133,6 @@ Oh dear, what's he been telling you now?
 TERRY JONES:
 Well, he said we should say dog kennels instead of mattress.
 
-DIRECTION:
-Lambert puts bag over head
-
-DIRECTION:
-looking around
-
 TERRY JONES:
 Oh dear. Hello?
 
@@ -205,29 +145,11 @@ Well, a little yes.
 ERIC IDLE:
 I did
 
-DIRECTION:
-ask
-
-DIRECTION:
-he gets in the chest and sings
-
 ERIC IDLE:
 'And did those feet in ancient times, walk upon England's mountains green...'
 
-DIRECTION:
-The manager enters.
-
 JOHN CLEESE:
 Oh dear, did somebody say mattress to Mr Lambert?
-
-DIRECTION:
-Manager and Verity continue to sing. Lambert takes bag off head, manager exits after pointing a warning finger at bride and groom.
-
-DIRECTION:
-Getting out of chest
-
-DIRECTION:
-don't
 
 ERIC IDLE:
 ! (exits)
@@ -241,9 +163,6 @@ Yes, second floor.
 TERRY JONES:
 No, no, look these
 
-DIRECTION:
-pointing
-
 TERRY JONES:
 dog kennels here, see?
 
@@ -253,26 +172,17 @@ Mattresses?
 TERRY JONES:
 Oh
 
-DIRECTION:
-jumps
-
 TERRY JONES:
 ...yes.
 
 GRAHAM CHAPMAN:
 Well, if you meant mattress, why dodn't you
 
-DIRECTION:
-say
-
 GRAHAM CHAPMAN:
 a mattress? I mean, it's very confusing for me if you go and say dog kennels when you mean mattress. Why not just say mattress?
 
 TERRY JONES:
 Well, I mean you put a bag over your head last time I said mattress.
-
-DIRECTION:
-Bag goes on. Groom looks around guiltily. Verity walks in. Verity heaves a sigh, jumps in box. Manager comes in and joins him, they sing 'And did those feet...'. Another assistant comes in.
 
 MICHAEL PALIN:
 Did somebody say mattress to Mr Lambert?
@@ -283,17 +193,8 @@ Twice.
 MICHAEL PALIN:
 Hey, everybody, somebody said mattress to Mr Lambert, twice.
 
-DIRECTION:
-Assistant, groom and bride join in the therapy.
-
 ERIC IDLE:
 It's not working. We need more!
-
-DIRECTION:
-Cut to crowd in St. Peter's Square singing 'Jerusalem'.
-
-DIRECTION:
-Cut to department store. Lambert takes the bag off his head and looks at groom and bride.
 
 GRAHAM CHAPMAN:
 Now, er, can I help you?
@@ -301,32 +202,14 @@ Now, er, can I help you?
 CAROL CLEVELAND:
 We want a mattress.
 
-DIRECTION:
-Lambert immediately puts bag back on head.
-
-DIRECTION:
-Oh. What did you say that for? What did you say that for?
-
-DIRECTION:
-weeping
-
 CAROL CLEVELAND:
 But it's my only line!
-
-DIRECTION:
-Well, you didn't have to say it.
-
-DIRECTION:
-They all hop off. She howls. Cut to vox pops.
 
 TERRY JONES:
 Full frontal nudity - not in this part of Esher.
 
 JOHN CLEESE:
 I would only perform in a scene in which there was full frontal nudity.
-
-DIRECTION:
-Cut to colonel.
 
 GRAHAM CHAPMAN:
 Now, I've noticed a tendency for this programme to get rather silly. Now I do my best to keep things moving along, but I'm not having things getting silly. Those two last sketches I did got very silly indeed, and that last one about the bed was even sillier. Now, nobody likes a good laugh more than I do...except perhaps my wife and some of her friends...oh yes and Captain Johnston. Come to think of it most people likes a good laugh more than I do. But that's beside the point. Now, let's have a good clean healthy outdoor sketch. Get some air into your lungs. Ten, nine, eight and all that.

@@ -1,9 +1,3 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-including dancing Botticelli Venus, which links to pet shop: Mr. Praline walks into the shop carrying a dead parrot in a cage. He walks to counter where shopkeeper tries to hide below cash register.
-
 JOHN CLEESE:
 Hello, I wish to register a complaint...Hello? Miss?
 
@@ -49,14 +43,8 @@ No, no - it's just resting!
 JOHN CLEESE:
 All right then, if it's restin', I'll wake him up!
 
-DIRECTION:
-shouts into cage
-
 JOHN CLEESE:
 Hello Polly! I've got a nice cuttlefish for you when you wake up, Polly Parrot!
-
-DIRECTION:
-jogging the cage
 
 MICHAEL PALIN:
 There, it moved!
@@ -69,15 +57,6 @@ I did not.
 
 JOHN CLEESE:
 Yes, you did!
-
-DIRECTION:
-takes parrot out of cage, shouts
-
-DIRECTION:
-bangs it against the counter
-
-DIRECTION:
-throws it in the air and lets it fall to the floor
 
 JOHN CLEESE:
 Now that's what I call a dead parrot.
@@ -106,9 +85,6 @@ Well of course it was nailed there. Otherwise it would muscle up to those bars a
 JOHN CLEESE:
 Look matey
 
-DIRECTION:
-picks up the parrot
-
 JOHN CLEESE:
 this parrot wouldn't voom if you put four thousand volts through it! It's bleedin' demised!
 
@@ -121,9 +97,6 @@ It's not pining, it's passed on. This parrot is no more! It has ceased to be. It
 MICHAEL PALIN:
 Well, I'd better replace it, then.
 
-DIRECTION:
-to camera
-
 JOHN CLEESE:
 If you want to get anything done in this country you've got to complain till you're blue in the mouth.
 
@@ -132,9 +105,6 @@ Sorry guv, we're right out of parrots.
 
 JOHN CLEESE:
 I see. I see. I get the picture.
-
-DIRECTION:
-pause
 
 MICHAEL PALIN:
 I got a slug.
@@ -151,9 +121,6 @@ Well, it's scarcely a replacement, then is it?
 MICHAEL PALIN:
 Listen, I'll tell you what,
 
-DIRECTION:
-handing over a card
-
 MICHAEL PALIN:
 tell you what, if you go to my brother's pet shop in Bolton he'll replace your parrot for you.
 
@@ -166,26 +133,11 @@ Yeah.
 JOHN CLEESE:
 All right.
 
-DIRECTION:
-He leaves, holding the parrot.
-
-DIRECTION:
-CAPTION: 'A SIMILAR PET SHOP IN BOLTON; LANCS'
-
-DIRECTION:
-Close-up of sign on door reading: 'Similar Pet Shops, Ltd.' Pull back from sign to see same pet shop. Shopkeeper now has moustache. Praline walks into shop. He looks around with interest, noticing the empty parrot cage still on the floor.
-
 JOHN CLEESE:
 Er, excuse me. This is Bolton, is it?
 
 MICHAEL PALIN:
 No, no it's, er, Ipswich.
-
-DIRECTION:
-leaves
-
-DIRECTION:
-Man in porter's outfit standing at complaints desk for railways. Praline approaches.
 
 JOHN CLEESE:
 I wish to make a complaint.
@@ -220,17 +172,8 @@ Well you can't blame British Rail for that.
 JOHN CLEESE:
 If this is Bolton, I shall return to the pet shop.
 
-DIRECTION:
-CAPTION: 'A LITTLE LATER LTD'
-
-DIRECTION:
-Praline walks into the shop again.
-
 JOHN CLEESE:
 I understand that this
-
-DIRECTION:
-is
 
 JOHN CLEESE:
 Bolton.
@@ -265,12 +208,6 @@ Look, what do you want.
 JOHN CLEESE:
 No I'm sorry, I'm not prepared to pursue my line of enquiry any further as I think this is getting too silly.
 
-DIRECTION:
-coming in
-
 GRAHAM CHAPMAN:
 Quite agree. Quite agree. Silly. Silly...silly. Right get on with it. Get on with it.
-
-DIRECTION:
-Cut to announcer eating a yoghurt.
 

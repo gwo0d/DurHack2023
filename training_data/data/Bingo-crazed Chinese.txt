@@ -1,6 +1,3 @@
-DIRECTION:
-Mix through to the British Consulate. Pither cycles up, parks his bike and goes in. Imperial music. Mix through to interior. A picture of the queen is dimly visible on the back wall. A Chinaman approaches. He is dressed in traditional Mandarin's robe and cap.
-
 MICHAEL PALIN:
 Excuse me. Is this the British Consulate?
 
@@ -15,9 +12,6 @@ Yes, yes, speakee speakee... me Blitish consul.
 
 MICHAEL PALIN:
 Oh!
-
-DIRECTION:
-he examines his diary.
 
 MICHAEL PALIN:
 You are Rear Admiral Sir Dudley Compton?
@@ -40,17 +34,11 @@ Would you like drinkee? Or game bingo?
 MICHAEL PALIN:
 Well.... A drink would be very nice.
 
-DIRECTION:
-The Chinaman claps his hands and another runs in and bows obsequiously.
-
 GRAHAM CHAPMAN:
 Mr. Livingstone. Go and get sake.
 
 JOHN CLEESE:
 Yes, Boss.
-
-DIRECTION:
-goes
 
 GRAHAM CHAPMAN:
 How is Tonblidge Wells? How I long to see again walls of famous Shakespeare-style theatre in Stlatford-on-Avon.
@@ -64,9 +52,6 @@ Oh Texas - Arizona - Kit Carson Super Scout.
 MICHAEL PALIN:
 No. No. West of England... Cornwall.
 
-DIRECTION:
-with difficulty
-
 GRAHAM CHAPMAN:
 Coron... worll...
 
@@ -76,23 +61,14 @@ Cornwall.
 GRAHAM CHAPMAN:
 Coronworl...oh yes know Coronworl very well. Went to school there, mother and father live there, ah yes. Go many weekend parties and polo playing cards in blidge club. Belong many clubs in Coronworld.
 
-DIRECTION:
-Livingstone reappears, with drink and plate of pastries. He puts them down.
-
 GRAHAM CHAPMAN:
 Ah, Mr Livingstone thank you, sake and bakewells tart.
-
-DIRECTION:
-hands a glass of sake to Pither
 
 GRAHAM CHAPMAN:
 Well, chaps, buttocks up!
 
 MICHAEL PALIN:
 Rather.
-
-DIRECTION:
-they drink
 
 GRAHAM CHAPMAN:
 Now then er... er...
@@ -118,23 +94,11 @@ Oh bingo...bingo...bingo.
 JOHN CLEESE:
 Bingo! Bingo!
 
-DIRECTION:
-Several Mao-suited Chinese people rush in waving the Red Book and shouting 'bingo'. The Chinaman remonstrates with Livingstone and eventually stops them.
-
 GRAHAM CHAPMAN:
 Hsai! Solly. Our boys got velly excited.
 
-DIRECTION:
-the Maoists exit
-
 JOHN CLEESE:
 Bingo.
-
-DIRECTION:
-to Livingstone
-
-DIRECTION:
-to Pither
 
 GRAHAM CHAPMAN:
 Mr Pither, perhaps you could put in a good word for so we could join a very smart bingo club in Coronworl.
@@ -148,26 +112,8 @@ We all velly quiet at back, not say anything except shout 'Housey! Housey!'
 JOHN CLEESE:
 Housey! Housey!
 
-DIRECTION:
-rushing back in
-
-DIRECTION:
-Housey! Housey!
-
-DIRECTION:
-Cut to stock film of large Chinese crowds.
-
-DIRECTION:
-Housey! Housey! Housey housey!
-
-DIRECTION:
-Cut back to Consulate. The Chinaman is shouting out of window.
-
 GRAHAM CHAPMAN:
 Hi skwwati niyhi, keo t'sin feh t'sdung, hih watai bingo cards!
-
-DIRECTION:
-comes back into room
 
 JOHN CLEESE:
 Nihi watai bingo cards?
@@ -184,41 +130,20 @@ Now then, Mr Pither, tell me which better - Hackney Star Bingo or St. Albans Top
 MICHAEL PALIN:
 Well, I was hoping that you could help me and my friend to get back to England as...you see we're on a cycling tour of North Cornwall...
 
-DIRECTION:
-Bingo, bingo, bingo...
-
-DIRECTION:
-The Chinaman ushers Pither out. Brief film of rioting Chinese.
-
-DIRECTION:
-Bingo! Bingo! Bingo! Bingo!
-
-DIRECTION:
-Cut to hotel lobby.
-
 MICHAEL PALIN:
 Is Mr Trotsky in his room, please?
 
 TERRY GILLIAM:
 No. He has gone to Moscow.
 
-DIRECTION:
-Cut to military man.
-
 ERIC IDLE:
 Moscow. 1500 miles south of...
-
-DIRECTION:
-Cut bach to lobby.
 
 TERRY GILLIAM:
 Shut up!
 
 MICHAEL PALIN:
 Moscow!
-
-DIRECTION:
-He is surrounded by three secret policemen dressed in identical suits, dark glasses and pork pie hats.
 
 ERIC IDLE:
 Come with us, please.
@@ -241,9 +166,6 @@ None at all. Come with us.
 MICHAEL PALIN:
 Oh, where are you taking me?
 
-DIRECTION:
-The secret police all move away to confer.
-
 GRAHAM CHAPMAN:
 What do we tell him?
 
@@ -255,9 +177,6 @@ Agreed.
 
 ERIC IDLE:
 Tell him anything except that we are taking him to Moscow where Trotsky is reunited with the Central Committee.
-
-DIRECTION:
-They return to Pither.
 
 GRAHAM CHAPMAN:
 We're taking you to a clambake.
@@ -292,9 +211,6 @@ I got promoted. Let's go.
 JOHN CLEESE:
 Taxi!
 
-DIRECTION:
-A girl enters dressed as a New York cabbie.
-
 CAROL CLEVELAND:
 Yes.
 
@@ -309,7 +225,4 @@ Why not?
 
 CAROL CLEVELAND:
 I'm in the Secret Police.
-
-DIRECTION:
-they all snap into salute
 

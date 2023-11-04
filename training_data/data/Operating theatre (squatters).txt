@@ -1,29 +1,5 @@
-DIRECTION:
-Jump cut off same office now occupied by a surgeon. Start on portrait which has moustache and beard and glasses being added by surgeon.
-
 GRAHAM CHAPMAN:
 Brr brr
-
-DIRECTION:
-picks up phone
-
-DIRECTION:
-replaces phone
-
-DIRECTION:
-knock at door
-
-DIRECTION:
-Notlob enters; 'Going to the zoo' is faintly heard
-
-DIRECTION:
-cut to terribly quick shot of Napoleon, then back
-
-DIRECTION:
-he is rising from seat
-
-DIRECTION:
-he puts needle down on ancient gramophone; Dr Kildare theme begins playing
 
 GRAHAM CHAPMAN:
 I'm afraid I'm going to have to operate. It's nothing to worry about although it is extremely dangerous. I shall be juggling with your life, I shall be playing ducks and drakes with your very existence, I shall be running me mitts over the pith of your marrow. Yes! These hands, these fingers, these sophisticated organs of touch, these bunches of five, these maulers, these German bands that have pulled many a moribund unfortunate back from the very brink of Lazarus's box. No, it was Pandora's box wasn't it? Well anyway these mitts have earned yours truly a lot of bread. So if you'll just step through here I'll slit you up a treat.
@@ -34,26 +10,11 @@ What?
 GRAHAM CHAPMAN:
 Mr Notlob, there's nothing wrong with you that an expensive operation can't prolong.
 
-DIRECTION:
-Cut to operating theatre. The conversation and the guitar can still be heard. Notlob is on the table. His head is real but the rest of the body is false. Table is covered with green cloth for reality. Surgeon is swabbing. 'Going to the zoo' is still audible.
-
 GRAHAM CHAPMAN:
 Right, I'm ready to make the incision. Knife please, sister
 
-DIRECTION:
-takes knife
-
-DIRECTION:
-takes big knife and strops it on steel sharpener
-
-DIRECTION:
-he stabs the body and makes a slit four feet long
-
 GRAHAM CHAPMAN:
 Oh what a great slit. Now, gentlemen, I am going to open the slit.
-
-DIRECTION:
-He pulls it apart. The song gets louder. The head of a squatter pops out.
 
 ERIC IDLE:
 Too much man, groovy, great scene. Great light show, baby.
@@ -73,20 +34,11 @@ We're squatters, baby.
 GRAHAM CHAPMAN:
 What?
 
-DIRECTION:
-to nurse about Notlob
-
-DIRECTION:
-she slaps his face
-
 ERIC IDLE:
 Don't get uptight, man. Join the scene and other phrases. Money isn't real.
 
 GRAHAM CHAPMAN:
 It is where I'm standing and it blows my mind, young lad.
-
-DIRECTION:
-looks inside Notlob
 
 GRAHAM CHAPMAN:
 Good Lord! Is that a nude woman?
@@ -94,17 +46,11 @@ Good Lord! Is that a nude woman?
 ERIC IDLE:
 She's doing an article on us for 'Nova', man.
 
-DIRECTION:
-her head also appearing through slit
-
 CAROL CLEVELAND:
 Hi everyone. Are you part of the scene?
 
 GRAHAM CHAPMAN:
 Are you rolling your own jelly babies in there?
-
-DIRECTION:
-waking up
 
 MICHAEL PALIN:
 What's going on? Who are they?
@@ -136,21 +82,6 @@ Get them out.
 GRAHAM CHAPMAN:
 No I can't. Not, not without a court order.
 
-DIRECTION:
-also appearing
-
-DIRECTION:
-Shut up. You're keeping us awake.
-
-DIRECTION:
-CAPTION: 'ONE COURT ORDER LATER'
-
-DIRECTION:
-Some policemen walk in.
-
-DIRECTION:
-into slit
-
 JOHN CLEESE:
 You are hereby ordered to vacate Mr Notlob forthwith. And or.
 
@@ -159,27 +90,6 @@ Push off, fuzz.
 
 JOHN CLEESE:
 Right, that's it, we're going in. Release the vicious dogs.
-
-DIRECTION:
-dives into slit
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-What a terrible way to end a series. Why couldn't it end with something like this?
-
-DIRECTION:
-a short piece of confusing animation later
-
-DIRECTION:
-Now there's an ending for you. Romance. Laughter.
-
-DIRECTION:
-Cut to film of 'It's' man being pursued by undertaker; roll credits over.
-
-DIRECTION:
-CAPTION: 'INTERMISSION'
 
 JOHN CLEESE:
 When this series returns it will be put out on Monday mornings as a test card and will be described by 'Radio Times' as a history of Irish agriculture.

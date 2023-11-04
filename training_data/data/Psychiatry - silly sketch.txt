@@ -1,6 +1,3 @@
-DIRECTION:
-Animation link runs into a psychiatrist's consulting room. The psychiatrist at his desk. The door opens and a receptionist looks in.
-
 CAROL CLEVELAND:
 Dr Larch ... there's a Mr Phelps to see you.
 
@@ -9,9 +6,6 @@ Er, nurse!
 
 CAROL CLEVELAND:
 Yes?
-
-DIRECTION:
-whispering
 
 JOHN CLEESE:
 Er, you don't think you should make it clear that I'm a psychiatrist?
@@ -25,29 +19,14 @@ Well, I could be any type of doctor.
 CAROL CLEVELAND:
 Well I can't come in and say 'Psychiatrist Larch' or 'Dr Larch who is a psychiatrist'. Oh, anyway look, it's written on the door.
 
-DIRECTION:
-still whispering
-
 JOHN CLEESE:
 That's outside.
 
 CAROL CLEVELAND:
 Well, I don't care, you'll just have to do it yourself.
 
-DIRECTION:
-she leaves
-
-DIRECTION:
-goes 'brr brr', then picks up phone
-
-DIRECTION:
-knock at the door
-
 JOHN CLEESE:
 Er, come in.
-
-DIRECTION:
-Phelps comes in dressed as Napoleon, with a parrot on his head, and a leash with nothing on it.
 
 TERRY JONES:
 Bow, wow, wow.
@@ -70,14 +49,8 @@ Well look will you please sit down and do your first line.
 TERRY JONES:
 No. No. I've had enough. I've had enough.
 
-DIRECTION:
-he exits
-
 JOHN CLEESE:
 I can't even get it started.
-
-DIRECTION:
-off
 
 TERRY JONES:
 Albatross!
@@ -85,41 +58,23 @@ Albatross!
 JOHN CLEESE:
 Shut up! Oh it drives me mad.
 
-DIRECTION:
-Cut to a man in limbo: Mr Notlob.
-
 MICHAEL PALIN:
 A mad psychiatrist, that'd be new.
-
-DIRECTION:
-Cut back to the psychiatrist.
 
 JOHN CLEESE:
 Next please.
 
-DIRECTION:
-Knocking at door. Psychiatrist is about to call when he picks up a thesaurus and thumbs through it.
-
 JOHN CLEESE:
 Cross the threshold, arrive, ingress, gain admittance, infiltrate.
 
-DIRECTION:
-Notlob enters in an ordinary suit
-
 JOHN CLEESE:
 Ah Mr Notlob, ah park your hips, on the sitting device.
-
-DIRECTION:
-to camera
 
 MICHAEL PALIN:
 It is a mad psychiatrist.
 
 JOHN CLEESE:
 I'm not. I'm not. Come on in. Take a seat. What's, what's the matter?
-
-DIRECTION:
-Cut to Napoleon in limbo; he blows a raspberry.
 
 JOHN CLEESE:
 Now what's the matter?
@@ -129,9 +84,6 @@ Well I keep hearing guitars playing and people singing when there's no one aroun
 
 JOHN CLEESE:
 Yes, well this is not at all uncommon. In certain mental states we find that auditory hallucinations occur which are of a most ...
-
-DIRECTION:
-he steps suddenly and listens; the sound of 'We're all going to the zoo tomorrow' is heard
 
 JOHN CLEESE:
 Is that 'We're all going to the zoo tomorrow'?
@@ -150,9 +102,6 @@ Well that's something.
 
 MICHAEL PALIN:
 But it's mainly folk songs.
-
-DIRECTION:
-concerned
 
 JOHN CLEESE:
 Oh my God.

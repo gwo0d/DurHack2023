@@ -1,11 +1,5 @@
-DIRECTION:
-Cut to a headmaster's study.
-
 MICHAEL PALIN:
 Knock, enter and approach.
-
-DIRECTION:
-knock on door; it opens and three schoolboys in short trousers enter
 
 MICHAEL PALIN:
 Right, it's come to my notice that certain boys have been running a unit-trust linked assurance scheme with fringe benefits and full cash-in endowment facilities. Apparently small investors were attracted by the wide-ranging portfolio and that in the first week the limited offer was oversubscribed eight times.
@@ -28,9 +22,6 @@ Yes, sir.
 MICHAEL PALIN:
 Oh, and Balderston, next time you do a 'Panorama' Report on the Black Ghettos you
 
-DIRECTION:
-must
-
 MICHAEL PALIN:
 get an exeat form from Mr Dibley.
 
@@ -39,12 +30,6 @@ Sorry, sir.
 
 MICHAEL PALIN:
 Shut up, and stop slouching. Now, the reason I called you in here today, is that my wife is having a little trouble with her,.. er... with her waterworks, and I think she needs a bit of attention. Now, which one of you is the surgeon?
-
-DIRECTION:
-silence
-
-DIRECTION:
-Tidwell raises hand reluctantly
 
 MICHAEL PALIN:
 Ah! Tidwell. Good. Well, I want you to come along and have a look at the wife.
@@ -58,17 +43,11 @@ Ooh! You rotten stinker, Tidwell!
 MICHAEL PALIN:
 Is this true, Stebbins? Are you a gynaecologist?
 
-DIRECTION:
-very reluctantly
-
 ERIC IDLE:
 Yes, sir.
 
 MICHAEL PALIN:
 Right, just the man. How much do you charge?
-
-DIRECTION:
-muttering into his shoes
 
 ERIC IDLE:
 Thirty guineas, sir.

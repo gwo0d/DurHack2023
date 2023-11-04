@@ -1,6 +1,3 @@
-DIRECTION:
-Door opens and a man in a neat suit enters. From beneath his jacket he produces a revolver with silencer attachment. He points it at the pilots.
-
 MICHAEL PALIN:
 All right, don't anybody move ... except to control the aeroplane ... you can move a little to do that.
 
@@ -9,9 +6,6 @@ Can I move?
 
 MICHAEL PALIN:
 Yes, yes, yes. You can move a little bit. Yes. Sorry, I didn't mean to be so dogmatic when I came in. Obviously you can all move a little within reason. There are certain involuntary muscular movements which no amount of self-control can prevent. And obviously any assertion of authority on my part, I've got to take that into account.
-
-DIRECTION:
-The ensuing conversation is perfectly calm and friendly.
 
 JOHN CLEESE:
 Right. I mean one couldn't for example, stop one's insides from moving.
@@ -25,9 +19,6 @@ And the very fact that the plane is continuously vibrating means that we're all 
 MICHAEL PALIN:
 And we're all moving our lips, aren't we?
 
-DIRECTION:
-Yes, yes.
-
 JOHN CLEESE:
 Absolutely.
 
@@ -40,9 +31,6 @@ Exaggerated movements ...
 MICHAEL PALIN:
 Exaggerated
 
-DIRECTION:
-violent
-
 MICHAEL PALIN:
 movements... are... are out.
 
@@ -52,20 +40,11 @@ Well, that's the great thing about these modern airliners. I mean, I can keep th
 MICHAEL PALIN:
 Oh, that's marvellous.
 
-DIRECTION:
-joining in the general spirit of bonhomie
-
 CAROL CLEVELAND:
 And I don't really need to move either ... unless I get an itch or something...
 
-DIRECTION:
-They all laugh.
-
 MICHAEL PALIN:
 Well that's wonderful ... 60% success, eh?
-
-DIRECTION:
-they laugh again
 
 MICHAEL PALIN:
 Anyway, bearing all that in mind, will you fly this plane to Luton, please?
@@ -124,14 +103,8 @@ I know - I know. There's a bale of hay outside Basingstoke. We could throw you o
 MICHAEL PALIN:
 Well, if it's all right.
 
-DIRECTION:
-Sure, yeah.
-
 MICHAEL PALIN:
 Not any trouble?
-
-DIRECTION:
-None at all.
 
 MICHAEL PALIN:
 That's marvellous. Thank you very much. Sorry to come barging in.
@@ -142,50 +115,20 @@ Bye-bye.
 MICHAEL PALIN:
 Thank you. Bye.
 
-DIRECTION:
-Bye.
-
-DIRECTION:
-They open the door and throw him out.
-
-DIRECTION:
-as he falls
-
 MICHAEL PALIN:
 Thank you!
-
-DIRECTION:
-Cut to haystack in a field
-
-DIRECTION:
-not the same bale of hay that was landed on before
-
-DIRECTION:
-. Aeroplane noise overhead. The gunman suddenly falls into the haystack. He gets up, brushes himself down, hops over a fence, and reaches a road. He puts his hand out and a bus stops. It has 'Straight to Luton' written on it. He gets in. Conductor is just about to take his fare, when an evil-looking man with a gun jumps up and points gun at conductor.
 
 JOHN CLEESE:
 Take this bus to Cuba.
 
-DIRECTION:
-Bus moving away from camera. The destination board changes to 'Straight to Cuba'. The bus does a speedy u-turn, and goes out of frame. Camera pans away revealing a rather rocky highland landscape. As camera pans across country we hear inspiring Scottish music.
-
 JOHN CLEESE:
 From these glens and scars, the sound of the coot and the moorhen is seldom absent. Nature sits in stern mastery over these rocks and crags. The rush of the mountain stream, the bleat of the sheep, and the broad, clear Highland skies, reflected in turn and loch ...
-
-DIRECTION:
-at this moment we pick up a highland gentleman in kilt and tam o'shanter clutching a knobkerry in one hand and a letter in the other
 
 JOHN CLEESE:
 ... form the breathtaking backdrop against which Ewan McTeagle writes such poems as 'Lend us a quid till the end of the week'.
 
-DIRECTION:
-Cut to crofter's cottage. McTeagle sits at the window writing. We zoom in very slowly on him us he writes.
-
 JOHN CLEESE:
 But it was with more simple, homespun verses that McTeagle's unique style first flowered.
-
-DIRECTION:
-voice over
 
 TERRY JONES:
 If you could see your way to lending me sixpence. I could at least buy a newspaper. That's not much to ask anyone.
@@ -193,132 +136,36 @@ If you could see your way to lending me sixpence. I could at least buy a newspap
 JOHN CLEESE:
 One woman who remembers McTeagle as a young friend - Lassie O'Shen.
 
-DIRECTION:
-Cut to Lassie O'Shen - a young sweet innocent Scots girl - she is valiantly trying to fend off the sexual advances of the sound man. Two other members of the crew pull him out of shot.
-
 ERIC IDLE:
 Mr MeTeagle wrote me two poems, between the months of January and April 1969...
-
-DIRECTION:
-Could you read us one?
 
 ERIC IDLE:
 Och, I dinna like to... they were kinda personal... but I will.
 
-DIRECTION:
-she has immediately a piece of paper in her hand from which she reads
-
 ERIC IDLE:
 'To Ma Own beloved Lassie. A poem on her 17th Birthday. Lend us a couple of bob till Thursday. I'm absolutely skint. But I'm expecting a postal order and I can pay you back as soon as it comes. Love Ewan.'
-
-DIRECTION:
-There is a pause. She looks up.
-
-DIRECTION:
-voice over
-
-DIRECTION:
-Beautiful.
-
-DIRECTION:
-Another pause. The soundman leaps on her and pulls her to the ground. Cut to abstract trendy arts poetry programme set. Intense critic sits on enormous inflatable see-through pouffe.
-
-DIRECTION:
-CAPTION: 'ST JOHN LIMBO -- POETRY EXPERT'
-
-DIRECTION:
-intensely
 
 JOHN CLEESE:
 Since then, McTeagle has developed and widened his literary scope. Three years ago he concerned himself with quite small sums - quick bits of ready cash: sixpences, shillings, but more recently he has turned his extraordinary literary perception to much larger sums - fifteen shillings, £4.12.6 ... even nine guineas ... But there is still nothing to match the huge sweep ... the majestic power of what is surely his greatest work: 'Can I have fifty pounds to mend the shed?'.
 
-DIRECTION:
-Pan across studio to a stark poetry-reading set. A single light falls on an Ian McKellan figure in black leotard standing gazing dramatically into space. Camera crabs across studio until it is right underneath him. He speaks the lines with great intensity.
-
 ERIC IDLE:
 Can I have fifty pounds to mend the shed?
-
-DIRECTION:
-I'm right on my uppers.
-
-DIRECTION:
-I can pay you back
-
-DIRECTION:
-When this postal order comes from Australia.
-
-DIRECTION:
-Honestly.
-
-DIRECTION:
-Hope the bladder trouble's getting better.
-
-DIRECTION:
-Love, Ewan.
-
-DIRECTION:
-Cut to remote Scottish landscape, craggy and windtorn and desolate. In stark chiaroscuro against the sky we see McTeagle standing beside a lonely pillar box, writing postcards. The sun setting behind him.
-
-DIRECTION:
-voice over
 
 JOHN CLEESE:
 There seems to be no end to McTeagle's poetic invention. 'My new cheque book hasn't arrived' was followed up by the brilliantly allegorical 'What's twenty quid to the bloody Midland Bank?' and more recently his prizewinning poem to the Arts Council: 'Can you lend me one thousand quid?'
 
-DIRECTION:
-Cut to David Mercer figure in his study at a desk.
-
-DIRECTION:
-CAPTION: 'A VERY GOOD PLAYWRIGHT'
-
 MICHAEL PALIN:
 I think what McTeagle's pottery... er... poetry is doing is
-
-DIRECTION:
-rejecting
 
 MICHAEL PALIN:
 all the traditional cliches of modern pottery. No longer do we have to be content with Keats's 'Seasons of mists and mellow fruitfulness', Wordsworth's 'I wandered lonely as a cloud' and Milton's 'Can you lend us two bob till Tuesday'...
 
-DIRECTION:
-Cut to long shot of McTeagle walking through countryside.
-
-DIRECTION:
-continues muttering indistinctly
-
-DIRECTION:
-He walks out of shot past a glen containing several stuffed animals, one of which explodes. A highland spokesman stands up into shot.
-
-DIRECTION:
-SUERIMPOSED CAPTION: 'A HIGHLAND SPOKESMAN'
-
 JOHN CLEESE:
 As a Highlander I would like to complain about some inaccuracies in the preceding film about the poet Ewan McTeagle. Although his name was quite clearly given as McTeagle, he was throughout wearing the Cameron tartan. Also I would like to point out that the BALPA spokesman who complained about aeronautical inaccuracies was himself wearing a captain's hat, whereas he only had lieutenant's stripes on the sleeves of his jacket. Also, in the Inverness pantomime last Christmas, the part of Puss in Boots was played by a native of New Guinea with a plate in her lip, so that every time Dick Whittington gave her a French kiss, he got the back of his throat scraped.
-
-DIRECTION:
-A doctor's head appears out from under the kilt.
 
 MICHAEL PALIN:
 Look, would you mind going away, I'm trying to examine this man.
 
-DIRECTION:
-he goes back under the kilt; a slight pause; he re-emerges
-
-DIRECTION:
-am
-
 MICHAEL PALIN:
 a doctor. Actually, I'm a gynaecologist... but this is my lunchhour.
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-I've a nasty feeling I
-
-DIRECTION:
-am
-
-DIRECTION:
-somebody's lunchhour.
 

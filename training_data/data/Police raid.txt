@@ -1,14 +1,8 @@
-DIRECTION:
-We now see that he is playing chess with another young man. They are in an ordinary flat. There is a tremendous battering, banging, hammering and clattering at the door.
-
 ERIC IDLE:
 Door's open.
 
 GRAHAM CHAPMAN:
 Oh. Yes.
-
-DIRECTION:
-he enters
 
 GRAHAM CHAPMAN:
 All right. All right, all right, all right. My name's Police Constable Henry Thatcher, and this is a raid. I have reason to believe that there are certain substances on the premises.
@@ -58,9 +52,6 @@ I must warn you, sir, that outside I have police dog Josephine, who is not only 
 ERIC IDLE:
 What are you after ... ?
 
-DIRECTION:
-pulling a brown paper package from out of his pocket, very badly and obviously
-
 GRAHAM CHAPMAN:
 Oo! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh! Here is a brown paper bag I have found on the premises. I must confiscate this, sir, and take it with me for clinical examination.
 
@@ -69,12 +60,6 @@ Wait a minute. You just got that out of your pocket.
 
 GRAHAM CHAPMAN:
 What?
-
-DIRECTION:
-takes it
-
-DIRECTION:
-opens it
 
 ERIC IDLE:
 Sandwiches.

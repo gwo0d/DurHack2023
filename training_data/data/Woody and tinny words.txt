@@ -1,9 +1,3 @@
-DIRECTION:
-Exterior, a large, tasteful, Georgian rich person's house with extensive gardens beautifully tended, croquet hoops on the lawn - all in superb taste, nothing vulgar. The sun shines tastefully. The atmosphere is calm. Birds sing. Sound of lawnmovers and cricket in the distance. Laughter from the tennis court. Sound of gardener sharpening spades in the potting shed. Out of vision, a Red Indian struggles to free himself from the rope bonds that bind him. We hear 'Where does a dream begin' being played on a cracked record.
-
-DIRECTION:
-CAPTION:
-
 GRAHAM CHAPMAN:
 I say...
 
@@ -46,14 +40,8 @@ Perfectly dreadful!
 GRAHAM CHAPMAN:
 Ugh! Newspaper!...litterbin...dreadful tinny sort of words. Tin, tin, tin.
 
-DIRECTION:
-The daughter bursts into tears.
-
 ERIC IDLE:
 Oh, dear, don't say 'tin' to Rebecca, you know how it upsets her.
-
-DIRECTION:
-to the daughter
 
 GRAHAM CHAPMAN:
 Sorry, old horse.
@@ -70,9 +58,6 @@ Antelope!
 GRAHAM CHAPMAN:
 Where? On the lawn?
 
-DIRECTION:
-he picks up a rifle
-
 CAROL CLEVELAND:
 No, no, daddy...just the word.
 
@@ -88,9 +73,6 @@ Don't think so, Becky old chap.
 GRAHAM CHAPMAN:
 No, no 'antelope', 'antelope' - tinny sort of word.
 
-DIRECTION:
-the daughter bursts into tears
-
 GRAHAM CHAPMAN:
 Oh, sorry old man.
 
@@ -99,9 +81,6 @@ Really, Mansfield.
 
 GRAHAM CHAPMAN:
 Well, she's got to come to terms with these things... seemly... prodding... vacuum... leap...
-
-DIRECTION:
-miserably
 
 CAROL CLEVELAND:
 Hate 'leap'.
@@ -127,12 +106,6 @@ Bound...Vole...Recidivist.
 ERIC IDLE:
 Bit tinny.
 
-DIRECTION:
-the daughter howls
-
-DIRECTION:
-the daughter runs out crying
-
 GRAHAM CHAPMAN:
 Oh dear, I suppose she'll be gorn for a few days now.
 
@@ -145,14 +118,8 @@ Splendid word.
 ERIC IDLE:
 No, dear...nibbling the hoops.
 
-DIRECTION:
-he fires a shot
-
 GRAHAM CHAPMAN:
 Caribou gorn.
-
-DIRECTION:
-laughs politely
 
 GRAHAM CHAPMAN:
 Intercourse.
@@ -163,12 +130,6 @@ Later, dear.
 GRAHAM CHAPMAN:
 No, no, the word, 'intercourse' - good and woody...Inter...course... pert...pert thighs...botty, botty botty...
 
-DIRECTION:
-the mother leaves the room
-
-DIRECTION:
-the mother returns and throws a bucket of water over him
-
 GRAHAM CHAPMAN:
 Oh, thank you, dear...you know, it's a funny thing, dear...all the naughty words sound woody.
 
@@ -177,12 +138,6 @@ Really, dear?...how about tit?
 
 GRAHAM CHAPMAN:
 Oh dear, I hadn't thought about that. Tit. Tit. Oh, that's very tinny, isn't it?
-
-DIRECTION:
-the daughter returns
-
-DIRECTION:
-the daughter runs out crying
 
 GRAHAM CHAPMAN:
 Oh dear...ocelot...wasp....yowling...Oh dear, I'm bored...I'd better go and have a bath, I suppose.
@@ -193,17 +148,8 @@ Oh really, must you, dear? You've had nine today.
 GRAHAM CHAPMAN:
 All right, I'll sack one of the servants...Simpkins!...nasty tinny sort of name. Simpkins!
 
-DIRECTION:
-he exits
-
-DIRECTION:
-A pilot from the RAF banter scene enters.
-
 MICHAEL PALIN:
 I say, mater, cabbage crates coming over the briny.
-
-DIRECTION:
-frowns and shakes her head
 
 ERIC IDLE:
 Sorry dear, don't understand.
@@ -244,14 +190,8 @@ Oh, OK.
 ERIC IDLE:
 Something woody.
 
-DIRECTION:
-The pilot launches into a quite enormously loud rendering of `She's going to marry Yum Yum'. The impact of this on the mother causes her to have a heart attack. She dies and the song ends.
-
 MICHAEL PALIN:
 For ... she's going to marry Yum Yum ... oh crikey. The old song finished her orff.
-
-DIRECTION:
-entering
 
 GRAHAM CHAPMAN:
 What's urp?

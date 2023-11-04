@@ -1,12 +1,3 @@
-DIRECTION:
-Cut to a small, tatty, little boarding house.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'A SMALL BOARDING HOUSE IN MINEHEAD, SOMERSET'
-
-DIRECTION:
-Mr and Mrs Johnson, a typical holidaying bourgeois couple walk up to the front door and ring the bell. Inside the boarding house, the landlady goes up to the front door and opens it.
-
 TERRY JONES:
 Hello, Mr and Mrs Johnson?
 
@@ -48,12 +39,6 @@ Well, wouldn't say no, not if it's warm and wet.
 
 TERRY JONES:
 Well come on in the lounge, I'm just going to serve afternoon tea.
-
-DIRECTION:
-following her into the lounge
-
-DIRECTION:
-In the lounge are sitting another bourgeois couple Mr and Mrs Phillips.
 
 TERRY JONES:
 Come on in, Mr and Mrs Johnson, oh this is Mr and Mrs Phillips.

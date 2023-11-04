@@ -1,14 +1,5 @@
-DIRECTION:
-Cut to police station.
-
-DIRECTION:
-behind station counter into camera
-
 JOHN CLEESE:
 Goodnight.
-
-DIRECTION:
-Camera pulls back to show a man standing in front of the counter.
 
 TERRY JONES:
 Good evening, I wish to report a burglary.
@@ -22,17 +13,11 @@ I wish to report a burglary.
 JOHN CLEESE:
 I can't hear you, sir.
 
-DIRECTION:
-bellowing
-
 TERRY JONES:
 I wish to report a burglary!
 
 JOHN CLEESE:
 That's a little bit too loud. Can you say it just a little less loud than that?
-
-DIRECTION:
-a little louder than normal
 
 JOHN CLEESE:
 No... I'm still not getting anything... Er, could you try it in a higher register?
@@ -43,26 +28,14 @@ What do you mean in a higher register?
 JOHN CLEESE:
 What?
 
-DIRECTION:
-in a high-pitched voice
-
 JOHN CLEESE:
 Ahl That's it, hang on a moment.
-
-DIRECTION:
-gets out pencil and paper
 
 JOHN CLEESE:
 Now a little bit louder.
 
-DIRECTION:
-louder and more high pitched
-
 JOHN CLEESE:
 Report a what?
-
-DIRECTION:
-by now a ridiculously high-pitched squeak
 
 TERRY JONES:
 Burglary!
@@ -70,23 +43,11 @@ Burglary!
 JOHN CLEESE:
 That's the exact frequency... now keep it there.
 
-DIRECTION:
-Another sergeant enters and goes round to back of counter.
-
-DIRECTION:
-in high-pitched voice
-
 GRAHAM CHAPMAN:
 Hello, sarge!
 
-DIRECTION:
-in very deep voice
-
 JOHN CLEESE:
 Evening Charlie.
-
-DIRECTION:
-The second sergeant is taking his coat off, and the first one begins to pack up his papers. The man carries on with his tale of woe, but still in a high-pitched shriek.
 
 TERRY JONES:
 I was sitting at home with a friend of mine from Camber Sands, when we heard a noise in the bedroom. We went to investigate and found £5,000 stolen.
@@ -94,20 +55,11 @@ I was sitting at home with a friend of mine from Camber Sands, when we heard a n
 JOHN CLEESE:
 Well, I'm afraid I'm going off duty now sir. Er, could you tell First Sergeant Foster?
 
-DIRECTION:
-He leaves counter. Sergeant Foster comes forward with a helpful smile.
-
-DIRECTION:
-continues in high-pitched shriek
-
 TERRY JONES:
 I was sitting at home with a friend of mine.
 
 GRAHAM CHAPMAN:
 Excuse me sir, but, er, why the funny voice?
-
-DIRECTION:
-normal voice
 
 TERRY JONES:
 Oh, terribly sorry. I'd just got used to talking like that to the other sergeant.
@@ -118,35 +70,17 @@ I'm terribly sorry... I can't hear you, sir, could you try speaking in a lower r
 TERRY JONES:
 What! Oh
 
-DIRECTION:
-in a very deep voice
-
 TERRY JONES:
 I wish to report the loss of £5,000.
 
 GRAHAM CHAPMAN:
 £5,000? That's serious, you'd better speak to the detective inspector.
 
-DIRECTION:
-At that moment, via the miracle of cueing, the detective inspector comes out of his office.
-
-DIRECTION:
-in very slow deep voice
-
 ERIC IDLE:
 What's the trouble, sergeant?
 
-DIRECTION:
-speaking at fantastic speed
-
 GRAHAM CHAPMAN:
 Well- this- gentleman- sir- has- just- come- in- to- report- that- he- was- sitting- at- home- with- a- friend- when- he- heard- a- noise- in- the- backroom- went- round- to- investigate- and- found- that-£5,000- in- savings- had- been- stolen.
-
-DIRECTION:
-deep voice
-
-DIRECTION:
-turns to man and addresses him in normal voice
 
 ERIC IDLE:
 Where do you live sir?
@@ -154,83 +88,26 @@ Where do you live sir?
 TERRY JONES:
 121, Halliwell Road, Dulwich, SE21
 
-DIRECTION:
-The detective inspector has been straining to hear but has failed. The second sergeant comes in helpfully.
-
-DIRECTION:
-fast
-
 GRAHAM CHAPMAN:
 121- Halliwell- Road- Dulwich- SE21
-
-DIRECTION:
-squeak
 
 ERIC IDLE:
 Another Halliwell Road job eh, sergeant?
 
-DIRECTION:
-fast
-
 JOHN CLEESE:
 Yes- I- can't- believe- it- I- thought- the- bloke- who'd- done- that- was- put- inside- last- year.
-
-DIRECTION:
-squeak
 
 GRAHAM CHAPMAN:
 Yes, in Parkhurst.
 
-DIRECTION:
-deep
-
 JOHN CLEESE:
 Well it must have been somebody else.
-
-DIRECTION:
-very deep
-
-DIRECTION:
-normal voice to man
-
-DIRECTION:
-he picks up phone and dials, at the same time he shrieks in high voice to the tint sergeant
-
-DIRECTION:
-very deep voice to the second sergeant
-
-DIRECTION:
-ridiculous sing-song voice into phone
 
 ERIC IDLE:
 Ha-allo Dar-ling, I'm afra-ID I sh-A-ll BE L-ate H-O-me this evening.
 
-DIRECTION:
-Meanwhile the second sergeant has a radio-controlled microphone and is singing down it in fine operatic tenor.
-
-DIRECTION:
-singing
-
 GRAHAM CHAPMAN:
 Calling all squad cars in the area...
-
-DIRECTION:
-Cut to vox pops.
-
-DIRECTION:
-in deep male voice, dubbed on
-
-DIRECTION:
-I think that's in very bad taste.
-
-DIRECTION:
-meows
-
-DIRECTION:
-barks
-
-DIRECTION:
-superimposed sheep bleating
 
 JOHN CLEESE:
 Some people do talk in the most extraordinary way.
