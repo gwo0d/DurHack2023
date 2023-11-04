@@ -1,53 +1,11 @@
-DIRECTION:
-CAPTION: 'WORLD FORUM'
-
-DIRECTION:
-An important-looking current affairs set. On the back wall behind the presenter huge letters say: 'World Forum'
-
 ERIC IDLE:
 Good evening. Tonight is indeed a unique occasion in the history of television. We are very privileged, and deeply honoured to have with us in the studio, Karl Marx, founder of modern socialism, and author of the 'Communist Manifesto'.
-
-DIRECTION:
-Karl Marx is sitting at a desk; he nods
-
-DIRECTION:
-shot of Lenin also at desk; he nods
-
-DIRECTION:
-shot of Guevara
-
-DIRECTION:
-shot of Mao; the presenter picks up a card
-
-DIRECTION:
-shot of Karl Marx furrowing his brow- obviously he hasn't a clue
-
-DIRECTION:
-cut to Che looking equally dumbfounded
-
-DIRECTION:
-they all look blank
-
-DIRECTION:
-buzzer goes as in 'University Challenge'.' zoom in on Mao Tse-tung
 
 ERIC IDLE:
 Yes, Mao Tse-tung?
 
-DIRECTION:
-'Sing Little Birdie'?
-
 ERIC IDLE:
 Yes it was indeed. Well challenged.
-
-DIRECTION:
-applause
-
-DIRECTION:
-curtains behind the presenter sweep open to reveal a beautiful lounge suite; terrific audience applause; Karl comes out and stands in front of this display
-
-DIRECTION:
-Karl nods his head; the presenter reads from a card
 
 ERIC IDLE:
 The development of the industrial proletariat is conditioned by what other development?
@@ -55,23 +13,14 @@ The development of the industrial proletariat is conditioned by what other devel
 TERRY JONES:
 The development of the industrial bourgeoisie.
 
-DIRECTION:
-applause
-
 ERIC IDLE:
 Yes, yes, it is indeed. You're on your way to the lounge suite, Karl. Question number two. The struggle of class against class is a what struggle? A what struggle?
 
 TERRY JONES:
 A political struggle.
 
-DIRECTION:
-Tumultuous applause
-
 ERIC IDLE:
 Yes, yes! One final question Karl and the beautiful lounge suite will be yours... Are you going to have a go?
-
-DIRECTION:
-Karl nods
 
 ERIC IDLE:
 You're a brave man. Karl Marx, your final question, who won the Cup Final in 1949?
@@ -81,12 +30,6 @@ The workers' control of the means of production? The struggle of the urban prole
 
 ERIC IDLE:
 No. It was in fact, Wolverhampton Wanderers who beat Leicester 3-1.
-
-DIRECTION:
-Cut to stock film of goal bring scored in a big football match. Roar from crowd. Stock footage of football crowds cheering.
-
-DIRECTION:
-and CAPTION:
 
 MICHAEL PALIN:
 'IN WORLD FORUM TODAY: KARL MARX, CHE GUEVARA, LENIN AND MAO TSE-TUNG. NEXT WEEK, FOUR LEADING HEADS OF STATE OF THE AFRO-ASIAN NATIONS AGAINST BRISTOL ROVERS AT MOLINEUX'

@@ -1,17 +1,8 @@
-DIRECTION:
-Cut to a Whitehall war office conference room. A general is on the phone. Four other generals sit there.
-
 GRAHAM CHAPMAN:
 Five shillings a dozen? That's ordinary cabbages, is it? And what about the bombs?... Good Lord, they
 
-DIRECTION:
-are
-
 GRAHAM CHAPMAN:
 expensive.
-
-DIRECTION:
-A corporal rushes in.
 
 ERIC IDLE:
 Sir!
@@ -37,9 +28,6 @@ They what ... ?
 ERIC IDLE:
 .. and ... they had spiders in matchboxes, sir.
 
-DIRECTION:
-in disbelief
-
 GRAHAM CHAPMAN:
 Good God! How did our chaps react?
 
@@ -48,18 +36,6 @@ Well, they were jolly interested, sir. Some of them ... I think it was the 4th A
 
 GRAHAM CHAPMAN:
 Oh my God! All right, thank you, Shirley.
-
-DIRECTION:
-A girl emerges from under the table. She is a blonde WAAF.
-
-DIRECTION:
-to a sergeant
-
-DIRECTION:
-the sergeant opens the door, Churchill stands outside
-
-DIRECTION:
-the sergeant shuts the door
 
 GRAHAM CHAPMAN:
 Gentlemen, it's now quite apparent that the enemy are not only fighting this war on the cheap, but they're also not taking it seriously.
@@ -82,21 +58,9 @@ What are we going to do, Shirley?
 GRAHAM CHAPMAN:
 Well, we've got to act fast before it saps morale. We're going to show these Chinese ...
 
-DIRECTION:
-Germans, sir.
-
 GRAHAM CHAPMAN:
 These Germans ... we're going to show them that no British soldier will descend to their level. Anyone found trivialising this war will face the supreme penalty that military law can provide.
 
-DIRECTION:
-he holds a heroic pose; there is a pause during which we expect to cut; we don't; suddenly he breaks out of the pose into informality
-
 GRAHAM CHAPMAN:
 That was all right, I think?
-
-DIRECTION:
-getting out drinks
-
-DIRECTION:
-Seemed to go quite well.
 

@@ -1,11 +1,5 @@
-DIRECTION:
-Fade up on two pilots in the cockpit of an aeroplane. A stewardess is there too. After a moment or two the first pilot makes an announcement.
-
 MICHAEL PALIN:
 This is Captain MacPherson welcoming you aboard East Scottish Airways. You'll have had your tea. Our destination is Glasgow. There is no need to panic.
-
-DIRECTION:
-The door of the cockpit opens and Mr Badger comes in.
 
 ERIC IDLE:
 There's a bomb on board this plane, and I'll tell you where it is for a thousand pounds.
@@ -46,9 +40,6 @@ You've forgotten.
 ERIC IDLE:
 Aye, you'd better have your pound back. Oh...
 
-DIRECTION:
-rubs it
-
 ERIC IDLE:
 fingerprints.
 
@@ -58,12 +49,6 @@ Now where's the bomb?
 ERIC IDLE:
 Ah, wait a tic, wait a tic.
 
-DIRECTION:
-closes eyes and thinks
-
-DIRECTION:
-opens eyes
-
 ERIC IDLE:
 I'll tell you where the bomb is for a pound.
 
@@ -72,9 +57,6 @@ It's in the luggage compartment.
 
 ERIC IDLE:
 Right. Here's your pound..
-
-DIRECTION:
-Enter a man with headphones.
 
 GRAHAM CHAPMAN:
 Is this character giving you any trouble?
@@ -99,7 +81,4 @@ ERIC IDLE:
 
 GRAHAM CHAPMAN:
 Next item.
-
-DIRECTION:
-they start to leave
 

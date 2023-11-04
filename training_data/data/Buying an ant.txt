@@ -1,14 +1,8 @@
 ERIC IDLE:
 Hello? Hello?
 
-DIRECTION:
-A strange rubber-masked head appears from below the other side of the counter and gesticulates at him making a strange noise. This soon stops.
-
 GRAHAM CHAPMAN:
 Oh, I'm terribly sorry...
-
-DIRECTION:
-he takes off the mask to reveal a straight forward assistant
 
 GRAHAM CHAPMAN:
 I thought you were someone else.
@@ -45,9 +39,6 @@ I mean he's hardly likely to move in your circles, sir...
 
 ERIC IDLE:
 Why, is he very
-
-DIRECTION:
-rich
 
 ERIC IDLE:
 ?
@@ -118,9 +109,6 @@ He's a small man about this high with a high-pitched voice.
 ERIC IDLE:
 Right, I'm not going to buy an ant from you now.
 
-DIRECTION:
-distressed
-
 GRAHAM CHAPMAN:
 Oh, no, please.
 
@@ -133,26 +121,14 @@ Oh, no, come on... please...
 ERIC IDLE:
 No, I want
 
-DIRECTION:
-another assistant
-
 ERIC IDLE:
 .
 
 GRAHAM CHAPMAN:
 All right! I'll get another assistant.
 
-DIRECTION:
-he disappears behind a curtain
-
 ERIC IDLE:
 Thank you.
-
-DIRECTION:
-The same assistant reappears with a long mandarin-style Chinese moustache.
-
-DIRECTION:
-high-pitched voice
 
 GRAHAM CHAPMAN:
 Hello sir, can I help you, sir?
@@ -160,26 +136,17 @@ Hello sir, can I help you, sir?
 ERIC IDLE:
 No, I want a
 
-DIRECTION:
-different
-
 ERIC IDLE:
 assistant.
 
 GRAHAM CHAPMAN:
 I
 
-DIRECTION:
-am
-
 GRAHAM CHAPMAN:
 sir, I'm Mr Abanazar, sir.
 
 ERIC IDLE:
 Don't be silly.
-
-DIRECTION:
-normal voice
 
 GRAHAM CHAPMAN:
 Oh no, please please please let me help you...
@@ -196,9 +163,6 @@ If you don't give me another assistant...
 GRAHAM CHAPMAN:
 No, no, I'll be very good, sir, really.
 
-DIRECTION:
-he becomes exaggeratedly polite
-
 GRAHAM CHAPMAN:
 Good morning, sir... how are you, sir... bit parky outside today... isn't it, sir... ? A very nice suit you've got there, sir... you had a very close shave this morning, sir...
 
@@ -208,29 +172,11 @@ Right I'm going!
 GRAHAM CHAPMAN:
 No, no, please...
 
-DIRECTION:
-he takes off his moustache
-
-DIRECTION:
-he rings the bell on the counter.
-
-DIRECTION:
-After a pause, very slowly indeed an identical mask to the first appears over the top of the counter right next to the first assistant, making the same noise very quietly. The first assistant sees him, starts and nudges him hard.
-
 MICHAEL PALIN:
 Woooooo ....ooooooo...
 
 GRAHAM CHAPMAN:
 It's not him!
-
-DIRECTION:
-The second assistant makes a disappointed noise and disappears below.
-
-DIRECTION:
-pointing over the counter at the disappeared assistant
-
-DIRECTION:
-him
 
 ERIC IDLE:
 !
@@ -240,9 +186,6 @@ Oh please, give him a chance!
 
 ERIC IDLE:
 No!
-
-DIRECTION:
-appearing from below counter without a mask, looking immaculate
 
 MICHAEL PALIN:
 Yes, sir, can I be of any assistance?
@@ -277,32 +220,17 @@ Manager!
 GRAHAM CHAPMAN:
 This is the manager, sir.
 
-DIRECTION:
-in a silly voice
-
 MICHAEL PALIN:
 Yes, I'm the manager.
-
-DIRECTION:
-he keeps calling
 
 MICHAEL PALIN:
 It's a smashing store this, I can't recommend it too highly, well-lit, rat-free. It's a joy to manage. Oh yes, the freshest haddock in London, second floor, third floor Ribena, ants here, television and flame throwers over there, behind them our dinner-wagon exhibition closes at six...
 
-DIRECTION:
-nudging him
-
 GRAHAM CHAPMAN:
 Quick!
 
-DIRECTION:
-They both disappear under the counter. The real manager arrives and presents himself to Chris.
-
 TERRY JONES:
 Yes, sir? Can I help you, sir?
-
-DIRECTION:
-noticing the 'manager' badge on his lapel
 
 ERIC IDLE:
 Yes, I want to complain about the assistants on this counter.
@@ -322,26 +250,17 @@ They're hiding, down there behind the counter.
 TERRY JONES:
 I see, sir.
 
-DIRECTION:
-he goes round counter, looks, but obviously can't see them; Chris goes round to join in the search
-
 TERRY JONES:
 ... well... there's nobody down here, sir.
 
 ERIC IDLE:
 They must have crawled through here, and made their escape through 'Soft Toys'.
 
-DIRECTION:
-he points
-
 TERRY JONES:
 Yes, of course.
 
 ERIC IDLE:
 They were wearing masks and making silly noises and one of them pretended to be the manager. He spoke like this..
-
-DIRECTION:
-he does an impression
 
 TERRY JONES:
 Ah! I think I've got it, sir, I think I've got it! It's rag week.
@@ -358,17 +277,11 @@ Oh! I see. Some local college or university?
 TERRY JONES:
 No, no it's the
 
-DIRECTION:
-store's
-
 TERRY JONES:
 rag week.
 
 ERIC IDLE:
 The
-
-DIRECTION:
-store's
 
 ERIC IDLE:
 rag week?
@@ -382,26 +295,14 @@ It's not very good for business is it?
 TERRY JONES:
 Oh, It's for charity, sir. People are awfully good about it, you know.
 
-DIRECTION:
-he rattles a collecting tin
-
 ERIC IDLE:
 Yes, yes, of course.
-
-DIRECTION:
-he puts a coin in
 
 TERRY JONES:
 Right, sir, I'll get you a senior assistant - ants, was it?
 
 ERIC IDLE:
 Yes, please.
-
-DIRECTION:
-calling
-
-DIRECTION:
-Mr Snetterton approaches immediately; he is clearly the first assistant with very bad short crew-cut wig on
 
 TERRY JONES:
 Could you look after this gentleman, Mr Snetterton?
@@ -411,9 +312,6 @@ I don't want him!
 
 GRAHAM CHAPMAN:
 Oh
-
-DIRECTION:
-please!
 
 GRAHAM CHAPMAN:
 Give me a chance!
@@ -448,9 +346,6 @@ Oh ... medium?
 MICHAEL PALIN:
 Medium. Medium. Here we are, sir.
 
-DIRECTION:
-he tips some ants - which we can't see - out into a special ring on counter
-
 MICHAEL PALIN:
 That one there is an Ayrshire, and that one there is a King George bitch I think ... and that one killing the little flitbat is an Afghan.
 
@@ -459,9 +354,6 @@ That's a nice one.
 
 MICHAEL PALIN:
 Let's see how you get on with him, eh?
-
-DIRECTION:
-he puts it on Chris's hand
 
 MICHAEL PALIN:
 Ah yes, he likes you. He's taken to you.
@@ -514,9 +406,6 @@ Is there anything else I'll need?
 MICHAEL PALIN:
 Yes, sir - you'll need an ant house.
 
-DIRECTION:
-he produces a birdcage
-
 MICHAEL PALIN:
 This is the model we recommend, sir.
 
@@ -532,9 +421,6 @@ Well what's the point of having the cage?
 MICHAEL PALIN:
 Well, none at all really. And then some pieces of cage furniture which will keep him entertained.
 
-DIRECTION:
-he produces microscopic things
-
 MICHAEL PALIN:
 Here's an ant-wheel, ant-swing, and a very nice one here, a little ladder - he can run up there and ring the bell at the top, that's a little trick he can learn.
 
@@ -544,17 +430,11 @@ Will he live long enough?
 MICHAEL PALIN:
 Not really, no, but it's best to have one just in case, and here's a two-way radio he can play with... and of course you'll need the book.
 
-DIRECTION:
-he produces an expensive-looking book, thoughtlessly slams it down where the ants were, then hurriedly brushes them away
-
 ERIC IDLE:
 The book?
 
 MICHAEL PALIN:
 Yes, the book on ants.
-
-DIRECTION:
-looking unsure
 
 ERIC IDLE:
 Yes...
@@ -568,23 +448,11 @@ Will you take a cheque?
 MICHAEL PALIN:
 Yes, sir, if you don't mind leaving a blood-sample, and a piece of skin off the back of the scalp just here, sir ...
 
-DIRECTION:
-indicates a point behind his ear
-
-DIRECTION:
-he hands him a little knife and some cotton wool
-
 ERIC IDLE:
 Oh, well I think I'll put it on account.
 
 MICHAEL PALIN:
 I should, sir... much less painful. Anyway sir, you know what they say about an ant. A friend for life, eh? Well, a friend for its life anyway...
-
-DIRECTION:
-Hartford loads the large cage, furniture, two-way radio and the book on ants into a huge box; with some difficulty he finds the ant; he picks it up carefully
-
-DIRECTION:
-he drops him in the big box and pushes it across the counter; the box has on one side, in large letters 'live ant: handle with care'; it has breathing holes in it
 
 MICHAEL PALIN:
 If the little chap should go to an early grave, sir, give us a ring and we'll stick a few in an envelope, all right?
@@ -595,14 +463,8 @@ Thanks very much indeed.
 MICHAEL PALIN:
 Not at all, thank
 
-DIRECTION:
-you
-
 MICHAEL PALIN:
 , Mr Ellis.
-
-DIRECTION:
-Chris turns sharply. The first assistant comes quickly up to Hartford.
 
 GRAHAM CHAPMAN:
 Sssssshh!
@@ -622,9 +484,6 @@ Oh!
 ERIC IDLE:
 Why did you say I was Mr Ellis?
 
-DIRECTION:
-innocently
-
 MICHAEL PALIN:
 Who?
 
@@ -640,24 +499,6 @@ Oh, no, no - he said 'I'm jealous'.
 GRAHAM CHAPMAN:
 I'm jealous of your ant. Goodbye. Goodbye.
 
-DIRECTION:
-waves pointedly
-
-DIRECTION:
-leaving the counter
-
 ERIC IDLE:
 I don't care who Michael Ellis is!
-
-DIRECTION:
-Chris passes a shop area labelled 'The Paisley Counter' where two customers are talking to mirrors in thick Irish accents. Chris moves on to lift. A little old lady passes, oblivious to the fact that her shopping trolley is smouldering. The lady passes and Chris is about to enter.
-
-DIRECTION:
-Will Mr Michael Ellis please go straight to the manager's office... I'll repeat that...
-
-DIRECTION:
-Chris wheels round and listens
-
-DIRECTION:
-Will Mr Nigel Mellish please go straight to the manager's office.
 

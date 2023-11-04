@@ -1,9 +1,3 @@
-DIRECTION:
-Cut to a court room.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'CENTRAL CRIMINAL COURT'
-
 GRAHAM CHAPMAN:
 Ladies and gentlemen of the jury, have you reached a verdict?
 
@@ -13,20 +7,8 @@ We have m'lud.
 GRAHAM CHAPMAN:
 And how do you find the defendant?
 
-DIRECTION:
-the foreman puts his hand out with two fingers extended
-
-DIRECTION:
-the foreman nods and holds up one finger
-
-DIRECTION:
-the foreman mimes taking a piece of string and tying it in knot
-
 GRAHAM CHAPMAN:
 Rope? String?
-
-DIRECTION:
-The foreman shakes his head and points to the knot.
 
 JOHN CLEESE:
 Point?
@@ -37,35 +19,14 @@ Belt?
 GRAHAM CHAPMAN:
 Tie?
 
-DIRECTION:
-The foreman nods and points to the knot.
-
 JOHN CLEESE:
 Cravat? Silk square?
 
 ERIC IDLE:
 Knot?
 
-DIRECTION:
-The foreman nods enthusiasticaly.
-
-DIRECTION:
-Knot!
-
-DIRECTION:
-The foreman gives a thumbs up and points to his second finger.
-
 GRAHAM CHAPMAN:
 Second word.
-
-DIRECTION:
-foreman indicates two syllables
-
-DIRECTION:
-the foreman points to his first finger
-
-DIRECTION:
-the foreman starts to mime a fish while pointing at his throat
 
 GRAHAM CHAPMAN:
 Bird?
@@ -91,9 +52,6 @@ No, no, don't be silly. How can you find someone 'Not Esther Williams'.
 JOHN CLEESE:
 Fish.
 
-DIRECTION:
-the foreman nods and points at throat
-
 JOHN CLEESE:
 Fish wheeze. Fish wheeze?
 
@@ -106,17 +64,8 @@ Fish breathe, throat.
 GRAHAM CHAPMAN:
 Fish breathe, throat? GILL!
 
-DIRECTION:
-the foreman gives a thumbs up and the court applauds excitedly
-
-DIRECTION:
-the foreman mimes the second syllable
-
 GRAHAM CHAPMAN:
 Second syllable. Not gill.
-
-DIRECTION:
-Foreman mimes drinking a cup of tea.
 
 JOHN CLEESE:
 Drink.
@@ -124,26 +73,11 @@ Drink.
 ERIC IDLE:
 Sip? Imbibe?
 
-DIRECTION:
-The foreman points to the mimed cup itself.
-
 GRAHAM CHAPMAN:
 Not gill ... cup? Not gillcup!
 
-DIRECTION:
-the foreman looks disappointed
-
-DIRECTION:
-the defendant leaves.
-
-DIRECTION:
-The judge holds up four fingers.
-
 JOHN CLEESE:
 Four words.
-
-DIRECTION:
-The judge mimes shouting for the first word.
 
 MICHAEL PALIN:
 First word shout?
@@ -153,12 +87,6 @@ Bellow?
 
 ERIC IDLE:
 Call?
-
-DIRECTION:
-Call!
-
-DIRECTION:
-The judge gives a thumbs up and indicates that the second word is very small.
 
 JOHN CLEESE:
 Second word is very small.
@@ -175,32 +103,14 @@ Up?
 MICHAEL PALIN:
 The?
 
-DIRECTION:
-The judge gives a thumbs up.
-
-DIRECTION:
-The!
-
 ERIC IDLE:
 Call the, third word:
-
-DIRECTION:
-The judge points to his neck.
 
 JOHN CLEESE:
 Gill?
 
-DIRECTION:
-Fish?
-
 ERIC IDLE:
 Adam's apple.
-
-DIRECTION:
-the judge shakes his head
-
-DIRECTION:
-the judge mime 'sounds like'
 
 ERIC IDLE:
 Sounds like neck?
@@ -211,9 +121,6 @@ Next.
 MICHAEL PALIN:
 Call the ... next!
 
-DIRECTION:
-The judge gives a thumbs up and indicates that the fourth word is three Syllables. First syllable: he mimes deafness.
-
 ERIC IDLE:
 Fourth word, three syllables. First syllable ... ear?
 
@@ -222,9 +129,6 @@ Hear. Can't hear.
 
 ERIC IDLE:
 Deaf!! Call the next def-.
-
-DIRECTION:
-The judge leaps onto the desk and points at his own bottom.
 
 JOHN CLEESE:
 Bottom.
@@ -235,20 +139,8 @@ Seat? Trouser? Cheek?
 MICHAEL PALIN:
 End! Call the next defend-.
 
-DIRECTION:
-The judge leaps down, disappears under the desk and appears with an enormous model of an ant about four feet long.
-
-DIRECTION:
-Ant!
-
 ERIC IDLE:
 Call the next defendant!
-
-DIRECTION:
-the court applauds the judge who bows and sits; the whole mood changes
-
-DIRECTION:
-a very elderly judge in full robes comes into the dock
 
 ERIC IDLE:
 If I may charge you m'lud, you are charged m'lud that on the fourteenth day of June 1970, at the Central Criminal Court, you did commit acts likely to cause a breach of the peace. How plead you m'lud, guilty or not guilty?
@@ -256,14 +148,8 @@ If I may charge you m'lud, you are charged m'lud that on the fourteenth day of J
 TERRY JONES:
 Not guilty. Case not proven. Court adjourned.
 
-DIRECTION:
-He hits the dock. Everyone gets up and starts walking out talking to each other.
-
 GRAHAM CHAPMAN:
 No, no, no, no, no, no, no.
-
-DIRECTION:
-they all stop, go back and sit down again
 
 GRAHAM CHAPMAN:
 No, you're in the dock, m'lud.
@@ -276,9 +162,6 @@ So am I, m'lud, so watch it.
 
 TERRY JONES:
 Hah! Call this a court.
-
-DIRECTION:
-Call this a court. Call this a court..Call this a court.
 
 GRAHAM CHAPMAN:
 Shut up. Right now get on with the spiel.
@@ -294,9 +177,6 @@ Sorry did I say Q? I meant A. Sorry, call exhibit A.
 
 ERIC IDLE:
 Call exhibit A.
-
-DIRECTION:
-Two court ushers carry in a thing with a sheet over it. They pull off the sheet to reveal a very sexy girl in a provocative pose.
 
 JOHN CLEESE:
 Exhibit A m'lud, Miss Rita Thang, an artist's model, Swedish accordion teacher and cane-chair sales lady, was found guilty under the Rude Behaviour Act in the accused's court. The accused, m'lud, sentenced her to be taken from this place and brought round to his place.
@@ -352,14 +232,8 @@ Contempt of court. However, I'm not going to punish you, because we're so short 
 TERRY JONES:
 Blimey! I didn't expect the Spanish Inquisition.
 
-DIRECTION:
-Court reacts expectantly. Cut to suburban house. The three members of the Spanish Inquisition suddenly belt out of the door and down the path. Dick Barton music. Cut to them leaping onto a bus.
-
 MICHAEL PALIN:
 Two, er, three to the Old Bailey please.
-
-DIRECTION:
-Credits start superimposed.
 
 TERRY JONES:
 Look they've started the credits.
@@ -370,26 +244,14 @@ Hurry. Hurry. Hurry.
 TERRY JONES:
 Come on hurry. Hurry!
 
-DIRECTION:
-We see shots of them coming through London.
-
 MICHAEL PALIN:
 There's the lighting credit, only five left.
-
-DIRECTION:
-more shots of the bus going through London; the credits reach the producer
 
 MICHAEL PALIN:
 Hell, it's the producer - quick!
 
-DIRECTION:
-They leap off the bus into the Old Bailey. Cut to court room. They burst in.
-
 MICHAEL PALIN:
 Nobody expects the Spa...
-
-DIRECTION:
-'The End' appears
 
 MICHAEL PALIN:
 Oh bugger!

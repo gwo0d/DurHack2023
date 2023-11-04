@@ -1,6 +1,3 @@
-DIRECTION:
-Pull back to reveal 'The End' is on TV in the house of Mrs Trepidatious. Another old ratbag enters and sits opposite Mrs Trepidatious.
-
 ERIC IDLE:
 Morning, Mrs Trepidatious.
 
@@ -22,26 +19,17 @@ Well, Petula Clark says burst them early, but David Frost...
 ERIC IDLE:
 No, the stars in the paper, you cloth-eared heap of anteater's catarrh, the zodiacal signs, the horoscopic fates, the astrological portents, the omens, the genethliac prognostications, the mantalogical harbingers, the vaticinal utterances, the fatidical premonitory uttering of the mantalogical omens - what do the bleeding stars in the paper predict, forecast, prophesy, foretell, prognosticate...
 
-DIRECTION:
-A big sheet is lowered with the words on.
-
 MICHAEL PALIN:
 And this is where you at home can join in.
 
 ERIC IDLE:
 ... forebode, bode, augur, spell, foretoken,
 
-DIRECTION:
-the audience joins in
-
 ERIC IDLE:
 presage, portend, foreshow, foreshadow, forerun, herald, point to, betoken, indicate!
 
 GRAHAM CHAPMAN:
 I don't know.
-
-DIRECTION:
-The sheet is raised again.
 
 ERIC IDLE:
 What are you?
@@ -54,9 +42,6 @@ There's not a zodiacal sign called Nesbitt...
 
 GRAHAM CHAPMAN:
 All right, Derry and Toms.
-
-DIRECTION:
-surveying paper
 
 ERIC IDLE:
 Aquarius, Scorpio, Virgo, Derry and Toms. April 29th to March 22nd. Even dates only.

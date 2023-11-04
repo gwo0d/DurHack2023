@@ -1,11 +1,5 @@
-DIRECTION:
-Cut to the sea. Pan to show Ron Obvious running along beach.
-
 TERRY JONES:
 There is an epic quality about the sea which has throughout history stirred the hearts and minds of Englishmen of all nations. Sir Francis Drake, Captain Webb, Nelson of Trafalgar and Scott of the Antartic - all rose to the challenge of the mighty ocean. And today another Englishman may add his name to the golden roll of history: Mr Ron Obvious of Neaps End. For today, Ron Obvious hopes to be the first man to jump the Channel.
-
-DIRECTION:
-Ron runs up to group of cheering supporters. An interviewer addresses him.
 
 JOHN CLEESE:
 Ron, now let's just get this quite clear - you're intending to jump across the English Channel?
@@ -25,9 +19,6 @@ Er, that's to the beach at Calais?
 TERRY JONES:
 Well, no, no, provided I get a good lift off and maybe a gust of breeze over the French coast, I shall be jumping into the centre of Calais itself.
 
-DIRECTION:
-Brief shot of group of Frenchmen with banner. 'Fin de Cross-Channel jump'.
-
 JOHN CLEESE:
 Ron are you using any special techniques to jump this great distance?
 
@@ -39,9 +30,6 @@ I see. Er, Ron, what is the furthest distance that you've jumped, er, so far?
 
 TERRY JONES:
 Er, oh, eleven foot six inches at Motspur Park on July 22nd. Er, but I have done nearly twelve feet unofficially.
-
-DIRECTION:
-Ron breaks off to make training-type movements.
 
 JOHN CLEESE:
 I see. Er, Ron, Ron, Ron, aren't you worried Ron, aren't you worried jumping twenty-six miles across the sea?
@@ -61,20 +49,11 @@ I see. Well, er, thank you very much Ron and the very best of luck.
 TERRY JONES:
 Thank you. Thank you.
 
-DIRECTION:
-to camera
-
-DIRECTION:
-turns to speak to Vercotti, who has a Mafia suit and dark glasses
-
 JOHN CLEESE:
 Mr Vercotti, er Mr Vercotti ... Mr Vercotti...
 
 MICHAEL PALIN:
 What?
-
-DIRECTION:
-mumbles protestations of innocence
 
 MICHAEL PALIN:
 I don't know what you're talking about.
@@ -103,14 +82,8 @@ And who is the sponsor?
 MICHAEL PALIN:
 The Chippenham Brick Company. Ah, they, er, pay all the bills, er, in return for which Ron will be carrying half a hundredweight of their bricks.
 
-DIRECTION:
-We see a passport officer checking Ron's passport.
-
 JOHN CLEESE:
 I see. Well, er, it looks as if Ron is ready now. He's got the bricks. He's had his passport checked and he's all set to go. And he's off on the first ever cross-Channel jump.
-
-DIRECTION:
-Ron runs down the beach and jumps; he lands about four feet into the water
 
 JOHN CLEESE:
 Will Ron be trying the cross-Channel jump again soon?
@@ -123,9 +96,6 @@ Er, what's that?
 
 MICHAEL PALIN:
 Er, Ron is going to eat Chichester Cathedral.
-
-DIRECTION:
-Cut to Chichester Cathedral. Ron walks up to it, brushing his teeth.
 
 JOHN CLEESE:
 Well, there he goes, Ron Obvious of Neaps End, in an attempt which could make him the first man ever to eat an entire Anglican Cathedral.

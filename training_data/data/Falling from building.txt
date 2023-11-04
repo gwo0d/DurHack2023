@@ -1,12 +1,3 @@
-DIRECTION:
-CAPTION: 'BUT IN AN OFFICE OFF THE GOSWELL ROAD'
-
-DIRECTION:
-Two people seated opposite each other at a desk. Between them there is a large window. It appears that they are quite high up in a large office building. Every so often a body falls past the window. They are both working busily.
-
-DIRECTION:
-After a pause a body drops past the window. First Man talks. Second Man hasn't noticed.
-
 ERIC IDLE:
 Hey, did you see that?
 
@@ -22,17 +13,8 @@ What?
 ERIC IDLE:
 Somebody just went past the window. That way.
 
-DIRECTION:
-indicates down
-
-DIRECTION:
-flatly
-
 JOHN CLEESE:
 Oh. Oh.
-
-DIRECTION:
-Second Man returns to his work. First Man looks for a little. As he starts to work again another body goes hurtling past the window.
 
 ERIC IDLE:
 Another one.
@@ -52,9 +34,6 @@ Fine, fine. Fine.
 ERIC IDLE:
 Look! Two people
 
-DIRECTION:
-another falls
-
 ERIC IDLE:
 three people have just fallen past that window.
 
@@ -63,9 +42,6 @@ Must be a board meeting.
 
 ERIC IDLE:
 Oh yeah.
-
-DIRECTION:
-another falls past
 
 ERIC IDLE:
 Hey. That was Wilkins of finance.
@@ -78,9 +54,6 @@ Wilkins.
 
 JOHN CLEESE:
 Robertson.
-
-DIRECTION:
-Another falls.
 
 ERIC IDLE:
 That was Wilkins.
@@ -112,9 +85,6 @@ You're on.
 ERIC IDLE:
 Fine.
 
-DIRECTION:
-shakes; they look at the window
-
 ERIC IDLE:
 Come on Parky.
 
@@ -127,33 +97,12 @@ Come on Parky. Jump Parky. Jump.
 JOHN CLEESE:
 Come on now be sensible Parky.
 
-DIRECTION:
-Cut to letter.
-
 GRAHAM CHAPMAN:
 Dear Sir, I am writing to complain about that sketch about people failing out of a high building. I have worked all my life in such a building and have never once.... arrgghhh
-
-DIRECTION:
-splat
-
-DIRECTION:
-Cut to film of man falling out of window.
-
-DIRECTION:
-Cut back to set. First Man has hands in the air jubilantly.
 
 ERIC IDLE:
 Parkinson!
 
 JOHN CLEESE:
 Johnson!
-
-DIRECTION:
-ANIMATION
-
-DIRECTION:
-(possibly incorporating falling) which leads us ingeniously into: A presenter at a desk. Urgent current-affairs-type music.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'SPECTRUM'
 

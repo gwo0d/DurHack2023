@@ -1,6 +1,3 @@
-DIRECTION:
-Outside a shop. A sign reads 'Tuder Job Agency - Jobs a Speciality'. A man enters the shop. Inside it is decorated in Tudor style. The assistant is in Tudor dress.
-
 TERRY JONES:
 Morning, sir, can I help you?
 
@@ -9,9 +6,6 @@ Yes, yes... I wondered if you have any part-time vacancies on your books.
 
 TERRY JONES:
 Part-time, I'll have a look, sir.
-
-DIRECTION:
-he gets out a book and looks through it
 
 TERRY JONES:
 Let me look now. We've got, ah yes, Sir Walter Raleigh is equipping another expedition to Virginia; he needs traders and sailors. Vittlers needed at the Court of Philip of Spain, oh, yes, and they want master joiners and craftsmen for the building of the Globe Theatre.
@@ -55,9 +49,6 @@ Dirty books, please.
 TERRY JONES:
 Right.
 
-DIRECTION:
-produces selection of mags from under counter
-
 TERRY JONES:
 Sorry about the Tudor bit, but you can't be too careful, you know. Have a look through these.
 
@@ -69,9 +60,6 @@ A bit stronger?
 
 TERRY JONES:
 Hold on ... a... My Lord of Warwick!
-
-DIRECTION:
-off
 
 ERIC IDLE:
 'Allo!

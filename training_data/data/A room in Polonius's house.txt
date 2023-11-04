@@ -1,9 +1,3 @@
-DIRECTION:
-CAPTION: 'ACT TWO - A ROOM IN POLONIUS'S HOUSE'
-
-DIRECTION:
-Cut to a Frank Bough type presenter. Behind him are sports pictures.
-
 MICHAEL PALIN:
 Hello, and welcome to 'A Room in Polonius's House'. Well tonight is European Cup night. One result is already in from Munich. The European Cup, first round, second leg, Bayern München 4397, Wrexham 1. So Wrexham going through there on aggregate. Well, now it's time for racing, so let's go straight over to Epsom and Brian McNutty.
 

@@ -1,6 +1,3 @@
-DIRECTION:
-Cut to a doctor's surgery. The doctor has in front of him a plaque which says 'Dr E. H. Thripshaw'. Enter Burrows.
-
 MICHAEL PALIN:
 Good doctor morning! Nice year for the time of day!
 
@@ -12,9 +9,6 @@ Can I down sit?
 
 JOHN CLEESE:
 Certainly.
-
-DIRECTION:
-Burrows sits
 
 JOHN CLEESE:
 Well, then?
@@ -78,9 +72,6 @@ That's what I said. Such a bloody whack the diddle fa di la, fo di la, lo do di 
 
 JOHN CLEESE:
 Mr Burrows, this is no common problem. You are suffering from a disease so rare that it hasn't got a name. Not yet. But it will have. Oh yes. This is the opportunity I've been waiting for. The chance of a lifetime!
-
-DIRECTION:
-zoom in to close up on him as lighting changes to dramatic spotlight
 
 JOHN CLEESE:
 I'll show them at the Royal College of Surgeons! I'll make them sit up and take notice! Thripshaw's disease! Discovered by E. Henry Thripshaw MD! I'll be invited on 'Call My Bluff' and the merchandizing, there'll be E. Henry Thripshaw t-shirts ... I'll turn it into a game ... I'll sell the film rights.

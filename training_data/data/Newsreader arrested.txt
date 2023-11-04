@@ -1,38 +1,8 @@
-DIRECTION:
-Cut to news studio with a large screen behind newsreader.
-
-DIRECTION:
-as if it's the fourth item)
-
-DIRECTION:
-on the screen behind, him, there appears an identical picture of him, sitting at his newsreader desk
-
-DIRECTION:
-on the screen behind, police come in and remove the newsreader
-
-DIRECTION:
-he is handed a piece of paper
-
-DIRECTION:
-the other newsreader appears back on the screen and sits down
-
-DIRECTION:
-he is handed another piece of paper
-
-DIRECTION:
-a policeman comes in, and removes newsreader in the foreground
-
 ERIC IDLE:
 Excuse me a minute...
 
-DIRECTION:
-The newsreader on the screen behind continues.
-
 ERIC IDLE:
 We understand a man is now helping police with their enquiries. And that is the end of the news.
-
-DIRECTION:
-he clips a piece of jewellery on to his ear
 
 ERIC IDLE:
 And now, 'Match of the Day'.

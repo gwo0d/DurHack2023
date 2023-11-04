@@ -1,14 +1,8 @@
-DIRECTION:
-Courtroom: a judge sitting at higher level and a prisoner in the dock.
-
 TERRY JONES:
 Mr Larch, you heard the case for the prosecution. Is there anything you wish to say before I pass sentence?
 
 ERIC IDLE:
 Well... I'd just like to say, m'lud, I've got a family... a wife and six kids... and I hope very much you don't have to take away my freedom... because... well, because m'lud freedom is a state much prized within the realm of civilized society.
-
-DIRECTION:
-slips into Olivier impression
 
 ERIC IDLE:
 It is a bond wherewith the savage man may charm the outward hatchments of his soul, and soothe the troubled breast into a magnitude of quiet. It is most precious as a blessed balm, the saviour of princes, the harbinger of happiness, yea, the very stuff and pith of all we hold most dear. What frees the prisoner in his lonely cell, chained within the bondage of rude walls, far from the owl of Thebes? What fires and stirs the woodcock in his springe or wakes the drowsy apricot betides? What goddess doth the storm toss'd mariner offer her most tempestuous prayers to? Freedom! Freedom! Freedom!
@@ -16,26 +10,11 @@ It is a bond wherewith the savage man may charm the outward hatchments of his so
 TERRY JONES:
 It's only a bloody parking offence.
 
-DIRECTION:
-The counsel strides into court.
-
 JOHN CLEESE:
 I'm sorry I'm late m'lud I couldn't find a kosher car park. Er... don't bother to recap m'lud, I'll pick it up as we go along. Call Mrs Fiona Lewis.
 
-DIRECTION:
-A pepperpot walks into the court and gets up into the witness box.
-
-DIRECTION:
-Call Mrs Fiona Lewis.
-
-DIRECTION:
-taking bible
-
 GRAHAM CHAPMAN:
 I swear to tell the truth, the whole truth and nothing but the truth, so anyway, I said to her, I said, they can't afford that on what he earns, I mean for a start the feathers get up your nose, I ask you, four and six a pound, and him with a wooden leg, I don't know how she puts up with it after all the trouble she's had with her you-know-what, anyway it was a white wedding much to everyone's surprise, of course they bought everything on the hire purchase, I think they ought to send them back where they came from, I mean you've got to be cruel to be kind so Mrs Harris said, so she said, she said, she said, the dead crab she said, she said. Well, her sister's gone to Rhodesia what with her womb and all, and her youngest, her youngest as thin as a filing cabinet, and the goldfish, the goldfish they've got whooping cough they keep spitting water all over their Bratbys, well, they do don't they, I mean you can't, can you, I mean they're not even married or anything, they're not even divorced, and he's in the KGB if you ask me, he says he's a tree surgeon but I don't like the sound of his liver, all that squeaking and banging every night till the small hours, his mother's been much better since she had her head off, yes she has, I said, don't you talk to me about bladders, I said...
-
-DIRECTION:
-During all this counsel has been trying to ask questions. Eventually he gives up and Mrs. Lewis is pushed out of court still talking.
 
 TERRY JONES:
 Mr Bartlett, I fail to see the relevance of your last witness.
@@ -43,17 +22,11 @@ Mr Bartlett, I fail to see the relevance of your last witness.
 JOHN CLEESE:
 My next witness will explain that if m'ludship will allow. I call the late Arthur Aldridge.
 
-DIRECTION:
-The late Arthur Aidridge.
-
 TERRY JONES:
 The late Arthur Aldridge?
 
 JOHN CLEESE:
 Yes m'lud.
-
-DIRECTION:
-A coffin is brought into the court and laid across the witness box.
 
 TERRY JONES:
 Mr Bartlett, do you think there is any relevance in questioning the deceased?
@@ -79,9 +52,6 @@ But if he's not dead, what's he doing in a coffin?
 JOHN CLEESE:
 Oh, it's purely a precaution m'lud - if I may continue? Mr Aldridge, you were a... you are a stockbroker of 10 Savundra Close, Wimbledon.
 
-DIRECTION:
-from the coffin comes a bang
-
 JOHN CLEESE:
 Mr Aldridge...
 
@@ -91,12 +61,6 @@ What was that knock?
 JOHN CLEESE:
 It means 'yes' m'lud. One knock for 'yes', and two knocks for 'no'. If I may continue? Mr Aldridge, would it be fair to say that you are not at all well?
 
-DIRECTION:
-silence, counsel listens;
-
-DIRECTION:
-silence
-
 JOHN CLEESE:
 Ah ha!
 
@@ -105,12 +69,6 @@ Where is all this leading us?
 
 JOHN CLEESE:
 That will become apparent in one moment m'lud.
-
-DIRECTION:
-walking over to coffin
-
-DIRECTION:
-he opens the coffin and looks inside for some time; then he closes the coffin
 
 JOHN CLEESE:
 No further questions m'lud.
@@ -139,9 +97,6 @@ Oh, you're just trying to string this case out. Cardinal Richelieu?
 JOHN CLEESE:
 A character witness m'lud.
 
-DIRECTION:
-Fanfare of trumpets. Cardinal Richelieu enters witness box in beautiful robes.
-
 MICHAEL PALIN:
 'Allo everyone, it's wonderful to be 'ere y'know, I just love your country. London is so beautiful at this time of year.
 
@@ -153,9 +108,6 @@ Oui.
 
 JOHN CLEESE:
 Cardinal, would it be fair to say that you not only built up the centralized monarchy in France but also perpetuated the religious schism in Europe?
-
-DIRECTION:
-modestly
 
 MICHAEL PALIN:
 That's what they say.
@@ -175,9 +127,6 @@ Cardinal. Are you acquainted with the defendant, Harold Larch?
 MICHAEL PALIN:
 Since I was so high
 
-DIRECTION:
-indicated how high
-
 MICHAEL PALIN:
 .
 
@@ -193,29 +142,14 @@ M'lud. In view of the impeccable nature of this character witness may I plead fo
 TERRY JONES:
 Oh but it's only thirty shillings.
 
-DIRECTION:
-Enter Inspector Dim.
-
 GRAHAM CHAPMAN:
 Not so fast!
 
 ERIC IDLE:
 Why not?
 
-DIRECTION:
-momentarily thrown
-
 GRAHAM CHAPMAN:
 None of your smart answers ... you think you're so clever. Well, I'm Dim.
-
-DIRECTION:
-A caption appears on the screen 'DIM OF THE YARD'
-
-DIRECTION:
-in unison
-
-DIRECTION:
-Dim! Consternation! Uproar!
 
 GRAHAM CHAPMAN:
 Yes, and I've a few questions I'd like to ask Cardinal so-called Richelieu.
@@ -231,9 +165,6 @@ That is correct.
 
 GRAHAM CHAPMAN:
 Ah ha! He fell for my little trap.
-
-DIRECTION:
-Court applauds and the Cardinal looks dismayed.
 
 MICHAEL PALIN:
 Curse you Inspector Dim. You are too clever for us naughty people.
@@ -259,65 +190,8 @@ Yes.
 TERRY JONES:
 What?
 
-DIRECTION:
-Piano starts playing introduction.
-
-DIRECTION:
-singing
-
-DIRECTION:
-If I were not in the CID
-
-DIRECTION:
-Something else I'd like to be
-
-DIRECTION:
-A window cleaner, me!
-
-DIRECTION:
-With a rub-a-dub-dub and a scrub-a-dub-dub
-
-DIRECTION:
-And a rub-a-dub all day long
-
-DIRECTION:
-I'd sing this merry song!
-
-DIRECTION:
-He mimes window cleaning movements and the rest of the court enthusiastically mimes and sings the chorus again with him. When the chorus verse ends the counsel enthusiastically takes over but this time the court all sit and watch him as though he has gone completely mad.
-
-DIRECTION:
-Singing
-
-DIRECTION:
-If I were not before the bar
-
-DIRECTION:
-Something else I'd like to be
-
-DIRECTION:
-If I were not a barr-is-ter
-
-DIRECTION:
-An engine driver me!
-
-DIRECTION:
-With a chuffchuffchuff etc.
-
-DIRECTION:
-He makes engine miming movements. As before. After a few seconds he sees that the rest of the court are staring at him in amazement and he loses momentum rapidly, almost as rapidly as he loses confidence and dignity. At last he subsides. Our knight in armour walks up to the counsel and hits him with the traditional raw chicken.
-
-DIRECTION:
-and CAPTION:
-
 JOHN CLEESE:
 'NO. 1'
-
-DIRECTION:
-'THE LARCH'
-
-DIRECTION:
-Photo of larch tree.
 
 JOHN CLEESE:
 The larch. The larch.

@@ -1,17 +1,8 @@
-DIRECTION:
-CAPTION: 'LATER THE SAME SKETCH'
-
-DIRECTION:
-Cut to them sitting at a restaurant table.
-
 ERIC IDLE:
 My wife Maureen ran off with a bottle of Bell's whisky during the Aberdeen versus Raith Rovers match which ended in a goalless draw. Robson particularly, in goal, had a magnificent first half, his fine positional sense preventing the build-up of any severe pressure on the suspect Aberdeen defense. McLoughlan missed an easy chance to clinch the game towards the final whistle but Raith must be well satisfied with their point.
 
 JOHN CLEESE:
 Do please go on. This is the least fascinating conversation I've ever had.
-
-DIRECTION:
-A waiter comes in.
 
 MICHAEL PALIN:
 Would you like to order sir?
@@ -51,13 +42,4 @@ Shall we stop it?
 
 JOHN CLEESE:
 Yeah, all right.
-
-DIRECTION:
-they get up and walk out
-
-DIRECTION:
-CAPTION: 'THE END'
-
-DIRECTION:
-CREDITS
 

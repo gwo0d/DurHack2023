@@ -1,26 +1,8 @@
-DIRECTION:
-They walk through and out of shot. A hospital lobby. A line of people are being ushered through. A sign says 'Blood Donors' with an arrow in the direction they're all going. Mr Samson is in a white coat.
-
 JOHN CLEESE:
 Blood donors that way, please.
 
-DIRECTION:
-Oh thank you very much
-
-DIRECTION:
-joins the line
-
-DIRECTION:
-.
-
 JOHN CLEESE:
 Thank you.
-
-DIRECTION:
-Grimshaw comes up to him and whispers in his ear, Samson looks at him, slightly surprised
-
-DIRECTION:
-Grimshaw whispers again
 
 JOHN CLEESE:
 No. There is no such thing as a urine bank.
@@ -73,9 +55,6 @@ No, look, this is a blood bank - all we want is blood.
 ERIC IDLE:
 All right, I'll give you some blood.
 
-DIRECTION:
-He holds out a jar full of blood.
-
 JOHN CLEESE:
 Wher did you get that?
 
@@ -94,9 +73,6 @@ There's A...
 ERIC IDLE:
 It's A.
 
-DIRECTION:
-sniffing the blood
-
 JOHN CLEESE:
 Wait a moment. It's mine. This blood is mine! What are you doing with it?
 
@@ -106,9 +82,6 @@ I found it.
 JOHN CLEESE:
 You
 
-DIRECTION:
-found
-
 JOHN CLEESE:
 it? You stole it out of my body, didn't you?
 
@@ -117,9 +90,6 @@ No.
 
 JOHN CLEESE:
 No wonder I'm feeling off-colour.
-
-DIRECTION:
-he starts to drink the blood; Grimshaw grabs the bottle
 
 JOHN CLEESE:
 Give that back.

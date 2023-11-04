@@ -1,15 +1,3 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-a sketch about an archaeological find leads to:
-
-DIRECTION:
-CAPTION: 'ARCHAEOLOGY TODAY'
-
-DIRECTION:
-Interview set for archaeology program. Chairman and two guests sit in chair in front of a blow-up of an old cracked pot.
-
 MICHAEL PALIN:
 Hello. On 'Archaeology Today' tonight I have with me Professor Lucien Kastner of Oslo University.
 
@@ -31,9 +19,6 @@ I'm about five foot ten.
 MICHAEL PALIN:
 ... and an expert in Egyptian tomb paintings. Sir Robert...
 
-DIRECTION:
-turning to Kastner
-
 MICHAEL PALIN:
 are you really five foot ten?
 
@@ -49,17 +34,11 @@ No, er I...
 MICHAEL PALIN:
 Extraordinary. Sir Robert Eversley, who's just returned from the excavations in El Ara, and you must be well over six foot. Isn't that right, Sir Robert?
 
-DIRECTION:
-puzzled
-
 JOHN CLEESE:
 Yes.
 
 MICHAEL PALIN:
 In fact, I think you're six foot five aren't you?
-
-DIRECTION:
-Applause from off. Sir Robert looks up in amazement.
 
 MICHAEL PALIN:
 Oh, that's marvelous. I mean you're a totally different kind of specimen to Professor Kastner. Straight in your seat, erect, firm.
@@ -70,17 +49,8 @@ Yes. I thought we were here to discuss archaeology.
 MICHAEL PALIN:
 Yes, yes, of course we are, yes, absolutely, you're absolutely right! That's positive thinking for you.
 
-DIRECTION:
-to Kastner
-
-DIRECTION:
-he turns his back very ostentatiously on Kastner
-
 MICHAEL PALIN:
 Sir Robert Eversley, who's very interesting, what have you discovered in the excavations at El Ara?
-
-DIRECTION:
-picking up a beautiful ancient vase
 
 JOHN CLEESE:
 Well basically we have found a complex of tombs...
@@ -127,17 +97,11 @@ The Watutsi! That's it - the Watutsi! Oh, that's the tribe, some of them were ei
 JOHN CLEESE:
 Yes, but it's nothing to do with archaeology.
 
-DIRECTION:
-knocking Sir Robert's vase to the floor
-
 MICHAEL PALIN:
 Oh to hell with archaeology!
 
 TERRY JONES:
 Can I please speak! I came all the way from Oslo to do this program! I'm a professor of archaeology. I'm an expert in ancient civilizations. All right, I'm only five foot ten. All right my posture is bad, all right I slump in my chair. But I've had more women than either of you two! I've had half bloody Norway, that's what I've had! So you can keep your Robert Eversley! And you can keep your bloody Watutsi! I'd rather have my little body... my little five-foot-ten-inch body...
-
-DIRECTION:
-he breaks down sobbing
 
 JOHN CLEESE:
 Bloody fool. Look what you've done to him.
@@ -148,59 +112,17 @@ Don't bloody fool me.
 JOHN CLEESE:
 I'll do what I like, because I'm six foot five and I eat punks like you for breakfast.
 
-DIRECTION:
-Sir Robert floors the interviewer with a mighty punch. Interviewer looks up rubbing his jaw.
-
 MICHAEL PALIN:
 I'll get you for that, Eversley! I'll get you if I have to travel to the four corners of the earth!
-
-DIRECTION:
-Crash of music. Music goes into theme and film titles as for a Western.
-
-DIRECTION:
-CAPTION: 'FLAMING STAR - THE STORY OF ONE MAN'S SEARCH FOR VENGEANCE IN THE RAW AND VIOLENT WORLD OF INTERNATIONAL ARCHAEOLOGY'
-
-DIRECTION:
-Cut to stock film of the pyramids (circa 1920).
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'EGYPT- 1920'
-
-DIRECTION:
-An archaeological dig in a flat sandy landscape. All the characters are in twenties' clothes. Pan across the complex of passages and trenches.)
-
-DIRECTION:
-voice over
 
 CAROL CLEVELAND:
 The dig was going well that year, We had discovered some Hittite baking dishes from the fifth dynasty, and Sir Robert was happier than I had ever seen him.
 
-DIRECTION:
-Camera comes to rest on Sir Robert Eversley digging away. We close in on him as he sings to Hammond organ accompaniment.
-
 JOHN CLEESE:
 Today I hear the robin sing
 
-DIRECTION:
-Today the thrush is on the wing
-
-DIRECTION:
-Today who knows what life will bring
-
-DIRECTION:
-Today...
-
-DIRECTION:
-He stops and picks up an object, blows the dust off it and looks at it wondrously.
-
 JOHN CLEESE:
 Why, a Sumerian drinking vessel of the fourth dynasty.
-
-DIRECTION:
-sings!
-
-DIRECTION:
-speaks
 
 JOHN CLEESE:
 Catalogue this pot, Danielle, it's fourth dynasty.
@@ -217,24 +139,6 @@ Oh, how wonderful! Oh, I am so happy for you.
 JOHN CLEESE:
 I'm happy too, now at last we know there was a Sumerian influence here in Abu Simnel in the early pre-dynastic period, two thousand years before the reign of Tutankhamun,
 
-DIRECTION:
-he breaks into song again
-
-DIRECTION:
-(singing) Today I hear the robin sing
-
-DIRECTION:
-Today the thrush is on the wing
-
-DIRECTION:
-Danielle joins in
-
-DIRECTION:
-Today who knows what life will bring.
-
-DIRECTION:
-They are just about to embrace, when there is a jarring chord and long crash. The interviewer, in the clothes he wore before, is standing on the edge of the dig.
-
 MICHAEL PALIN:
 All right Eversley, get up out of that trench.
 
@@ -244,17 +148,11 @@ Don't forget... I'm six foot five.
 MICHAEL PALIN:
 That doesn't worry me... Kastner.
 
-DIRECTION:
-He snaps his fingers. From behind him Professor Kastner appears, fawningly.
-
 TERRY JONES:
 Here Lord.
 
 MICHAEL PALIN:
 Up!
-
-DIRECTION:
-He snaps his fingers and Kastner leaps onto his shoulders.
 
 JOHN CLEESE:
 Eleven foot three!
@@ -265,71 +163,29 @@ I'm so tall! I am so tall!
 JOHN CLEESE:
 Danielle!
 
-DIRECTION:
-Danielle leaps on his shoulders.
-
 MICHAEL PALIN:
 Eleven foot six - damn you! Abdul
-
-DIRECTION:
-A servant appears on Kastner's shoulders.
 
 JOHN CLEESE:
 Fifteen foot four! Mustapha!
 
-DIRECTION:
-A servant appears on Danielle's shoulders.
-
 MICHAEL PALIN:
 Nineteen foot three... damn you!
-
-DIRECTION:
-The six of them charge each other. They fight in amongst the trestle tables with rare pots on them breaking and smashing them. When the fight ends everyone lies dead in a pile of broken pottery. The interviewer crawls up to camera and produces a microphone from his pocket. He is covered in blood and in his final death throes.
 
 MICHAEL PALIN:
 And there we end this edition of 'Archaeology Today'. Next week, the Silbury Dig by Cole Porter with Pearl Bailey and Arthur Negus.
 
-DIRECTION:
-he dies
-
 MICHAEL PALIN:
 And now an appeal for sanity from the Reverend Arthur Belling.
-
-DIRECTION:
-Cut to studio. A vicar sitting facing camera. He has an axe in his head.
 
 GRAHAM CHAPMAN:
 You know, there are many people in the country today who, through no fault of their own, are sane. Some of them were born sane. Some of them became sane later in their lives. It is up to people like you and me who are out of our tiny little minds to try and help these people overcome their sanity. You can start in small ways with ping-pong ball eyes and a funny voice and then you can paint half of your body red and the other half green and then you can jump up and down in a bowl of treacle going 'squawk, squawk, squawk...' And then you can go 'Neurhhh! Neurhh!' and then you can roll around on the floor going 'pting pting pting' ...
 
-DIRECTION:
-he rolls around on the floor
-
 MICHAEL PALIN:
 The Reverend Arthur Belling is Vicar of St Loony Up The Cream Bun and Jam. And now an appeal on behalf of the National Trust.
 
-DIRECTION:
-CAPTION: 'AN APPEAL ON BEHALF OF THE NATIONAL TRUSS'
-
-DIRECTION:
-Cut to a smartly dressed woman.
-
 ERIC IDLE:
 Good evening. My name is Leapy Lee. No, sorry. That's the name of me favourite singer. My name is Mrs Fred Stone. No, no, Mrs Fred Stone is the wife of me favourite tennis player. My name is Bananas. No, no, that's me favourite fruit. I'm Mrs Nice- evening- out- at- the- pictures- then- perhaps- a- dance- at- a- club- and- back- to- his- place- for- a- quick- cup- of- coffee- and- little- bit- of - no! No, sorry, that's me favourite way of spending a night out. Perhaps I am Leapy Lee? Yes! I must be Leapy Lee! Hello fans! Leapy Lee here!
-
-DIRECTION:
-sings
-
-DIRECTION:
-phone rings, she answers
-
-DIRECTION:
-puts phone down
-
-DIRECTION:
-as she looks in her bag she talks to herself
-
-DIRECTION:
-she dials
 
 ERIC IDLE:
 Good evening. I'm Mrs What-number-are-you-dialing-please?

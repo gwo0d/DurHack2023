@@ -1,50 +1,11 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-underwater. We see an animated Michael sinking. He is swallowed by a fish with a swastika on its side.
-
-DIRECTION:
-Welcome aboard, Britisher pig. Quite a little surprise, ja? But perhaps you would be so kind as to tell us all you know about certain allied shipping routes, ja? Come on, talk!
-
-DIRECTION:
-The Nazi fish is swallowed by a fish with an RAF emblem.
-
-DIRECTION:
-Hello, Fritz. Tables seem to have turned, old chap, let's see how you like a bit of your own medicine, eh? Come on, Fritz, now tell us - tell us about...
-
-DIRECTION:
-The British fish is swallowed by a Chinese fish.
-
-DIRECTION:
-Ah, gleetings, capitalist dog; very sorry but must inform you, you are now prisoner of People's Republic.
-
-DIRECTION:
-Am very sorry, comrade commando, but we have just picked up capitalist ship on ladar scanner.
-
-DIRECTION:
-The Chinese fish bites the underside of a large ship. Film of big liner sinking in storm. General panic and dramatic music.
-
-DIRECTION:
-over tannoy
-
 TERRY JONES:
 This is your captain speaking. There is no need for panic. Woman and children first. I repeat that, women and children first.
-
-DIRECTION:
-Cut to the ship's bridge. The captain and two or three officers are seen scrambling into ladies clothing or young children's short trousers and school satchels and caps. The ship pitches and rolls in the gale. The captain is still trying to speak into the PA.
 
 TERRY JONES:
 Do not rush for the lifeboats - remember, women and children first.
 
-DIRECTION:
-A first officer is revealed in the corner of the bridge putting a head-dress on a Red Indian outfit.
-
 JOHN CLEESE:
 And Red Indians!
-
-DIRECTION:
-putting his hand over the PA
 
 TERRY JONES:
 What did you have to get dressed up like that for?
@@ -55,14 +16,8 @@ It was the only thing left.
 TERRY JONES:
 Oh. All right.
 
-DIRECTION:
-into the PA
-
 TERRY JONES:
 Women, children and Red Indians...
-
-DIRECTION:
-Cut to another officer in astronaut's kit.
 
 TERRY GILLIAM:
 And spacemen!
@@ -70,14 +25,8 @@ And spacemen!
 TERRY JONES:
 Here is a revised list. Women, children, Red Indians and spacemen,
 
-DIRECTION:
-hand over PA
-
 TERRY JONES:
 what's that meant to be?
-
-DIRECTION:
-Cut to third officer who is putting finishing touches to a medieval outfit.
 
 ERIC IDLE:
 Well it's a sort of impression of what a kind of Renaissance courtier artist might have looked like at the court of one of the great families like the Medicis or the Borgias...
@@ -94,9 +43,6 @@ What! With these tassles?
 GRAHAM CHAPMAN:
 Yes, yes. They had those fined doublets going tapering down into the full hose you know - exactly like that.
 
-DIRECTION:
-puts his hand over the PA
-
 TERRY JONES:
 Now, what is it meant to be? I've got to tell them something. .. is it a Flemish merchant?
 
@@ -112,50 +58,20 @@ It's not...
 TERRY JONES:
 All right! All right!
 
-DIRECTION:
-stock film of long shot of sinking vessel, the voice over fading
-
 TERRY JONES:
 and a sort of idealized version of complete Renaissance Men first!
-
-DIRECTION:
-CAPTION: 'A FEW DAYS LATER'
-
-DIRECTION:
-Cut to a police chief's office in an anonymous South American police state. The chief of police at his desk. From outside we hear footsteps approaching the office and voices.
 
 ERIC IDLE:
 Flemish merchants did not wear hand-embroidered chevrons. They did not!
 
-DIRECTION:
-The door opens and two guards roughly push in the captain in drag, another officer half in drag, half in naval uniform, two officers hastily dressed as children, a complete Renaissance Man, a Red Indian and a spaceman. They stand there for a moment. Then one of the guards pushes his way forward and hands the police chief a piece of paper.
-
 JOHN CLEESE:
 Yes, Gomez?
-
-DIRECTION:
-reads
-
-DIRECTION:
-the guard nods enthusiasticaly
-
-DIRECTION:
-say
-
-DIRECTION:
-the guard mouths something
-
-DIRECTION:
-to camera
 
 JOHN CLEESE:
 You see the BBC has to pay an actor twenty guineas if he speaks and it makes a bit of a hole in the budget...
 
 TERRY GILLIAM:
 Twenty-
-
-DIRECTION:
-eight
 
 TERRY GILLIAM:
 guineas, sir! Ooh, sorry.
@@ -181,17 +97,11 @@ Oh, sorry, sir.
 JOHN CLEESE:
 You fool, that's, that's fifty-six guineas before we've even started;
 
-DIRECTION:
-a third guard suddenly rushes up to the window and flashes through it; scream and breaking glass
-
 JOHN CLEESE:
 What did he do that for?
 
 ERIC IDLE:
 It's a stunt, sir, an extra twenty guineas.
-
-DIRECTION:
-banging the desk
 
 JOHN CLEESE:
 Look! We can't afford it! The BBC are short of money as it is.

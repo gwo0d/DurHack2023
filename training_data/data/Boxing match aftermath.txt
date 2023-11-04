@@ -1,50 +1,17 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-Ends with a poster 'Boxing Tonite! The Killer vs. The Champ. 15 Rounds'.
-
-DIRECTION:
-Cut to a dressing room at Madison Square Gardens, table, chairs, towels, and the usual paraphernalia. Noise of a crowd outside. The door opens and in comes Mr Gabriello, and two assistants carrying a boxer on a stretcher. Smoke, action, excitement come in with them.
-
 MICHAEL PALIN:
 That was a great fight, Champ, a great fight, you hear! Oh boy, what a fight, Champ, what a great fight! You nearly had him, Champ, you nearly had him ... where's his head?
-
-DIRECTION:
-I got it in here, Mr Gabriello.
-
-DIRECTION:
-He holds up a carrier bag. Gabriello goes over to it, looks inside and shouts into it.
 
 MICHAEL PALIN:
 You were great, Champ, d'you hear, you were great!
 
-DIRECTION:
-looking in the bag
-
-DIRECTION:
-He's got a nasty cut over his eye.
-
 MICHAEL PALIN:
 Yeah, I think it was a mistake him wearing spectacles.
-
-DIRECTION:
-gives the bag to the assistant
 
 MICHAEL PALIN:
 Oh well, get that sewn onto his body in time for the press pictures.
 
-DIRECTION:
-OK, Mr Gabriello.
-
-DIRECTION:
-to second assistant
-
 MICHAEL PALIN:
 Wasn't he great my boy?
-
-DIRECTION:
-Eric
 
 ERIC IDLE:
 He was great, Mr Gabriello.
@@ -76,14 +43,8 @@ Do you realize Mr Gabriello, some of those guys out there paid over $2,000 for a
 MICHAEL PALIN:
 And where did the head land? Right at the back, that's justice...
 
-DIRECTION:
-the door opens; a black cleaner comes in
-
 MICHAEL PALIN:
 What d'you want?
-
-DIRECTION:
-The cleaner holds up a carrier bag.
 
 TERRY GILLIAM:
 This your boy's head?
@@ -91,17 +52,11 @@ This your boy's head?
 MICHAEL PALIN:
 No, no, we've got his head. He ain't hurt that bad.
 
-DIRECTION:
-looking in the bag
-
 ERIC IDLE:
 Hey, that's Gerry Marinello. He fought the Killer last week.
 
 MICHAEL PALIN:
 OK, give it to me. I'm seeing his trainer tomorrow. I'll give it to him.
-
-DIRECTION:
-The cleaner is ushered out.
 
 ERIC IDLE:
 Hey, Mr Gabriello. The press is still outside. Are you ready for them?
@@ -109,23 +64,11 @@ Hey, Mr Gabriello. The press is still outside. Are you ready for them?
 MICHAEL PALIN:
 How's the Champ?
 
-DIRECTION:
-working away with needle and thread
-
-DIRECTION:
-Well, the head's on OK. But there's still a left arm missing.
-
 MICHAEL PALIN:
 OK, well keep the dressing gown kinda loose, OK.
 
-DIRECTION:
-Gabriello goes to door and opens it
-
 MICHAEL PALIN:
 OK boys, come on in!
-
-DIRECTION:
-The press surge in. The fighter is propped up.
 
 TERRY JONES:
 Hey Mr Gabriello, Mr Gabriello. Did you expect your boy to last the full twenty-eight seconds?
@@ -148,9 +91,6 @@ Yeah OK. But keep the questions simple.
 TERRY JONES:
 Hey Champ! How're you feeling?
 
-DIRECTION:
-angrily
-
 MICHAEL PALIN:
 I said keep the questions simple!
 
@@ -165,10 +105,4 @@ Well, shouldn't he just stay in hospital?
 
 MICHAEL PALIN:
 No, he ain't going to no hospital. He's got the return fight next week.
-
-DIRECTION:
-Shot of the 'New York Times' headline 'Champ to be kept alive for big return'.
-
-DIRECTION:
-Cut to a hospital ward. Numerous doctors and nurses are listening to the radio.
 

@@ -1,11 +1,5 @@
-DIRECTION:
-An office. Boss is reading a book, 'Chinese for Business Men'. He tries out a few Chinese words. There is a knock at the door.
-
 JOHN CLEESE:
 Come in.
-
-DIRECTION:
-Mr Frog comes in
 
 JOHN CLEESE:
 Ah, Frog.
@@ -25,12 +19,6 @@ Badly, sir?
 JOHN CLEESE:
 No, extremely well.
 
-DIRECTION:
-lifts up a leg belonging to a body behind desk, and holds up a card saying 'joke'
-
-DIRECTION:
-opens a nearby door; a dead company secretary falls out
-
 JOHN CLEESE:
 , the effect of which was how disappointed he was with your work and, in particular, why you had changed the name from Conquistador Instant Coffee to Conquistador Instant Leprosy. Why, Frog?
 
@@ -43,23 +31,14 @@ It was a joke.
 JOHN CLEESE:
 A joke?
 
-DIRECTION:
-holds up card saying 'joke'
-
 ERIC IDLE:
 No, no not a joke, a sales campaign.
-
-DIRECTION:
-holds up a card saying 'No, a Sales Campaign'
 
 JOHN CLEESE:
 I see, Frog.
 
 JOHN CLEESE:
 Shut up. Now, let's have a look at the sales chart.
-
-DIRECTION:
-indicates a plummeting sales graph
 
 JOHN CLEESE:
 When you took over this account, Frog, Conquistador was a brand leader. Here you introduced your first campaign, 'Conquistador Coffee brings a new meaning to the word vomit'. Here you made your special introductory offer of a free dead dog with every jar, and this followed your second campaign 'the tingling fresh coffee which brings you exciting new cholera, mange, dropsy, the clap, hard pad and athlete's head. From the House of Conquistador'.
@@ -79,12 +58,6 @@ Well, people know the name, sir.
 JOHN CLEESE:
 They certainly do know the name - they burnt the factory down. The owner is hiding in my bathroom
 
-DIRECTION:
-shot heard
-
-DIRECTION:
-holds up 'joke' card again
-
 ERIC IDLE:
 You're not going to fire me, sir?
 
@@ -93,9 +66,6 @@ Fire you? Three men dead, the factory burnt down, the account lost and our firm 
 
 ERIC IDLE:
 Sorry, father.
-
-DIRECTION:
-holds up the 'joke' card
 
 JOHN CLEESE:
 Oh, yes. Oh, incidentally your film's won a prize.

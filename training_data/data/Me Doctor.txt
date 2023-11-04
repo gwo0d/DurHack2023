@@ -1,11 +1,5 @@
-DIRECTION:
-Cut to a man on a bench in casualty ward set.
-
 TERRY JONES:
 Albatross
-
-DIRECTION:
-Doctor and sister enter and go up to him.
 
 ERIC IDLE:
 Mr. Burtenshaw?
@@ -16,12 +10,6 @@ Me, Doctor?
 ERIC IDLE:
 No,
 
-DIRECTION:
-me
-
-DIRECTION:
-you
-
 ERIC IDLE:
 Mr. Burtenshaw.
 
@@ -30,9 +18,6 @@ My wife, doctor?
 
 ERIC IDLE:
 No, your wife
-
-DIRECTION:
-patient
 
 ERIC IDLE:
 Doctor.
@@ -46,23 +31,11 @@ Me, Sister?
 ERIC IDLE:
 No. She Sister. Me Doctor. You Mr. Burtenshaw.
 
-DIRECTION:
-Nurse enters.
-
 JOHN CLEESE:
 Doctor Walters?
 
 ERIC IDLE:
 Me, Nurse.
-
-DIRECTION:
-to sister
-
-DIRECTION:
-to man
-
-DIRECTION:
-to nurse
 
 JOHN CLEESE:
 No, doctor.
@@ -79,9 +52,6 @@ Drink doctor. Eat Sister. Cook Mr. Burtenshaw. Nurse me.
 JOHN CLEESE:
 You, doctor?
 
-DIRECTION:
-Me
-
 ERIC IDLE:
 Doctor. You Mr. Burtenshaw. She Nurse.
 
@@ -91,12 +61,6 @@ But my wife, Nurse.
 ERIC IDLE:
 Your wife not nurse. She Nurse. Your wife patient. Be patient. She Nurse. Your wife. Me doctor. Yew Tree. U-trecht. U-trillo, U Thant, Euphemism. Me Doctor.
 
-DIRECTION:
-knight walks in quickly and hits him over the head with a chicken
-
 ERIC IDLE:
 Albatross!
-
-DIRECTION:
-Women's Institute applaud.
 
