@@ -1,0 +1,33 @@
+DIRECTION:
+CAPTION: 'FIN'
+
+DIRECTION:
+Ordinary simple Philip Jenkinson at a desk set as seen in Monty Python's Flying Circus. Philip Jenkinson sits simpering and pouting like a cross between Truman Capote and a pederast vole.
+
+ERIC IDLE:
+Horace Walpole's 'Rogue Cheddar',
+
+DIRECTION:
+sniff
+
+ERIC IDLE:
+one of the first of the Cheese Westerns to be later followed by 'Gunfight at Gruyère Corral', 'Ilchester 73', and 'The Cheese Who Shot Liberty Valence'. While I'm on the subject of Westerns, I want to take a closer look at one of my favourite film directors, Sam Peckinpah, the expatriate from Fresno, California.
+
+DIRECTION:
+SUPERIMPOSED CAPTION: 'GET ON WITH IT'
+
+ERIC IDLE:
+In his earliest films, 'Major Dundee',
+
+DIRECTION:
+SUPERIMPOSED CAPTION: 'AND STOP SNIFFING'
+
+ERIC IDLE:
+'The Wild Bunch' and 'Straw Dogs' he showed his predilection for the utterly truthful and very sexually arousing portrayal of violence
+
+DIRECTION:
+SUPERIMPOSED CAPTION: 'WILL YOU STOP SNIFFING'
+
+ERIC IDLE:
+In his latest film Peckinpah has moved into the calmer and more lyrical waters of Julian Slade's, 'Salad Days'.
+

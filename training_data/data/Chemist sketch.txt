@@ -1,0 +1,39 @@
+DIRECTION:
+A number of men and women are sitting around in an area by the counter where there is a large sign saying 'Dispensing Department'. A cheerful chemist appears at the counter.
+
+DIRECTION:
+JOHN
+
+DIRECTION:
+nobody reacts
+
+DIRECTION:
+a man timidly puts his hand up
+
+DIRECTION:
+throws bottle to the man with his hand up
+
+DIRECTION:
+throws bottle to the only man standing up
+
+DIRECTION:
+a woman with a large bosom puts up hand
+
+DIRECTION:
+throws bottle to a man sitting on his own
+
+JOHN CLEESE:
+Catch.
+
+DIRECTION:
+CAPTION: 'THE CHEMIST SKETCH - AN APOLOGY'
+
+ERIC IDLE:
+The BBC would like to apologize for the poor quality of the writing in that sketch. It is not BBC policy to get easy laughs with words like bum, knickers, botty or wee-wees.
+
+DIRECTION:
+laughs off camera
+
+ERIC IDLE:
+Ssssh!
+
