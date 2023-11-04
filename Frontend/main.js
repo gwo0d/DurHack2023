@@ -1,8 +1,9 @@
 function submission(){
-    let title = document.getElementById('title').value;
-    console.log('Submitted!' + title);
-    var element = document.getElementById("top-half");
-    element.classList.toggle("transform-active");
+    //Head Animation
+    var head = document.getElementById("top-half");
+    head.classList.toggle("transform-active");
+
+    //Text Animation
     var text = document.getElementById("form");
     text.classList.toggle("transformation-active");
 }
