@@ -1,11 +1,16 @@
 body{
-    text-align: center;
+    overflow-x:hidden;
+    overflow-y:scroll;
 }
 .header{
     margin-top:400px;
-    text-align: center;
-
 }
+.form{
+    margin-left: 250px;
+    width: fit-content;
+    text-align: center; 
+}
+/* Header + text input container */
 
 h1{
     margin: 0;
@@ -17,13 +22,17 @@ h1{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+
 }
+
+/* Inputs */
 
 input{
     border: none;
     background-color: #f0f0f0;
-
+    position: relative;
 }
+
 #title{
     font-size: 2em;
     padding: 2px;
@@ -38,3 +47,56 @@ input{
     font-size: 1.5em;
     padding: 5px;
 }
+
+#submit:hover{
+    background-color: #d4d4d4;
+}
+
+/* Image */
+
+#eating-head{
+    position: absolute;
+    right:0;
+    top: 150px;
+    width: 70%;
+    pointer-events: none;
+}
+
+#bottom-half{
+    position: absolute;
+    right:0;
+    width: 1000px;
+}
+
+.transform{
+    transform: rotate(-40deg);
+    -webkit-transition: all 0.5s linear;  
+    -moz-transition: all 0.5s linear ;  
+    -o-transition: all 0.5s linear ;  
+    -ms-transition: all 0.5s linear ;  
+    transition: all 0.5s linear ;
+    position: absolute;
+    right: -55px;
+    top: 52px;
+    width: 1000px;
+  }
+  
+.transform-active {
+    top: 0px;
+    right: 0px;
+    transform: rotate(0deg);
+}
+
+.transformation{
+    -webkit-transition: all 0.5s linear;  
+    -moz-transition: all 0.5s linear ;  
+    -o-transition: all 0.5s linear ;  
+    -ms-transition: all 0.5s linear ;  
+    transition: all 0.5s linear ;
+
+}
+.transformation-active{
+    transform: rotate(20deg);
+    
+}
+    
