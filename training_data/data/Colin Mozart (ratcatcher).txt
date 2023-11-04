@@ -1,4 +1,7 @@
 DIRECTION:
+Cut to Mozart. He is scrubbing the floor.
+
+DIRECTION:
 CAPTION: 'W. A. MOZART'
 
 DIRECTION:

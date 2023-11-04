@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'MONDAY FOR 7 DAYS'
+
+DIRECTION:
 Stock film of a Roman chariot race.
 
 MICHAEL PALIN:

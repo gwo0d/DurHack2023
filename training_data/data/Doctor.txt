@@ -1,3 +1,6 @@
+DIRECTION:
+A doctor is lowered on a wire.
+
 TERRY JONES:
 Good morning.
 

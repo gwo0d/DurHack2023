@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 including dancing Botticelli Venus, which links to pet shop: Mr. Praline walks into the shop carrying a dead parrot in a cage. He walks to counter where shopkeeper tries to hide below cash register.
 
 JOHN CLEESE:

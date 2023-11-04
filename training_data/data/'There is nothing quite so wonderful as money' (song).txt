@@ -1,4 +1,7 @@
 DIRECTION:
+sings to piano accompaniment
+
+DIRECTION:
 I've got forty thousand French francs in my fridge.
 
 DIRECTION:

@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'A COAL MINE IN LLANDDAROG CARMARTHEN'
+
+DIRECTION:
 A nice photograph of a typical pit head. Music over this: 'All Through the Night' being sung in Welsh.
 
 JOHN CLEESE:

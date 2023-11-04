@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'BUT IN AN OFFICE OFF THE GOSWELL ROAD'
+
+DIRECTION:
 Two people seated opposite each other at a desk. Between them there is a large window. It appears that they are quite high up in a large office building. Every so often a body falls past the window. They are both working busily.
 
 DIRECTION:

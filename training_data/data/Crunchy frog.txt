@@ -1,4 +1,7 @@
 DIRECTION:
+Cut to studio. A door opens. Inspector Praline looks round door.
+
+DIRECTION:
 to camera
 
 DIRECTION:

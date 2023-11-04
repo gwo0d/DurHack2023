@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'CHAMRAN KNEBT'
+
+DIRECTION:
 Pull out a little. The board has little green curtains and there is a pepperpot standing in front of it.
 
 JOHN CLEESE:

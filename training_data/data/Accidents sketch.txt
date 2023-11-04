@@ -1,3 +1,6 @@
+DIRECTION:
+Oak-panelled door with notice on it saying 'Prawn Salad Ltd'. The butler pushes it open and shows man into living room. The room is fairly large, containing at one end opposite the door a big window, making the room look quite high up - although it should be stately rather than modern. In the middle of the room's back wall there is a large ornate mirror, over a mantelpiece filled with objects. To the right of this wall there is a large bookshelf filled with books, and in front of it there is a drinks trolley.
+
 GRAHAM CHAPMAN:
 Well, if you'll just wait in here, sir, I'm sure Mr Thompson won't keep you waiting long.
 

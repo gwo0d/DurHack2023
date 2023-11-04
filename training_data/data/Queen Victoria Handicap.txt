@@ -1,4 +1,7 @@
 DIRECTION:
+A view of the starting stalls, shot so we cannot see inside.
+
+DIRECTION:
 CAPTION: '3.15 QUEEN VICTORIA HANDICAP'
 
 ERIC IDLE:
