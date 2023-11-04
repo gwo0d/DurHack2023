@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'LATER THE SAME SKETCH'
+
+DIRECTION:
 Cut to them sitting at a restaurant table.
 
 ERIC IDLE:

@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 Sketch leading to stock drawing of First World War trench scene - barbed wire against the sky with a helmet stuck on a bayonet.
 
 DIRECTION:

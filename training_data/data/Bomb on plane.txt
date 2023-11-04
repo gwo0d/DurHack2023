@@ -1,3 +1,6 @@
+DIRECTION:
+Fade up on two pilots in the cockpit of an aeroplane. A stewardess is there too. After a moment or two the first pilot makes an announcement.
+
 MICHAEL PALIN:
 This is Captain MacPherson welcoming you aboard East Scottish Airways. You'll have had your tea. Our destination is Glasgow. There is no need to panic.
 

@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'ELECTION NIGHT SPECIAL'
+
+DIRECTION:
 Cut to linkman sitting at desk.
 
 DIRECTION:

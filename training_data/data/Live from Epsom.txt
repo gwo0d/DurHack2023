@@ -1,3 +1,6 @@
+DIRECTION:
+CAPTION: 'LIVE FROM EPSOM'
+
 MICHAEL PALIN:
 Well here in High Street Epsom, There are ample opportunities for all kinds of redevelopment. As you can see,
 

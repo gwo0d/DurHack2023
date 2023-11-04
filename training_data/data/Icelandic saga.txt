@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'NJORL'S SAGA -- PART II'
+
+DIRECTION:
 Pan across a bleak landscape.
 
 JOHN CLEESE:

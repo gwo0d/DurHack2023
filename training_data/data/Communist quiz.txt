@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'WORLD FORUM'
+
+DIRECTION:
 An important-looking current affairs set. On the back wall behind the presenter huge letters say: 'World Forum'
 
 ERIC IDLE:

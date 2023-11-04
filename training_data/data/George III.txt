@@ -1,4 +1,7 @@
 DIRECTION:
+Cut to a throne room. George III is being read to by an adviser.
+
+DIRECTION:
 CAPTION: 'THE COURT OF GEORGE III, 1781'
 
 ERIC IDLE:

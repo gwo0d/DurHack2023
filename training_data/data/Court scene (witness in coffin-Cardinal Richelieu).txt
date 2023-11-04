@@ -1,3 +1,6 @@
+DIRECTION:
+Courtroom: a judge sitting at higher level and a prisoner in the dock.
+
 TERRY JONES:
 Mr Larch, you heard the case for the prosecution. Is there anything you wish to say before I pass sentence?
 

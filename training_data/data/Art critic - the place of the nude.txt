@@ -1,4 +1,7 @@
 DIRECTION:
+Cut to art critic examining a nude painting.
+
+DIRECTION:
 CAPTION: 'AN ART CRITIC'
 
 DIRECTION:

@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'THE EPILOGUE, A QUESTION OF BELIEF'
+
+DIRECTION:
 Interview studio; interviewer in the middle. There is a monsignor in full clerical garb with skull-cap, and opposite him a tweed-suite, old Don figure.
 
 JOHN CLEESE:
