@@ -8,7 +8,7 @@ body{
 }
 
 .form{
-    margin-left: 250px;
+    margin-left: 150px;
     width: fit-content;
     text-align: center; 
 }
@@ -46,6 +46,11 @@ input{
     outline: none;
 }
 
+#empty-input{
+    display: none;
+    color: red;
+    margin-bottom: -2px;
+}
 #submit{
     margin-top: 15px;
     font-size: 1.5em;
