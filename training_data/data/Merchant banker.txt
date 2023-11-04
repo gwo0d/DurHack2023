@@ -1,0 +1,180 @@
+JOHN CLEESE:
+Hello? Ah, Mr Victim, I'm glad to say that I've got the go-ahead to lend you the money you require. Yes, of course we will want as security the deeds of your house, of your aunt's house, of your second cousin's house, of your wife's parents' house, and of your grannie's bungalow, and we will in addition need a controlling interest in your new company, unrestricted access to your private bank account, the deposit in our vaults of your three children as hostages and a full legal indemnity against any acts of embezzlement carried out against you by any members of our staff during the normal course of their duties... no, I'm afraid we couldn't accept your dog instead of your youngest child, we would like to suggest a brand new scheme of ours under which 51% of both your dog and your wife pass to us in the event of your suffering a serious accident. Fine. No, not at all, nice to do business with you.
+
+DIRECTION:
+puts the phone down, speaks on intercom
+
+DIRECTION:
+to himself
+
+DIRECTION:
+a knock on the door
+
+DIRECTION:
+Mr Ford enters, he is collecting for charity with a tin
+
+JOHN CLEESE:
+Ah, Mr Ford isn't it?
+
+TERRY JONES:
+That's right.
+
+JOHN CLEESE:
+How do you do. I'm a merchant banker.
+
+TERRY JONES:
+How do you do Mr...
+
+JOHN CLEESE:
+Er... I forget my name for the moment but I am a merchant banker.
+
+TERRY JONES:
+Oh. I wondered whether you'd like to contribute to the orphan's home.
+
+DIRECTION:
+he rattles the tin
+
+JOHN CLEESE:
+Well I don't want to show my hand too early, but actually here at Slater Nazi we are quite keen to get into orphans, you know, developing market and all that... what sort of sum did you have in mind?
+
+TERRY JONES:
+Well... er... you're a rich man.
+
+JOHN CLEESE:
+Yes, I am. Yes. Yes, very very rich. Quite phenomenally wealthy. Yes, I do own the most startling quantifies of cash. Yes, quite right... you're rather a smart young lad aren't you. We could do with somebody like you to feed the pantomime horse. Very smart.
+
+TERRY JONES:
+Thank you, sir.
+
+JOHN CLEESE:
+Now, you were saying. I'm very, very, very, very, very, very, very, very, very, very, very rich.
+
+TERRY JONES:
+So er, how about a pound?
+
+JOHN CLEESE:
+A pound. Yes, I see. Now this loan would be secured by the...
+
+TERRY JONES:
+It's not a loan, sir.
+
+JOHN CLEESE:
+What?
+
+TERRY JONES:
+It's not a loan.
+
+JOHN CLEESE:
+Ah.
+
+TERRY JONES:
+You get one of these, sir.
+
+DIRECTION:
+he gives him a flag
+
+JOHN CLEESE:
+It's a bit small for a share certificate isn't it? Look, I think I'd better run this over to our legal department. If you could possibly pop back on Friday...
+
+TERRY JONES:
+Well do you have to do that, couldn't you just give me the pound?
+
+JOHN CLEESE:
+Yes, but you see I don't know what it's for.
+
+TERRY JONES:
+It's for the orphans.
+
+JOHN CLEESE:
+Yes?
+
+TERRY JONES:
+It's a gift.
+
+JOHN CLEESE:
+A what?
+
+TERRY JONES:
+A gift.
+
+JOHN CLEESE:
+Oh a gift!
+
+TERRY JONES:
+Yes.
+
+JOHN CLEESE:
+A tax dodge.
+
+TERRY JONES:
+No, no, no, no.
+
+JOHN CLEESE:
+No? Well, I'm awfully sorry I don't understand. Can you just explain exactly what you want.
+
+TERRY JONES:
+Well, I want you to give me a pound, and then I go away and give it to the orphans.
+
+TERRY JONES:
+Well, that's it.
+
+JOHN CLEESE:
+No, no, no, I don't follow this at all, I mean, I don't want to seem stupid but it looks to me as though I'm a pound down on the whole deal.
+
+TERRY JONES:
+Well, yes you are.
+
+JOHN CLEESE:
+I am! Well, what is my incentive to give you the pound?
+
+TERRY JONES:
+Well the incentive is - to make the orphans happy.
+
+DIRECTION:
+genuinely puzzled
+
+JOHN CLEESE:
+Happy?... You quite sure you've got this right?
+
+TERRY JONES:
+Yes, lots of people give me money.
+
+JOHN CLEESE:
+What, just like that?
+
+JOHN CLEESE:
+Must be sick. I don't suppose you could give me a list of their names and addresses could you?
+
+TERRY JONES:
+No, I just go up to them in the street and ask.
+
+JOHN CLEESE:
+Good lord! That's the most exciting new idea I've heard in years! It's so simple it's brilliant! Well, if that idea of yours isn't worth a pound I'd like to know what is.
+
+DIRECTION:
+he takes the tin from Ford
+
+TERRY JONES:
+Oh, thank you, sir.
+
+JOHN CLEESE:
+The only trouble is, you gave me the idea before I'd given you the pound. And that's not good business.
+
+TERRY JONES:
+Isn't it?
+
+JOHN CLEESE:
+No, I'm afraid it isn't. So, um, off you go.
+
+DIRECTION:
+he pulls a lever opening a trap door under Ford's feet and Ford falls through with a yelp
+
+JOHN CLEESE:
+Nice to do business with you.
+
+DIRECTION:
+Cut briefly to a Mongol.
+
+MICHAEL PALIN:
+Anyway.
+
