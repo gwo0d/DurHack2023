@@ -143,5 +143,6 @@ input{
         transform: rotate(15deg) translateX(60vw) translateY(-90%);
         height: 0%;
         display: none;
+        opacity: 0;
       }
   }    
