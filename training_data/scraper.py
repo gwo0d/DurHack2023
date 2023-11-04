@@ -14,9 +14,10 @@ def scrape_all_scripts() -> None:
             if current_sketch is None:
                 current_sketch = "None"
             sanitised_path = re.sub(r'[/\\?%*:|\"<>\x7F\x00-\x1F]', '-', current_sketch)
-            with open(f"data/{sanitised_path}.txt", "w") as f:
-                for line in current_scene_dialogue:
-                    f.write(line)
+            if len("".join(current_scene_dialogue)) > 250:
+                with open(f"data/{sanitised_path}.txt", "w") as f:
+                    for line in current_scene_dialogue:
+                        f.write(line)
             current_sketch = entry[3]
             current_scene_dialogue = []
             # if entry[5] is None:
