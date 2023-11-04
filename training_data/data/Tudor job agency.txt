@@ -1,3 +1,6 @@
+DIRECTION:
+Outside a shop. A sign reads 'Tuder Job Agency - Jobs a Speciality'. A man enters the shop. Inside it is decorated in Tudor style. The assistant is in Tudor dress.
+
 TERRY JONES:
 Morning, sir, can I help you?
 

@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'SOMEWHERE IN ENGLAND, 1944'
+
+DIRECTION:
 The squadron leader enters an RAF officers' mess and takes off his helmet.
 
 TERRY JONES:

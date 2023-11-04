@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 a vicious rampaging bun.
 
 JOHN CLEESE:

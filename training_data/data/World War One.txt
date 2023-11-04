@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 underwater. We see an animated Michael sinking. He is swallowed by a fish with a swastika on its side.
 
 DIRECTION:

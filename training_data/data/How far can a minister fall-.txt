@@ -1,4 +1,7 @@
 DIRECTION:
+On the screen comes the start of a Party Political Broadcast.
+
+DIRECTION:
 CAPTION: 'A PARTY POLITICAL BROADCAST ON BEHALF OF THE WOOD PARTY'
 
 JOHN CLEESE:

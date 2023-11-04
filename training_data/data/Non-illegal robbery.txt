@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 leading to: A garret room with a bare table. Around it are grouped four desperate-looking robbers. The Boss has a rolled-up map. One of the gang, the fifth, is looking out of the window.
 
 MICHAEL PALIN:

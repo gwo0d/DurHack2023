@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'THE WORLD AROUND US'
+
+DIRECTION:
 Photo of newspaper headlines: Pop Stars In Mouse Scandal; Peer Faces Rodent Charges. A man in a mouse skin running into police station with bag over head.
 
 DIRECTION:

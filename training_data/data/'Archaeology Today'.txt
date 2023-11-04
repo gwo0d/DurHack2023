@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 a sketch about an archaeological find leads to:
 
 DIRECTION:

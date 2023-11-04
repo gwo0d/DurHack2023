@@ -1,4 +1,7 @@
 DIRECTION:
+Newsreel footage.
+
+DIRECTION:
 newsreel voice
 
 DIRECTION:

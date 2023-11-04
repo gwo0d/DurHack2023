@@ -1,4 +1,7 @@
 DIRECTION:
+Cut to police station.
+
+DIRECTION:
 behind station counter into camera
 
 JOHN CLEESE:

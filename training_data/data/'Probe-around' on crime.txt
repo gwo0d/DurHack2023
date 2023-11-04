@@ -1,4 +1,7 @@
 DIRECTION:
+'Panorama' music and still photos of policemen in tutus.
+
+DIRECTION:
 CAPTION: 'PROBE AROUND'
 
 DIRECTION:

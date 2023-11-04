@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'CONJURING TODAY'
+
+DIRECTION:
 Fade up on a conjurer with a fright wig and ping-pong eyes. He holds a bloodstained saw.
 
 MICHAEL PALIN:
