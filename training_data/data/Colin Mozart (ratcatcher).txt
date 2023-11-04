@@ -1,71 +1,11 @@
-DIRECTION:
-Cut to Mozart. He is scrubbing the floor.
-
-DIRECTION:
-CAPTION: 'W. A. MOZART'
-
-DIRECTION:
-Jewish accent
-
 MICHAEL PALIN:
 Composer? Huh! I wouldn't wish it on my son. He's a sensitive boy, already. I'd rather he was a sewage attendant or a ratcatcher.
-
-DIRECTION:
-Cut to street with old-fashioned shops. Exterior. Camera tracks in to a shopfront with a large sign outside: 'Rodent Exterminating Boutique - Colin "Chopper" Mozart (Son Of Composer) Ratcatcher To The Nobility And Ordinary People, Too - Ici On Parle Portugaise'. At the door of shop stands Colin Mozart. A kid runs up to him bearing a long cleft stick, Mozart takes the note from the cleavage and reads it.
 
 MICHAEL PALIN:
 Aha! Rats at 42a Kartoffelnstrasse. Hey Mitzi! I gotta go to Potato Street.
 
-DIRECTION:
-off-screen
-
-DIRECTION:
-Put your galoshes on.
-
-DIRECTION:
-Mozart leaps on to a bike carrying two shrimp-nets, and rides off.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'MUNICH 1821'
-
-DIRECTION:
-shouting
-
 MICHAEL PALIN:
 Depressed by rats? Do mice get you down? Then why not visit Colin Mozart's Rodent Extermination Boutique. Rats extirpated, mice punished, voles torn apart by Colin Mozart, Munich's leading furry animal liquidator.
-
-DIRECTION:
-Colin Mozart cycles up to Beethoven's house. Outside is a noticeboard saying:
-
-DIRECTION:
-MR AND MRS EMMANUEL KANT
-
-DIRECTION:
-FRAU MITZI HANDGEPACKAUFBEWAHRUNG
-
-DIRECTION:
-MR DICKIE WAGNER
-
-DIRECTION:
-K. TYNAN (NO RELATION)
-
-DIRECTION:
-MR AND MRSJ. W. VON GOETHE AND DOG
-
-DIRECTION:
-HERR E. W. SWANTON
-
-DIRECTION:
-MR AND MRS P. ANKA
-
-DIRECTION:
-MR AND MRS LUDWIG VAN BEETHOVEN (1770-1827) ACCEPT NO SUBSTITUTE
-
-DIRECTION:
-CAPTION: '13.4 SECONDS LATER'
-
-DIRECTION:
-Beethoven's front door is opened by Mrs Beethoven.
 
 GRAHAM CHAPMAN:
 Yes?
@@ -76,32 +16,14 @@ Colin Mozart.
 GRAHAM CHAPMAN:
 Oh, thank goodness you've come. We're having a terrible time with them bleeding rats. I think they live in his stupid piano already.
 
-DIRECTION:
-They go into the house. We hear the first two bars of Beethoven's Fifth counterpointed by loud squeaking.
-
 JOHN CLEESE:
 Get out the bloody piano you stupid furry bucktoothed gits! Get out! Gott in Himmel. Get your stinking tail out of my face.
-
-DIRECTION:
-Mrs Beethoven opens the door and we see for the first time a strange sight. Rats are flying across the room (thrown from out of vision) others scuttle across floor (pulled by strings) others up wall. One sits on Beethoven's head. The squealing is deafening. Beethoven plays on relentlessly. Mozart and Mrs Beethoven run into room and start trying to catch the rats with the shrimp-nets.
-
-DIRECTION:
-CAPTION: '13.4 MINUTES LATER'
-
-DIRECTION:
-Colin Mozart is sitting on the piano. He rakes the rat-infested room with machine-gunfire.
 
 JOHN CLEESE:
 Shut up!
 
-DIRECTION:
-The picture starts to wobble and mixes back to the two pepperpots.
-
 GRAHAM CHAPMAN:
 So anyway, Beethoven was rather glad when he went deaf.
-
-DIRECTION:
-Mix to Beethoven pushing the keys of the keyboard which is all that remains of his piano. He listens vainly. The mynah bird opens and shuts its beak. In the corner an old horn gramophone plays. We hear Jimmy Durante singing the end of 'I'm the guy that found the lost chord'. Cut back to judges' robing room.
 
 ERIC IDLE:
 Well, I was ever so glad they abolished hanging, you know, because that black cap just didn't suit me.
@@ -120,9 +42,6 @@ Oh, that's right. You were walking out with that very butch Clerk of the Court.
 
 MICHAEL PALIN:
 That's right. Ooh, he made me want to turn Queen's evidence.
-
-DIRECTION:
-Superimposed credits. Theme tune heard quietly as judges continue.
 
 ERIC IDLE:
 Oh, me too. One summing up and I'm anybody's.
@@ -163,9 +82,6 @@ I had a magistrate in Bradford yesterday.
 ERIC IDLE:
 Funnily enough I felt like one in a lunchtime recess today.
 
-DIRECTION:
-credits end
-
 ERIC IDLE:
 But the ones I really like are those voice over announcers on the BBC after the programs are over.
 
@@ -177,10 +93,4 @@ I know, but they've got beautiful speaking voices, haven't they? 'And now a choi
 
 MICHAEL PALIN:
 'Here are tonight's football results.'
-
-DIRECTION:
-Mmm.
-
-DIRECTION:
-Fade out.
 

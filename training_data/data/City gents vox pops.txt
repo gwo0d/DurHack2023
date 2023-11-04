@@ -1,6 +1,3 @@
-DIRECTION:
-Cut to vox pops.
-
 JOHN CLEESE:
 It wasn't true to life.
 
@@ -28,9 +25,6 @@ Well I've been in the city since I was two and I certainly wouldn't say that I w
 TERRY JONES:
 Oh dear, Mr Bulstrode's stuck again.
 
-DIRECTION:
-She runs over and gives him a shove.
-
 ERIC IDLE:
 I certainly wouldn't say that I was stuck in a rut.
 
@@ -40,14 +34,8 @@ Well l've been in the city for thirty years and I've never once regretted being 
 TERRY JONES:
 Well I've been in the city for twenty-seven years and I would like to see the reintroduction of flogging. Every Thursday, round at my place.
 
-DIRECTION:
-whose head only is visible above the level of the sea
-
 JOHN CLEESE:
 Well I've been in the sea for thirty-three years and I've never regretted it.
-
-DIRECTION:
-Camera pulls back to reveal other city gents also with only heads and bowlers visible who say 'quite agree'. Camera pulls back further to reveal an elderly couple sitting in deckchairs.
 
 JOHN CLEESE:
 I think it must be a naturalist outing.

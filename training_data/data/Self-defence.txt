@@ -1,23 +1,11 @@
-DIRECTION:
-A gym. Four men waiting there, with an ex-RSM type.
-
 JOHN CLEESE:
 Sir! Good evening, class.
-
-DIRECTION:
-Good evening.
 
 JOHN CLEESE:
 Where's all the others, then?
 
-DIRECTION:
-They're not here.
-
 JOHN CLEESE:
 I can see that. What's the matter with them?
-
-DIRECTION:
-Don't know.
 
 GRAHAM CHAPMAN:
 Perhaps they've got flu.
@@ -25,17 +13,8 @@ Perhaps they've got flu.
 JOHN CLEESE:
 Flu...flu? They should eat more fresh fruit.
 
-DIRECTION:
-does terrible twitch or tic
-
 JOHN CLEESE:
 Right. Now, self-defence. Tonight I shall be carrying on from where we got to last week when I was showing you how to defend yourselves against anyone who attacks you with armed with a piece of fresh fruit.
-
-DIRECTION:
-disappointed
-
-DIRECTION:
-Oh.
 
 MICHAEL PALIN:
 You promised you wouldn't do fruit this week.
@@ -54,15 +33,6 @@ But couldn't we do something else, for a change?
 
 ERIC IDLE:
 Like someone who attacks you with a pointed stick?
-
-DIRECTION:
-scornfully
-
-DIRECTION:
-demonstrates
-
-DIRECTION:
-We've done the passion fruit.
 
 JOHN CLEESE:
 What?
@@ -94,41 +64,20 @@ Yes, and mangoes in syrup.
 JOHN CLEESE:
 How about cherries?
 
-DIRECTION:
-We done them.
-
 JOHN CLEESE:
 Red
-
-DIRECTION:
-and
 
 JOHN CLEESE:
 black?
 
-DIRECTION:
-Yes.
-
 JOHN CLEESE:
 All right then...bananas!
-
-DIRECTION:
-Oh.
 
 JOHN CLEESE:
 We haven't done them, have we?
 
-DIRECTION:
-No.
-
 JOHN CLEESE:
 Right! Bananas! How to defend yourself against a man armed with a banana.
-
-DIRECTION:
-to first man
-
-DIRECTION:
-throws him a banana
 
 JOHN CLEESE:
 Now, it's quite simple to defend yourself against the banana fiend. First of all, you force him to drop the banana, next, you eat the banana, thus disarming him. You have now rendered him helpless.
@@ -151,23 +100,8 @@ Harrison.
 JOHN CLEESE:
 Harrison, Mr. Harrison. Come at me with that banana then. Come on attack me with it. As hard as you like. Come on.
 
-DIRECTION:
-Harrison moves towards him rather half-heartedly
-
-DIRECTION:
-Harrison runs towards him shouting; RSM draws a revolver and fires it, right in Harrison's face; Harrison dies immediately, falling to the ground; RSM puts gun away and walks to banana
-
 JOHN CLEESE:
 Now...I eat the banana.
-
-DIRECTION:
-He does so; the rest of the class gather around Mr Harrison's body
-
-DIRECTION:
-You shot him. He's dead...dead. He's completely dead. You've shot him.
-
-DIRECTION:
-finishing the banana
 
 JOHN CLEESE:
 I have now eaten the banana. The deceased Mr Apricot is now disarmed.
@@ -205,9 +139,6 @@ You try that with a pineapple down your windpipe.
 TERRY JONES:
 A pineapple?
 
-DIRECTION:
-jumping with fear
-
 JOHN CLEESE:
 Where? Where?
 
@@ -217,23 +148,14 @@ Nowhere. I was just saying pineapple.
 JOHN CLEESE:
 Oh blimey. I thought my number was on that one.
 
-DIRECTION:
-amazed
-
 TERRY JONES:
 What, on the pineapple?
-
-DIRECTION:
-jumping
 
 TERRY JONES:
 No I was just repeating it.
 
 JOHN CLEESE:
 Oh. Oh. Right. That's the banana then. Next... the raspberry.
-
-DIRECTION:
-pulling one out of pocket
 
 JOHN CLEESE:
 Harmless looking thing, isn't it? Now you, Mr Tinned Peach...
@@ -286,9 +208,6 @@ You have. You shot Mr Harrison with it.
 JOHN CLEESE:
 Oh...
 
-DIRECTION:
-that
-
 JOHN CLEESE:
 gun.
 
@@ -297,9 +216,6 @@ Throw it away.
 
 JOHN CLEESE:
 All right.
-
-DIRECTION:
-throws it away
 
 JOHN CLEESE:
 How to defend yourself against a raspberry, without a gun.
@@ -315,9 +231,6 @@ You were.
 
 JOHN CLEESE:
 Wasn't. Come on, come on you worm...you miserable little man. Come at me then...come on, do your worst, you worm.
-
-DIRECTION:
-third man runs at him; the RSM steps back and pulls a lever; a sixteen-ton weight falls upon the man
 
 JOHN CLEESE:
 If anyone ever attacks you with a raspberry, simply pull the lever...and a sixteen-ton weight will drop on his head. I learnt that in Malaya.
@@ -373,47 +286,14 @@ Promise.
 JOHN CLEESE:
 I promise I won't kill you. Now, are you going to attack me?
 
-DIRECTION:
-All right.
-
 JOHN CLEESE:
 Right, now don't rush me this time. I'm going to turn me back. So you can stalk me...right. Come up as quietly as you can, right, close up behind me, then, in with the raspberries, right? Start moving
-
-DIRECTION:
-they start to creep up behind him
-
-DIRECTION:
-he presses button and a tiger flashes past him in direction of second and fourth men; cries are heard from them as well as roaring
-
-DIRECTION:
-he turns to lok at the scene
 
 JOHN CLEESE:
 Right...I know you're there - lurking under the floorboards with your damsons and your prunes...now, the rest of you - I know you're hiding behind the wall bars with your quinces. Well I'm ready for you. I've wired myself up to two hundred tons of gelignite, and if any one of you so much as tries anything we'll all go up together! I've warned you...I warned you, right. That's it...
 
-DIRECTION:
-Big explosion.
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-Ends with cut-out animation of sedan chair; matching shot links into next film.
-
-DIRECTION:
-Cut to deserted beach. Sedan chair arrives at deserted beach. Flunkey opens the door. Gentleman gets out in his eighteenth-century finery. The flunkeys help him to change into a lace-trimmed striped bathing costume. He then gets back into the sedan chair and they all trot off onto the sea.
-
-DIRECTION:
-Cut to singer in bed with woman. Singer reclining with guitar.
-
 ERIC IDLE:
 And did those feet in ancient times, walk upon England's mountains green...we'd like to alter the mood a little, we'd like to bring you something for mum and dad, Annie, and Roger, Mazarin and Louis and all at Versailles, it's a little number calld 'England's Mountains Green'. Hope you like it. And did those feet in ancient time...
-
-DIRECTION:
-Cut to a man standing in the countryside.
-
-DIRECTION:
-rustic accent
 
 JOHN CLEESE:
 Yes, you know it's a man's life in England's Mountain Green.
@@ -421,23 +301,11 @@ Yes, you know it's a man's life in England's Mountain Green.
 GRAHAM CHAPMAN:
 Right I heard that, I heard that, I'm going to stop this sketch now, and if there's any more of this, I'm going to stop the whole programme. I thought it was supposed to be about teeth anyway. Why don't you do something about your teeth - go on.
 
-DIRECTION:
-walk off
-
 JOHN CLEESE:
 What about my rustic monologue?...I'm not sleeping with
 
-DIRECTION:
-that
-
 JOHN CLEESE:
 producer again.
-
-DIRECTION:
-Cut to film of various sporting activities, wild west stage coach etc.
-
-DIRECTION:
-with big music, excited
 
 JOHN CLEESE:
 Excitement, drama, action, violence, fresh fruit. Passion. Thrills. Spills. Romance. Adventure, all the things you can read about in a book.

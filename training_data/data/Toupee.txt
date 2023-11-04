@@ -1,23 +1,11 @@
-DIRECTION:
-A hand holding a sign saying 'Toupees' beckons him. He goes over to door and is ushered through. There are pictures of famous bald world figures with toupees on the walls.
-
 TERRY JONES:
 Don't worry, sir, you're among friends now, sir.
-
-DIRECTION:
-the manager has an appalling toupee; Chris sees it and tries not to stare; the manager introduces his assistants
-
-DIRECTION:
-Bradford and Crawley come forward; each has a toupee worse than the others
 
 TERRY JONES:
 These are our fitters, sir. We've had a lot of experience in this field and we do pride ourselves we offer the best and most discreet service available. I don't know whether you'll believe this sir, but one of us is actually wearing a toupee at this moment...
 
 ERIC IDLE:
 Well, you all are, aren't you?
-
-DIRECTION:
-They rush to a mirror.
 
 MICHAEL PALIN:
 Have you got one?
@@ -33,9 +21,6 @@ Yes, I thought it was me.
 
 MICHAEL PALIN:
 So did I.
-
-DIRECTION:
-to Crawley
 
 MICHAEL PALIN:
 That is good.
@@ -82,9 +67,6 @@ Yes.
 ERIC IDLE:
 I'm not wearing one.
 
-DIRECTION:
-they all jeer
-
 TERRY JONES:
 Oh, I see, you haven't got one.
 
@@ -94,9 +76,6 @@ Why did you come in here then?
 ERIC IDLE:
 They told me to find the manager's office here.
 
-DIRECTION:
-They all jeer again.
-
 MICHAEL PALIN:
 Oh no, not again.
 
@@ -105,12 +84,6 @@ That's a bit lame, isn't it...
 
 ERIC IDLE:
 It's the truth!
-
-DIRECTION:
-Manager's office.
-
-DIRECTION:
-they laugh mockingly
 
 MICHAEL PALIN:
 Yeah, look at it. Where did you get that, Mac Fisheries?
@@ -123,15 +96,6 @@ Nylon?
 
 ERIC IDLE:
 It's not, it's real look.
-
-DIRECTION:
-he pulls it
-
-DIRECTION:
-Oh yeah, anyone can do that.
-
-DIRECTION:
-They all do the same. Bradford incautiously pulls his loose.
 
 GRAHAM CHAPMAN:
 Come on, get if off.
@@ -151,17 +115,11 @@ There's no need to be ashamed.
 GRAHAM CHAPMAN:
 We've all owned up.
 
-DIRECTION:
-They all look at each other for a moment, registering 'a hard case'.
-
 TERRY JONES:
 Don't you see... this is something you've got to come to terms with.
 
 ERIC IDLE:
 I am not wearing a toupee! They just told me to come in here to find the manager's office, to complain about my ant!
-
-DIRECTION:
-They look at each other.
 
 GRAHAM CHAPMAN:
 Pathetic, isn't it.

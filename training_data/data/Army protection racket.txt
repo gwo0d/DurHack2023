@@ -1,20 +1,8 @@
-DIRECTION:
-Stock film of the army. Tanks rolling, troops moving forward etc. Stirring military music.
-
 JOHN CLEESE:
 In 1943, a group of British Army Officers working deep behind enemy lines, carried out one of the most dangerous and heroic raids in the history of warfare. But that's as maybe. And now . . .
 
-DIRECTION:
-SUPERIMPOSED CAPTION: 'AND NOW . . . UNOCCUPIED BRITAIN 1970'
-
-DIRECTION:
-Cut to colonel's office. Colonel is seated at desk.
-
 GRAHAM CHAPMAN:
 Come in, what do you want?
-
-DIRECTION:
-Private Watkins enters and salutes.
 
 ERIC IDLE:
 I'd like to leave the army please, sir.
@@ -37,9 +25,6 @@ Real guns, sir. Not toy ones, sir. Proper ones, sir. They've all got 'em. All of
 GRAHAM CHAPMAN:
 Watkins, they
 
-DIRECTION:
-are
-
 GRAHAM CHAPMAN:
 on our side.
 
@@ -61,17 +46,11 @@ Well I mean, blimey, I mean if it was a big war somebody could be hurt.
 GRAHAM CHAPMAN:
 Watkins why did you
 
-DIRECTION:
-join
-
 GRAHAM CHAPMAN:
 the army?
 
 ERIC IDLE:
 For the water-skiing and for the travel, sir. And
-
-DIRECTION:
-not
 
 ERIC IDLE:
 for the killing, sir. I asked them to put it on my form, sir - no killing.
@@ -88,14 +67,8 @@ That's a very silly line. Sit down.
 ERIC IDLE:
 Yes sir. Silly, sir.
 
-DIRECTION:
-sits in corner
-
 GRAHAM CHAPMAN:
 Awfully bad.
-
-DIRECTION:
-Knock at the door, sergeant enters, and salutes.
 
 JOHN CLEESE:
 Two civilian gentlemen to see you ... sir!
@@ -106,17 +79,11 @@ Show them in please, sergeant.
 JOHN CLEESE:
 Mr Dino Vercotti and Mr Luigi Vercotti.
 
-DIRECTION:
-The Vercotti brothers enter. They wear Mafia suits and dark glasses.
-
 TERRY JONES:
 Good morning, colonel.
 
 GRAHAM CHAPMAN:
 Good morning gentlemen. Now what can I do for you.
-
-DIRECTION:
-looking round office casually
 
 MICHAEL PALIN:
 You've ... you've got a nice army base here, colonel.
@@ -129,9 +96,6 @@ We wouldn't want anything to happen to it.
 
 TERRY JONES:
 No, what my brother means is it would be a shame if...
-
-DIRECTION:
-he knocks something off mantel
 
 GRAHAM CHAPMAN:
 Oh.
@@ -178,9 +142,6 @@ We are careful, extremely careful.
 TERRY JONES:
 'Cos things
 
-DIRECTION:
-break
-
 TERRY JONES:
 , don't they?
 
@@ -189,9 +150,6 @@ Break?
 
 MICHAEL PALIN:
 Well everything breaks, don't it colonel.
-
-DIRECTION:
-he breaks something on desk
 
 MICHAEL PALIN:
 Oh dear.
@@ -214,17 +172,11 @@ Paratroops, Dino.
 TERRY JONES:
 Be a shame if someone was to set fire to
 
-DIRECTION:
-them
-
 TERRY JONES:
 .
 
 GRAHAM CHAPMAN:
 Set
-
-DIRECTION:
-fire
 
 GRAHAM CHAPMAN:
 to them?
@@ -307,17 +259,8 @@ I want to leave the army please sir, it's dangerous.
 GRAHAM CHAPMAN:
 Look, I stopped
 
-DIRECTION:
-your
-
-DIRECTION:
-camera zooms in
-
 GRAHAM CHAPMAN:
 That's better.
-
-DIRECTION:
-off screen
 
 MICHAEL PALIN:
 It's only 'cos you couldn't think of a punch line.
@@ -325,17 +268,8 @@ It's only 'cos you couldn't think of a punch line.
 GRAHAM CHAPMAN:
 Not true, not true. It's time for the cartoon. Cue telecine, ten, nine, eight...
 
-DIRECTION:
-Cut to telecine countdown.
-
-DIRECTION:
-off screen
-
 TERRY JONES:
 The general public's not going to understand this, are they?
-
-DIRECTION:
-off screen
 
 GRAHAM CHAPMAN:
 Shut up you eyeties!

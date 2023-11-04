@@ -1,20 +1,8 @@
-DIRECTION:
-CAPTION: 'NJORL'S SAGA -- PART III'
-
-DIRECTION:
-Usual dramatic music. Fade music as we come up on a courtroom. A man, Mr Birchenhall, is giving evidence.
-
 GRAHAM CHAPMAN:
 8 o'clock is a peak viewing hour so naturally we tend to stick to our comedy output - unless of course there's sport - because of course we know this is popular, and popularity is what television is about. Quite frankly I'm sick and tired of people accusing us of being ratings conscious.
 
-DIRECTION:
-to the clerk of the court
-
 TERRY JONES:
 Ratings conscious?
-
-DIRECTION:
-Transmitting bland garbage, m'lud.
 
 TERRY JONES:
 Thank you.
@@ -22,32 +10,17 @@ Thank you.
 GRAHAM CHAPMAN:
 Now I'm really cheesed off. I mean it's not your high-brow bleeding plays that pull in the viewers, you know.
 
-DIRECTION:
-bored
-
-DIRECTION:
-getting more and more angry
-
 GRAHAM CHAPMAN:
 I mean Joe Public doesn't want to sit down and watch three hours of documentaries every evening.
 
 GRAHAM CHAPMAN:
 He wants to sit down and he wants to be entertained, he doesn't want a load...
 
-DIRECTION:
-he is helped out of court by two policemen, still protesting violently
-
 GRAHAM CHAPMAN:
 No really - I'm absolutely fed up with this. I really am.
 
-DIRECTION:
-banging gavel
-
 TERRY JONES:
 Case dismissed.
-
-DIRECTION:
-The prosecuting counsel rises anxiously.
 
 JOHN CLEESE:
 Case dismissed, m'lud?
@@ -58,41 +31,14 @@ Oh all right, five years.
 JOHN CLEESE:
 Thank you, m'lud.
 
-DIRECTION:
-he sits
-
 TERRY JONES:
 Call the next case please.
 
 JOHN CLEESE:
 Call Erik Njorl, son of Frothgar, brother of Hangnor...
 
-DIRECTION:
-etc.
-
 JOHN CLEESE:
 .
-
-DIRECTION:
-Call Erik Njorl ...
-
-DIRECTION:
-etc.
-
-DIRECTION:
-,
-
-DIRECTION:
-off
-
-DIRECTION:
-etc.
-
-DIRECTION:
-all calling at once
-
-DIRECTION:
-Erik comes into the dock. He is bandaged almost totally, like a cocoon, including his head. He wears a Viking fur hat, The usher approaches him with the card and Bible.
 
 ERIC IDLE:
 You are Erik Njorl, son of Frothgar...
@@ -106,14 +52,8 @@ Will you raise your right hand.
 TERRY JONES:
 He obviously can't raise his right hand, you silly usher person... can you raise your right leg Mr Njorl?
 
-DIRECTION:
-Njorl shakes his head.
-
 ERIC IDLE:
 Can you raise any part of your body, Mr Njorl?
-
-DIRECTION:
-Njorl leans over and whispers in the usher's ear.
 
 ERIC IDLE:
 I see... well, we'll skip that... well, just take the book in your right hand Mr Njorl without raising any part of your body... Oh ....
@@ -130,9 +70,6 @@ Well screw the Bible! Let's get on with this bleeding trial, I've got a Gay Lib 
 GRAHAM CHAPMAN:
 Is a charge strictly necessary, m'lud?
 
-DIRECTION:
-heavy aside
-
 TERRY JONES:
 The press is here.
 
@@ -145,29 +82,14 @@ The big brown table down at the police station?
 GRAHAM CHAPMAN:
 It's the best we could find, m'lud ... and five... all together now...
 
-DIRECTION:
-The whole court shout together.
-
-DIRECTION:
-Assaulting a police officer!
-
 JOHN CLEESE:
 Call Police Constable Pan-Am.
-
-DIRECTION:
-Pan-Am runs into court and starts beating Njorl with a truncheon
-
-DIRECTION:
-the policeman gets into box hitting at anyone within range; his colleagues restrain him
 
 JOHN CLEESE:
 Now, you are Police Constable Pan-Am?
 
 MICHAEL PALIN:
 No, I shall deny that to the last breath in my body.
-
-DIRECTION:
-superintendent nods
 
 MICHAEL PALIN:
 Oh. Sorry, yes.
@@ -178,35 +100,17 @@ Police constable, do you recognize the defendant?
 MICHAEL PALIN:
 No. Never seen him before in my life.
 
-DIRECTION:
-the superintendent looks embarrassed
-
 JOHN CLEESE:
 Constable, will you please tell the court in your own words what happened?
 
 MICHAEL PALIN:
 Oh yes!
 
-DIRECTION:
-refers to his notebook
-
-DIRECTION:
-points at Njorl
-
-DIRECTION:
-the superintendent shakes his head
-
 MICHAEL PALIN:
 No, anyway I clearly saw the deceased...
 
-DIRECTION:
-Defendant.
-
 MICHAEL PALIN:
 Defendant! Sorry. Sorry, super. I clearly saw the defendant ... doing whatever he's accused of...Red-handed. When kicked... he said: 'It's a fair ... cop, I done it all ... Right... no doubt about... that'. Then, bound as he was to the chair, he assaulted myself and three other constables while bouncing around the cell. The end.
-
-DIRECTION:
-Spontaneous applause from the court. Shouts of 'more! more!'. Pan-am raises his hands and the clapping and shouting dies down.
 
 MICHAEL PALIN:
 Thank you, thank you... and for my next piece of evidence...
@@ -217,27 +121,12 @@ I think you'd better leave it there, constable.
 JOHN CLEESE:
 Excellent evidence, constable
 
-DIRECTION:
-the constable is removed, flailing his truncheon the while
-
-DIRECTION:
-silence from the bandages
-
-DIRECTION:
-silence
-
 TERRY JONES:
 Is he in there, d'you think? . .. Hello... Hello! Defendant, are you there ... coo-ee! De-fend-ant...
 
 TERRY JONES:
 I think you'd better go and have a look, Maurice.
 
-DIRECTION:
-Don't call me Maurice in court!
-
 TERRY JONES:
 I'm sorry.
-
-DIRECTION:
-The clerk and prosecuting counsel and two policemen look inside Njorl, who is now in fact a framework of bandages with no one inside. From this oh-so zany situation only Terry 'Marty Feldman's Comedy Machine' Gilliam can save us ...
 

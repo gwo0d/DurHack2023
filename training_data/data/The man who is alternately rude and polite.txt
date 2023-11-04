@@ -1,6 +1,3 @@
-DIRECTION:
-Animation sketch links us to a butcher's shop. Harmless looking city gent enters.
-
 MICHAEL PALIN:
 Good morning, I'd care to purchase a chicken, please.
 
@@ -64,23 +61,8 @@ That's all right. It doesn't really matter.
 ERIC IDLE:
 Tough titty if it did, you nasty spotted prancer.
 
-DIRECTION:
-Cut to the Grillomat in Paignton. The announcer is just handing back a cup and saucer to a waitress.
-
 JOHN CLEESE:
 Sorry, I asked for tea.
-
-DIRECTION:
-she takes it grudgingly
-
-DIRECTION:
-to camera
-
-DIRECTION:
-last
-
-DIRECTION:
-waitress hands him back his cup
 
 JOHN CLEESE:
 Now I did ask for tea.
@@ -90,9 +72,6 @@ But you just said coffee.
 
 JOHN CLEESE:
 No, no, that was just my announcement, just a metaphor.
-
-DIRECTION:
-She shrugs and begins to move off. At the table just behind him we hear her complaining noisily in the background.
 
 JOHN CLEESE:
 We come...look would you mind keeping it down, please...we come as - as I said just now, to the coffee.

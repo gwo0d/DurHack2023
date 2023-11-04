@@ -1,9 +1,3 @@
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-ends with an animated woman going into a laundromat. Cut to the interior of a laundromat. Various shabby folk sitting around. Mrs Conclusion approaches Mrs Premise and sits down.
-
 GRAHAM CHAPMAN:
 Hello, Mrs Premise.
 
@@ -60,9 +54,6 @@ Well well well. 'Course, Mrs Essence flushed hers down the loo.
 
 GRAHAM CHAPMAN:
 Ooh! No! You shouldn't do that - no that's dangerous. Yes, they breed in the sewers, and eventually you get evil-smelling flocks of huge soiled budgies flying out of people's lavatories infringing their personal freedom.
-
-DIRECTION:
-life-size cut-out of woman at end of last animation goes by
 
 GRAHAM CHAPMAN:
 Good morning Mrs Cut-out.
@@ -121,9 +112,6 @@ What was Jean-Paul like?
 JOHN CLEESE:
 Well, you know, a bit moody. Yes, he didn't join in the fun much. Just sat there thinking. Still, Mr Rotter caught him a few times with the whoopee cushion.
 
-DIRECTION:
-she demonstrates
-
 JOHN CLEESE:
 Le Capitalisme et La Bourgeoisie ils sont la même chose... Oooh we did laugh.
 
@@ -132,9 +120,6 @@ Well, we'll give him a tinkle then.
 
 JOHN CLEESE:
 Yes, all right. She said they were in the book.
-
-DIRECTION:
-shouts
 
 JOHN CLEESE:
 Where's the Paris telephone directory?
@@ -151,68 +136,29 @@ It's 621036.
 JOHN CLEESE:
 Oh, thank you, Mrs Varley.
 
-DIRECTION:
-dials
-
-DIRECTION:
-as they wait they sing 'The Girl from Ipanema'
-
-DIRECTION:
-to Mrs Conclusion
-
-DIRECTION:
-to Madame Sartre
-
-DIRECTION:
-puts the phone down
-
 JOHN CLEESE:
 Well he's out distributing pamphlets to the masses but he'll be in at six.
 
 GRAHAM CHAPMAN:
 Oh well, I'll ring BEA then.
 
-DIRECTION:
-Cut to them sitting on a raft in mid-ocean.
-
 JOHN CLEESE:
 Oh look, Paris!
-
-DIRECTION:
-Cut to shot of a notice board on the seashore, it reads 'North Malden Welcomes Careful Coastal Craft'.
 
 GRAHAM CHAPMAN:
 That's not Paris. Jean-Paul wouldn't live here. It's a right old dump.
 
-DIRECTION:
-'Alan Whicker', complete with microphone, walks in front of sign.
-
 ERIC IDLE:
 But this is where they were wrong. For this was no old dump, but a town with a future, an urban El Dorado where the businessmen of today can enjoy the facilities of tomorrow in the comfort of yesterday. Provided by a go-getting, go-ahead council who know just how loud money can talk.
-
-DIRECTION:
-a phone off-screen starts to ring
 
 ERIC IDLE:
 Interest rates are so low...
 
-DIRECTION:
-Cut to head of drama's office; he is on the phone.
-
 JOHN CLEESE:
 Well it's none of my business but we had the same trouble with one of our Icelandic sagas. These people are terribly keen but they do rather tend to take over. I think I'd stick to Caribbean Islands if I were you.
 
-DIRECTION:
-rings off
-
 JOHN CLEESE:
 Fine... and now back to the saga.
-
-DIRECTION:
-CAPTION: 'NJORL'S SAGA - PART IV'
-
-DIRECTION:
-Thundering music. Cut to an Icelandic seashore. Dark and impressive. After a pause the pepperpots walk into shot.
 
 JOHN CLEESE:
 Here - this is not Paris, this is Iceland.
@@ -220,17 +166,8 @@ Here - this is not Paris, this is Iceland.
 GRAHAM CHAPMAN:
 Oh, well, Paris must be over there then.
 
-DIRECTION:
-points out to the sea; they walk back to the raft
-
-DIRECTION:
-Stock shot of Eiffel Tower. French accordion music. Mix through to French street thronged by old Frenchmen with berets and loaves. Mrs Conclusion and Mrs Premise appear and walk up to the front door of an apartment block. On the front door is a list of the inhabitants of the block. They read it out loud.
-
 JOHN CLEESE:
 Oh, here we are, Number 25 ....
-
-DIRECTION:
-reads
 
 JOHN CLEESE:
 Flat 1, Duke and Duchess of Windsor, Flat 2, Yves Montand, Flat 3, Jacques Cousteau, Flat 4, Jean Genet and Friend, Flat 5, Maurice Laroux...
@@ -247,47 +184,23 @@ She gets about a bit, doesn't she?
 JOHN CLEESE:
 Yes, Flat 8, Jean-Paul and Betty-Muriel Sartre.
 
-DIRECTION:
-She rings the bell. A voice comes from the intercom.
-
-DIRECTION:
-Oui.
-
 JOHN CLEESE:
 C'est nous, Betty-Muriel, excusez que nous sorerues en retard.
-
-DIRECTION:
-Entrez.
-
-DIRECTION:
-Buzzer sounds.
 
 JOHN CLEESE:
 Oui, merci.
 
-DIRECTION:
-Interior the Sartres flat. It is littered with books and papers. We hear Jean-Paul coughing. Mrs Sartre goes to the door. She is a ratbag with a fag in her mouth and a duster over her head. A French song is heard on the radio. She switches it off.
-
 MICHAEL PALIN:
 Oh, rubbish.
 
-DIRECTION:
-opens the door
-
 MICHAEL PALIN:
 Bonjour.
-
-DIRECTION:
-entering
 
 GRAHAM CHAPMAN:
 Parlez vous Anglais?
 
 MICHAEL PALIN:
 Oh yes. Good day.
-
-DIRECTION:
-Mrs Premise comes in
 
 MICHAEL PALIN:
 Hello, love!
@@ -313,9 +226,6 @@ No, I'm a Revisionist.
 MICHAEL PALIN:
 Oh good. I mean, look at this place! I'm at my wits end. Revolutionary leaflets everywhere. One of these days I'll revolutionary leaflets him. If it wasn't for the goat you couldn't get in here for propaganda.
 
-DIRECTION:
-Shot of a goat eating leaflets in corner of room.
-
 JOHN CLEESE:
 Oh very well. Can we pop in and have a word with him?
 
@@ -328,33 +238,15 @@ Thank you.
 MICHAEL PALIN:
 But be careful. He's had a few. Mind you he's as good as gold in the morning, I've got to hand it to him, but come lunchtime it's a bottle of vin ordinaire - six glasses and he's ready to agitate.
 
-DIRECTION:
-Mrs Premise and Mrs Conclusion knock on the door of Jean-Paul's room.
-
 JOHN CLEESE:
 Coo-ee! Jean-Paul? Jean-Paul! It's only us. Oh pardon ... c'est même nous...
 
-DIRECTION:
-They enter. We do not see Jean-Paul although we hear his voice.
-
-DIRECTION:
-Oui.
-
 JOHN CLEESE:
 Jean-Paul. Your famous trilogy 'Rues à Liberté, is it an allegory of man's search for commitment?
-
-DIRECTION:
-Oui.
 
 JOHN CLEESE:
 I told you so.
 
 GRAHAM CHAPMAN:
 Oh coitus.
-
-DIRECTION:
-Stock shot of a plane taking off
-
-DIRECTION:
-CAPTION: 'THE END'
 

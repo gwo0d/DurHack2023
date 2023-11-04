@@ -1,71 +1,29 @@
-DIRECTION:
-Cut to Superintendent Harry 'Boot-in' Swalk'
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'SUPERINTENDENT HARRY "BOOT-IN" SWALK'
-
 TERRY JONES:
 We admit that there have been outbreaks of hanging recently, but the police are trying to keep the situatuon under control.
-
-DIRECTION:
-his personal two-way radio is making rather a noise
-
-DIRECTION:
-claps his hand over the radio to little avail
 
 TERRY JONES:
 Electrocutions are another big worry. But we hope that guillotining has been eradicated from the urban areas. and garrotting is confined almost entirely to Luton. So if you have a friend in prison or under the sentence of death, be sure to let us know at this address.
 
-DIRECTION:
-and CAPTION:
-
 ERIC IDLE:
 'THE POLICE FORCE, "SUNNYVIEW", YEOVIL, SOMERSET'
-
-DIRECTION:
-Cut to a mortuary. Various trolleys lie about with corpses covered by sheets. Two workers are sitting at a low make-shift table with cups of tea and a transistor radio, shelling eggs and dropping them in a pickling jar.
 
 JOHN CLEESE:
 ... and Premier Chou En Lai, who called it 'a major breakthrough'. Twelve men were accidentally hanged at Whitby Assizes this afternoon whilst considering their verdict. This is one of the worst miscarriages of justice in Britain since Tuesday.
 
-DIRECTION:
-music
-
 ERIC IDLE:
 Well it's thirteen minutes to the hour of nine-nine-nine, here on wonderful Radio One-One-One! So if you're still lying in your big big bed, now is the time to get up out of it! We've got another thirteen hours of tip-top sounds here on Wonderful Radio One!
-
-DIRECTION:
-brief funny noises
 
 ERIC IDLE:
 Sorry about that ... So unless you have brain cells, or have completed the process of evolution, there's a wonderful day ahead!
 
-DIRECTION:
-switching the radio off
-
-DIRECTION:
-he gets another radio out from underneath the table
-
-DIRECTION:
-he gets another radio out
-
-DIRECTION:
-he opens the top of the third radio and gets out a fourth; he switches it on
-
 GRAHAM CHAPMAN:
 It's 9 o'clock and time for 'Mortuary Hour'. An hour of talks, tunes and downright tomfoolery for all those who work in mortuaries, introduced as usual by Shirley Bassey.
-
-DIRECTION:
-sinister chords
 
 GRAHAM CHAPMAN:
 .
 
 CAROL CLEVELAND:
 Well, we're going to kick straight off this week with our Mortuary Quiz, so have your pens and pencils ready.
-
-DIRECTION:
-A door at the back of the mortuary opens and Mr Wang, an official of the Department of Stiffs, enters. He wears an undertaker's suit and top hat plus a long blond wig.
 
 JOHN CLEESE:
 Turn that radio off and look lively!
@@ -75,9 +33,6 @@ Oh, it's 'Mortuary Quiz', Mr Wang...
 
 JOHN CLEESE:
 Don't argue, Battersby.
-
-DIRECTION:
-We hear voices off. Officials at the door spring to attention. Enter a mayor with a chain round his neck, and an elderly peer of the realm who is standing on a small platform, pushed by an attendant.
 
 GRAHAM CHAPMAN:
 ... This is our mortuary in here, Your Grace ...
@@ -118,17 +73,11 @@ Perhaps we should postpone the visit?
 CAROL CLEVELAND:
 No, no, no - you see it's just that his brain is so tiny that the slightest movement can dislodge it
 
-DIRECTION:
-starts to slap the duke's head from side to side gently but firmly
-
 CAROL CLEVELAND:
 Your Grace ... Oh dear... it's rather like one of those games you play where you have to get the ball into the hole ... That's it.
 
 MICHAEL PALIN:
 Ah! Now then, excellent, excellent, excellent, excellent. Now then ... ah ... what happens when the steel is poured into the ingots?
-
-DIRECTION:
-ushering everyone out
 
 GRAHAM CHAPMAN:
 Perhaps we should go and have a look at the new showers?
@@ -136,14 +85,8 @@ Perhaps we should go and have a look at the new showers?
 MICHAEL PALIN:
 Yes... yes ... yes ... yes... yes rather jolly good... jolly good .. jolly good ... jolly good ... no fear...
 
-DIRECTION:
-They leave. Battersby turns the radio on again.
-
 CAROL CLEVELAND:
 Well the answers were as follows: 1) the left hand, 2) no, 3) normal, 4) yes it has, in 1963 when a bird got caught in the mechanism. How did you get on?
-
-DIRECTION:
-Two men behind him push in a trolley with sheet-covered corpses on it.
 
 JOHN CLEESE:
 Turn that thing off!
@@ -160,9 +103,6 @@ Oh yes, I just heard about that on the radios ...
 JOHN CLEESE:
 No, these are twelve different ones ... so shtoom.
 
-DIRECTION:
-Battersby and friend gather round the body. Wang joins them. They start to work away busily and eficiently on the corpse. We suddenly become aware that Badger is standing with them around the body.
-
 ERIC IDLE:
 I'll not interrupt this sketch for a pound.
 
@@ -175,14 +115,8 @@ For one pound I'll leave this sketch totally uninterrupted.
 ERIC IDLE:
 Fifty pence ... I'm prepared to negotiate a forty-pence deal.
 
-DIRECTION:
-an eye peers out from under the sheet on the corpse they are working on
-
 ERIC IDLE:
 For 35p I won't interrupt any of the next three items.
-
-DIRECTION:
-The corpse is now sitting up waiting to see what happens. Another corpse sits up as they continue arguing. The sheet is pushed back on another trolley revealing a boy and girl on the same stretcher. They light cigarettes.
 
 JOHN CLEESE:
 No, no, it's no good...
@@ -195,18 +129,6 @@ No.
 
 ERIC IDLE:
 10p and a kiss.
-
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-with Gilliam's hands in shot.
-
-DIRECTION:
-voice over
-
-DIRECTION:
-Gilliam's head appears briefly
 
 TERRY GILLIAM:
 Sorry.

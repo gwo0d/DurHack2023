@@ -1,12 +1,3 @@
-DIRECTION:
-and CAPTION
-
-DIRECTION:
-'THE FREE REPETITION OF DOUBTFUL WORDS - SKIT, SPOOF, JAPE OR VIGNETTE, BY A VERY UNDER-RATED WRITER'
-
-DIRECTION:
-A post office counter window, with 'Telegram Enquiries' over the top. We see this through an ornate vignette. The clerk is behind the counter. Enter Mr Peepee. They speak very stiltedly.
-
 ERIC IDLE:
 I've come for some free repetition of doubtful words on an inland telegram.
 
@@ -24,9 +15,6 @@ At once Mr Telegram Enquiry Man.
 
 TERRY JONES:
 Thank you Mr Customer Man.
-
-DIRECTION:
-reads
 
 TERRY JONES:
 Aha. 'Parling I glove you. Clease clome at bronce, your troving swife, Pat.' Which was the word you wanted checking?
@@ -52,14 +40,8 @@ And therefore I will take a quick look in the book.
 ERIC IDLE:
 Ripping.
 
-DIRECTION:
-CAPTION: 'ONE QUICK LOOK IN THE BOOK LATER'
-
 TERRY JONES:
 You're quite right, old cock. There
-
-DIRECTION:
-has
 
 TERRY JONES:
 been a mistake.
@@ -81,13 +63,4 @@ Well it has been a pleasure working with you.
 
 TERRY JONES:
 For me also it has been a pleasure. And that concludes our little skit.
-
-DIRECTION:
-String quartet music starts to play, as at the beginning, only this time we widen to reveal a string quartet sitting in the set, playing. The clerk and Peepee adopt slightly frozen position. Mix to:
-
-DIRECTION:
-and CAPTION:
-
-DIRECTION:
-'THE FREE REPETITION OF DOUBTFUL WORDS THING, BY A JUSTLY UNDERRATED WRITER - THE END'
 

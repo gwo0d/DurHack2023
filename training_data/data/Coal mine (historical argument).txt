@@ -1,26 +1,11 @@
-DIRECTION:
-CAPTION: 'A COAL MINE IN LLANDDAROG CARMARTHEN'
-
-DIRECTION:
-A nice photograph of a typical pit head. Music over this: 'All Through the Night' being sung in Welsh.
-
 JOHN CLEESE:
 The coal miners of Wales have long been famed for their tough rugged life hewing the black gold from the uncompromising hell of one mile under. This is
-
-DIRECTION:
-at this moment across the bottom of the screen comes the following message in urgent teleprinter style, moving right to left, superimposed 'HM THE QUEEN STILL WATCHING 'THE VIRGINIAN'
 
 JOHN CLEESE:
 the story of such men, battling gallantly against floods, roof falls, the English criminal law, the hidden killer carbon monoxide and the ever-present threat of pneumoconiosis which is... a disease miners get.
 
-DIRECTION:
-Cut to coal face below ground where some miners are engaged at their work. They hew away for a bit, grunting and talking amongst themselves. Suddenly two of them square up to one another.
-
 GRAHAM CHAPMAN:
 Don't you talk to me like that, you lying bastard.
-
-DIRECTION:
-He hits the second miner and a fight starts.
 
 TERRY
 JONES:
@@ -28,9 +13,6 @@ You bleeding pig. You're not fit to be down a mine.
 
 GRAHAM CHAPMAN:
 Typical bleeding Rhondda, isn't it. You think you're so bloody clever.
-
-DIRECTION:
-They writhe around on the floor pummelling each other. The foreman comes in.
 
 ERIC IDLE:
 You bloody fighting again. Break it up or I'll put this pick through your head. Now what's it all about?
@@ -72,20 +54,11 @@ Are you saying I don't know the difference between the War of the bloody Spanish
 MICHAEL PALIN:
 You don't know the difference between the Battle of Borodino and a tiger's bum.
 
-DIRECTION:
-They start to fight.
-
 ERIC IDLE:
 Break it up, break it up.
 
-DIRECTION:
-he hits them with his pickaxe
-
 ERIC IDLE:
 I'm sick of all this bloody fighting. If it's not the bloody Treaty of Utrecht it's the bloody binomial theorem. This isn't the senior common room at All Souls, it's the bloody coal face.
-
-DIRECTION:
-A fourth miner runs up.
 
 IAN DAVIDSON:
 Hey, gaffer, can you settle something? Morgan here says you find the abacus between the triglyphs in the frieze section of the entablature of classical Greek Doric temples.
@@ -96,9 +69,6 @@ You bloody fool, Morgan, that's the metope. The abacus is between the architrave
 TERRY GILLIAM:
 You stinking liar.
 
-DIRECTION:
-Another fight breaks out. A management man arrives carried in sedan chair by two black flunkies. He wears a colonial governor's helmet and a large sign reading 'frightfully important'. All the miners prostrate themselves on the floor.
-
 ERIC IDLE:
 Oh, most magnificent and merciful majesty, master of the universe, protector of the meek, whose nose we are not worthy to pick and whose very feces are an untrammelled delight, and whose peacocks keep us awake all hours of the night with their noisy lovemaking, we beseech thee, tell thy humble servants the name of the section between the triglyphs in the frieze section of a classical Doric entablature.
 
@@ -108,12 +78,6 @@ No idea. Sorry.
 ERIC IDLE:
 Right. Everybody out.
 
-DIRECTION:
-They all walk off throwing down tools. Cut to a newsreader's desk.
-
 MICHAEL PALIN:
 Still no settlement in the coal mine dispute at Llanddarog. Miners refused to return to work until the management define a metope. Meanwhile, at Dagenham the unofficial strike committee at Fords have increased their demands to thirteen reasons why Henry III was a bad king. And finally, in the disgusting objects international at Wembley tonight, England beat Spain by a plate of braised pus to a putrid heron. And now, the Toad Elevating Moment.
-
-DIRECTION:
-CAPTION: 'THE TOAD ELEVATING MOMENT'
 

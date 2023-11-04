@@ -1,35 +1,14 @@
-DIRECTION:
-Cut to a pet shop.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'A PET SHOP SOMEWHERE NEAR MELTON MOWBRAY'
-
-DIRECTION:
-Man enters shop and approaches shopkeeper at counter.
-
 JOHN CLEESE:
 Good morning, I'd like to buy a cat.
 
 MICHAEL PALIN:
 Certainly sir. I've got a lovely terrier.
 
-DIRECTION:
-(indicates a box on the counter
-
-DIRECTION:
-glancing in box
-
 JOHN CLEESE:
 No, I want a cat really.
 
-DIRECTION:
-taking box off counter and then putting it back on counter as if it is a different box
-
 MICHAEL PALIN:
 Oh yeah, how about that?
-
-DIRECTION:
-looking in box
 
 JOHN CLEESE:
 No, that's the terrier.
@@ -61,9 +40,6 @@ No, no, no, no. Er, have you got a parrot?
 MICHAEL PALIN:
 No, I'm afraid not actually guv, we're fresh out of parrots. I'll tell you what though ... I'll lop its back legs off, make good, strip the fur, stick a couple of wings on and staple on a beak of your own choice.
 
-DIRECTION:
-taking small box and rattling it
-
 MICHAEL PALIN:
 No problem. Lovely parrot.
 
@@ -73,14 +49,8 @@ How long would that take?
 MICHAEL PALIN:
 Oh, let me see ... er, stripping the fur off, no legs ...
 
-DIRECTION:
-calling
-
 MICHAEL PALIN:
 Harry ... can you do a parrot job on this terrier straight away?
-
-DIRECTION:
-off-screen
 
 GRAHAM CHAPMAN:
 No, I'm still putting a tuck in the Airedale, and then I got the frogs to let out.
@@ -102,9 +72,6 @@ It's a great conversation piece.
 
 JOHN CLEESE:
 Yes, all right, all right ... but, uh, only if I can watch.
-
-DIRECTION:
-Vox pops.
 
 JOHN CLEESE:
 Oh, I thought that was a bit predictable.

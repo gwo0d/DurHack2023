@@ -1,239 +1,35 @@
-DIRECTION:
-A view of the starting stalls, shot so we cannot see inside.
-
-DIRECTION:
-CAPTION: '3.15 QUEEN VICTORIA HANDICAP'
-
 ERIC IDLE:
 Well they're under starter's orders for this very valuable Queen Victoria Handicap. And they're off,
-
-DIRECTION:
-the starting stall doors fly open; out come eight identically dressed Queen Victorias who go bustling off up the field
-
-DIRECTION:
-a low angle shot as the Queen Victorias appear over the fence and thunder towards the camera
 
 ERIC IDLE:
 And at the first fence it's Queen Victoria just ahead of Queen Victoria and Queen Victoria falling away in third place. And Queen Victoria in the lead as they ...
 
-DIRECTION:
-Cut back to the presenter in the studio; he is completely dressed as Queen Victoria, apart from his face.
-
 MICHAEL PALIN:
 Well a very exciting race there at Epsom. And now over to the European Cup at Barcelona where the latest news is that Miguel Otana, the burly Real Madrid striker, was sent off for breaking wind in the forty-third minute. He'd already been cautioned for pursing his lips earlier on in the game and now he's off! So let's see a playback of that ... Brian.
-
-DIRECTION:
-Cut to Brian, dressed the same way.
 
 ERIC IDLE:
 Yes ... er ... well as you can see ... there's Otana now
 
-DIRECTION:
-brief stock shot of football match
-
-DIRECTION:
-cut back to Brian
-
 ERIC IDLE:
 and er ... he makes no attempt to play the ball. He quite deliberately lets off! And to my mind he was within the box and the referee had no option whatsoever but to send him off.
-
-DIRECTION:
-Cut to the presenter.
 
 MICHAEL PALIN:
 Jimmy?
 
-DIRECTION:
-We cut to the real Jimmy Hill dressed as Queen Victoria, veil, crown and all.
-
-DIRECTION:
-Good evening.
-
 MICHAEL PALIN:
 What do you make of that?
-
-DIRECTION:
-Well the referees really are clamping down these days. Only last week the Belgian captain was sent off for having a Sony radio cassette player. And Gonerelli, the huge Italian defender, was sent off in Turin for having his sitting and dining room knocked through to form an open living area.
 
 MICHAEL PALIN:
 Hamlet?
 
-DIRECTION:
-Cut to Hamlet.
-
 TERRY JONES:
 Good evening.
-
-DIRECTION:
-Cut quickly back to the presenter.
 
 MICHAEL PALIN:
 Well you've got the girl on the bed and her legs up on the mantelpiece ...
 
-DIRECTION:
-The nurse enters.
-
 CAROL CLEVELAND:
 Out, out, come on, come on, out ...
-
-DIRECTION:
-she hustles the presenter out of studio
-
-DIRECTION:
-Animated sketch.
-
-DIRECTION:
-CAPTION: 'ACT FIVE - A HAM IN THE CASTLE'
-
-DIRECTION:
-Mix to the theatre set we saw before. All the cast are dressed as Queen Victorias, except for Hamlet and Ophelia.
-
-DIRECTION:
-Let four captains bear Hamlet like a soldier to the stage. For he was likely had he been put on to have proved most royally ...
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'THE END'
-
-DIRECTION:
-They come on and take bows. Superimposed Python credits in Shakespearean style and graphics.
-
-DIRECTION:
-MONTY PYTHON
-
-DIRECTION:
-BY WILLIAM SHAKESPEARE
-
-DIRECTION:
-DRAMATIS PERSONAE
-
-DIRECTION:
-HAMLET - TERRY JONES
-
-DIRECTION:
-A BACHELOR FRIEND OF HAMLET'S
-
-DIRECTION:
-GRAHAM CHAPMAN
-
-DIRECTION:
-QUITE A BUTCH FRIEND OF HAMLET'S BUT STILL A BACHELOR
-
-DIRECTION:
-TERRY GILLIAM
-
-DIRECTION:
-A FRIEND OF HAMLET'S WHO, THOUGH MARRIED, STILL SEES HAMLET OCCASIONALLY
-
-DIRECTION:
-MICHAEL PALIN
-
-DIRECTION:
-A VERY CLOSE BACHELOR FRIEND OF HAMLET'S WHO, THOUGH ABOVE SUSPICION, DOES WEAR RATHER LOUD HIRTS
-
-DIRECTION:
-ERIC IDLE
-
-DIRECTION:
-ANOTHER PART OF THE DRAMATIS PERSONAE:
-
-DIRECTION:
-A FRIEND OF HAMLET'S WHO LOVES BACHELORS - CAROL CLEVELAND
-
-DIRECTION:
-A JIMMY HILL NEAR LONDON - JIMMY HILL
-
-DIRECTION:
-A BACHELOR GENTLEMAN - BOB E. RAYMOND
-
-DIRECTION:
-AN OPHELIA - CONSTANCE BOOTH
-
-DIRECTION:
-A LOONY, BUT NOT A BACHELOR - SIR K. JOSEPH
-
-DIRECTION:
-ADDITIONAL BLANK VERSE: J. CLEESE (NO RELATION)&NBSP;(OF HAMLET'S, THAT IS)>
-
-DIRECTION:
-PERSONAE NON DRAMATIS BUT TECHNICALIS
-
-DIRECTION:
-SOME BACHELORS, SOME NOT
-
-DIRECTION:
-A MAKER-UPPER
-
-DIRECTION:
-MAGGIE WESTON
-
-DIRECTION:
-A COSTUME DESIGNER AND BACHELOR
-
-DIRECTION:
-ANDREW ROSE
-
-DIRECTION:
-A CAMERAMAN OF LONDON
-
-DIRECTION:
-STAN SPEEL
-
-DIRECTION:
-A SOUND RECORDIST OF ILL REPUTE
-
-DIRECTION:
-JOHN BLIGHT
-
-DIRECTION:
-AN EDITOR OF FILM WHO IS PARTLY BACHELOR AND PARTLY VEGETABLE WITH MINERAL CONNECTIONS
-
-DIRECTION:
-BOB DEARBERG
-
-DIRECTION:
-A STUDIO SOUND MAN
-
-DIRECTION:
-MIKE JONES
-
-DIRECTION:
-A LIGHTING SCOTSMAN
-
-DIRECTION:
-JIMMY PURDIE
-
-DIRECTION:
-A VISUAL EFFECTOR KEEN ON BACHELORS
-
-DIRECTION:
-JOHN HORTON
-
-DIRECTION:
-AN ASSISTANT PRODUCER FRIEND OF HAMLET'S
-
-DIRECTION:
-BRIAN JONES
-
-DIRECTION:
-A DESIGNED WHO PREFERS MARRIED MEN BUT KNOWS QUITE A FEW BACHELORS
-
-DIRECTION:
-VALERIE WARRENDER
-
-DIRECTION:
-A PROFESSIONAL PRODUCER AND AMATEUR BACHELOR
-
-DIRECTION:
-IAN MACNAUGHTON
-
-DIRECTION:
-A BACHELOR BROADCASTING CORPORATION
-
-DIRECTION:
-BBC COLOUR.
-
-DIRECTION:
-Fade out. Fade up on a moor. An explosion has just take place. Out of the smoke a ragged man walks towards the camera.
 
 MICHAEL PALIN:
 And then...

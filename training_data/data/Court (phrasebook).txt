@@ -1,14 +1,5 @@
-DIRECTION:
-Cut to a courtroom.
-
 ERIC IDLE:
 Call Alexander Yahlt
-
-DIRECTION:
-Call Alexander Yahlt. Call Alexander Yahlt. Call Alexander Yahlt.
-
-DIRECTION:
-They do this three times finishing with harmony
 
 TERRY JONES:
 Oh, shut up.
@@ -16,17 +7,11 @@ Oh, shut up.
 ERIC IDLE:
 You are Alexander Yahlt?
 
-DIRECTION:
-Derek Nimmo's voice (dubbed on)
-
 MICHAEL PALIN:
 Oh I am.
 
 ERIC IDLE:
 Skip the impersonations. You are Alexander Yahlt?
-
-DIRECTION:
-normal voice
 
 MICHAEL PALIN:
 I am.
@@ -61,9 +46,6 @@ You did say 46, Horton Terrace, didn't you?
 MICHAEL PALIN:
 Yes.
 
-DIRECTION:
-He claps his hand to his mouth; gong sounds - general applause.
-
 ERIC IDLE:
 Ha, ha, ha, I got him.
 
@@ -82,17 +64,11 @@ I quote an example. The Hungarian phrase meaning 'Can you direct me to the stati
 MICHAEL PALIN:
 I wish to plead incompetence.
 
-DIRECTION:
-The policeman stands up
-
 GRAHAM CHAPMAN:
 Please may I ask for an adjournment, m'lud?
 
 TERRY JONES:
 An adjournment? Certainly not.
-
-DIRECTION:
-the policeman sits down; there is a loud raspberry; the policeman goes bright red
 
 TERRY JONES:
 Why on earth didn't you say why you wanted an adjourment?
@@ -100,17 +76,11 @@ Why on earth didn't you say why you wanted an adjourment?
 GRAHAM CHAPMAN:
 I didn't know an acceptable legal phrase, m'lud.
 
-DIRECTION:
-Cut to stock film of Women's Institute applauding. Cut back to the magistrate.
-
 TERRY JONES:
 If there's any more stock film of women applauding, I'll clear the court.
 
 ERIC IDLE:
 Call Abigail Tesler
-
-DIRECTION:
-Two policemen carry a large photo blow-up the size of a door. It is a photo from a newspaper like the 'Mirror', with a girl in a bikini and the headline across the top: 'Sunshine Sizzler'. Underneath is some small print which is later read out (see below). They prop her up in the witness box.
 
 JOHN CLEESE:
 M'lud - this is Abigail Tesler.
@@ -121,27 +91,9 @@ Is it?
 JOHN CLEESE:
 Yes, m'lud. Twenty-three-year-old Abigail hails from down under, where they're upside down about her. Those Aussies certainly know a thing or two when it comes to beach belles. Bet some life-saver wouldn't mind giving her the kiss of life. So watch out for sharks, Abigail!
 
-DIRECTION:
-Cut back to the judge's desk. The judge has turned into a similar photo blow-up of himself, the size of a door. The headline at the top is 'Legal Sizzler'.
-
-DIRECTION:
-voice over
-
-DIRECTION:
-cut back to defence counsel, who has turned into a large photo blow-up of himslef headed 'Defence Counsel Sizzler'
-
 MICHAEL PALIN:
 All will be revealed soon m'lud, quipped tall forty-two-year-old Nelson Bedowes. Cutie QC Nelson's keen on negligence and grievous bodily harm at Gray's Inn. And with cases like he's won we bet Gray's in when Nelson's around.
 
-DIRECTION:
-ANIMATION:
-
-DIRECTION:
-Starting with newspaper photo of judge in dark glasses and full wig with a starlet beside him, walking down London airport departure corridor carrying cases.
-
 ERIC IDLE:
 Well get on with it, admitted seventy-eight-year-old genial jurisprude Maltravers seen here at London airport, on his way to judge for Britain at the famous International Court in the Hague ...
-
-DIRECTION:
-Get off!
 

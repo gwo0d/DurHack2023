@@ -1,20 +1,11 @@
-DIRECTION:
-End of animation. Cut to an upper-class drawing room. An elderly man lies dead on the floor. Enter Jasmina and John.
-
 CAROL CLEVELAND:
 Anyway, John, you can catch the 11.30 from Hornchurch and be in Basingstoke by one o'clock, oh, and there's a buffet car and...
-
-DIRECTION:
-sees corpse
 
 CAROL CLEVELAND:
 Oh! Daddy!
 
 ERIC IDLE:
 My hat! Sir Horace!
-
-DIRECTION:
-not daring to look
 
 CAROL CLEVELAND:
 Has he been...
@@ -49,9 +40,6 @@ Yes, but there's only a seven-minute wait now.
 CAROL CLEVELAND:
 Oh, yes, of course, I'd forgotten it was Friday. Oh, who could have done this?
 
-DIRECTION:
-Enter Lady Partridge.
-
 GRAHAM CHAPMAN:
 Oh, do hurry Sir Horace, your train leaves in twenty-eight minutes, and if you miss the 10.15 you won't catch the 3.45 which means ... oh!
 
@@ -79,9 +67,6 @@ Closed! Not Swanborough!
 ERIC IDLE:
 I'm afraid so.
 
-DIRECTION:
-Enter Inspector Davis.
-
 TERRY JONES:
 All right, nobody move. I'm Inspector Davis of Scotland Yard.
 
@@ -94,23 +79,11 @@ Yeah, I got the 8.55 Pullman Express from King's Cross and missed that bit aroun
 GRAHAM CHAPMAN:
 It's a very good train.
 
-DIRECTION:
-Excellent, very good, delightful.
-
-DIRECTION:
-Tony runs in through the french windows. He wears white flannels and boater and is jolly upper-class.
-
 MICHAEL PALIN:
 Hello everyone.
 
-DIRECTION:
-Tony!
-
 MICHAEL PALIN:
 Where's daddy?
-
-DIRECTION:
-seeing him
 
 MICHAEL PALIN:
 Oh golly! Has he been... ?
@@ -184,44 +157,17 @@ Don't be a fool, Tony, don't do it, the 10.12 has the new narrow traction bogies
 MICHAEL PALIN:
 Exactly.
 
-DIRECTION:
-Tableau. Loud chord and slow curtain.
-
-DIRECTION:
-That was an excerpt from the latest West End hit 'It all happened on the 11.20 from Hainault to Redhill via Horsham and Reigate, calling at Carshalton Beeches, Malmesbury, Tooting Bec, and Croydon West'. The author is Mr. Neville Shunt.
-
-DIRECTION:
-Shunt sitting among mass of railway junk, at typewriter, typing away madly.
-
-DIRECTION:
-typing
-
 TERRY GILLIAM:
 Chuff, chuff, chuffwoooooch, woooooch! Sssssssss, sssssssss! Diddledum, diddledum, diddlealum. Toot, toot. The train now standing at platform eight, tch, tch, tch, diddledum, diddledum. Chuffff chuffffiTff eeeeeeeeeaaaaaaaaa Vooooommmmm.
-
-DIRECTION:
-Cut to art critic.
-
-DIRECTION:
-SUPERIMPOSED CAPTION: 'GAVIN MILLARRRRRRRRRR'
 
 JOHN CLEESE:
 Some people have made the mistake of seeing Shunt's work as a load of rubbish about railway timetables, but clever people like me, who talk loudly in restaurants, see this as a deliberate ambiguity, a plea for understanding in a mechanized world. The points are frozen, the beast is dead. What is the difference? What indeed is the point? The point is frozen, the beast is late out of Paddington. The point is taken. If La Fontaine's elk would spurn Tom Jones the engine must be our head, the dining car our oesophagus, the guard's van our left lung, the cattle truck our shins, the first-class compartment the piece of skin at the nape of the neck and the level crossing an electric elk called Simon. The clarity is devastating. But where is the ambiguity? It's over there in a box. Shunt is saying the 8.15 from Gillingham when in reality he means the 8.13 from Gillingham. The train is the same only the time is altered. Ecce homo, ergo elk. La Fontaine knew his sister and knew her bloody well. The point is taken, the beast is moulting, the fluff gets up your nose. The illusion is complete; it is reality, the reality is illusion and the ambiguity is the only truth. But is the truth, as Hitchcock observes, in the box? No there isn't room, the ambiguity has put on weight. The point is taken, the elk is dead, the beast stops at Swindon, Chabrol stops at nothing, I'm having treatment and La Fontaine can get knotted.
 
-DIRECTION:
-Cut to man at desk.
-
 MICHAEL PALIN:
 Gavin Millar...
 
-DIRECTION:
-Cut to another man.
-
 TERRY JONES:
 ...rrrrrrr...
-
-DIRECTION:
-Cut to first man.
 
 MICHAEL PALIN:
 ... was not talking to Neville Shunt. From the world of the theatre we turn to the world of dental hygiene. No, no, no, no. From the world of the theatre we move to the silver screen. We honour one of the silver screen's outstanding writer-dentists... writer-directors, Martin Curry who is visiting London to have a tooth out, for the pre-molar, er... premiere of his filling, film next Toothday... Tuesday, at the Dental Theatre... Film Theatre. Martin Curry talking to Matthew Palate... Padget.
