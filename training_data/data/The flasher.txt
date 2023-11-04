@@ -1,4 +1,7 @@
 DIRECTION:
+seeing camera
+
+DIRECTION:
 shuffles paper
 
 ERIC IDLE:

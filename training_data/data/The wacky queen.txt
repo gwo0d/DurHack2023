@@ -1,4 +1,7 @@
 DIRECTION:
+Film leader: 9...8...7...6...31...6...Jimmy Greaves...4...3...
+
+DIRECTION:
 Queen Victoria Film: the texture of the film reproduces as accurately as possible an animated Victorian photograph. Queen Victoria (Terry J) and Gladstone (Graham) are walking on the lawn in front of Osborne.
 
 JOHN CLEESE:

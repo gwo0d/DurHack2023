@@ -1,3 +1,6 @@
+DIRECTION:
+Cut to an interview room.
+
 JOHN CLEESE:
 You know I really enjoy interviewing applicants for this management training course.
 

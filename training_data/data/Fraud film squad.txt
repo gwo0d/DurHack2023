@@ -1,3 +1,6 @@
+DIRECTION:
+The door opens. lnspector Leopard runs through the door followed by a copper.
+
 JOHN CLEESE:
 Not so fast, Yakomoto.
 

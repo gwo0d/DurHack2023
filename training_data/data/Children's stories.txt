@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 Five seconds of Gilliam animation. To gentle children's programme music, we see bunnies jumping up and down.
 
 DIRECTION:

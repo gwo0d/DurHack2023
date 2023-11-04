@@ -1,4 +1,7 @@
 DIRECTION:
+ANIMATION:
+
+DIRECTION:
 Ends with a poster 'Boxing Tonite! The Killer vs. The Champ. 15 Rounds'.
 
 DIRECTION:

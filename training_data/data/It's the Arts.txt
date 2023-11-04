@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'IT'S THE ARTS'
+
+DIRECTION:
 Linkman sitting at desk
 
 MICHAEL PALIN:

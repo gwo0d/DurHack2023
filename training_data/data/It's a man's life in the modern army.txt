@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'IT'S A MAN'S LIFE IN THE CARDIFF ROOMS, LIBYA'.
+
+DIRECTION:
 Cut to colonel: army recruitment posters on wall behind him.
 
 GRAHAM CHAPMAN:

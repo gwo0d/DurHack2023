@@ -1,4 +1,7 @@
 DIRECTION:
+CAPTION: 'ACT TWO - A ROOM IN POLONIUS'S HOUSE'
+
+DIRECTION:
 Cut to a Frank Bough type presenter. Behind him are sports pictures.
 
 MICHAEL PALIN:
