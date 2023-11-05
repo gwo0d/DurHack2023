@@ -4,7 +4,7 @@ import time
 
 def get_script(prompt):
 
-    model = tf.saved_model.load(os.path.join('model-alpha'))
+    model = tf.saved_model.load(os.path.join('one_step'))
 
     start = time.time()
     states = None

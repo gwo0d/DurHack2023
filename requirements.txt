@@ -1,2 +1,4 @@
 tensorflow~=2.14.0
-numpy~=1.26.1
+requests~=2.31.0
+flask~=3.0.0
+stable-diffusion
