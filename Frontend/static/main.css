@@ -1,0 +1,146 @@
+@import "EatingAnimation.css";
+@import "OutputAnimation.css";
+@import "Modal.css";
+@import "FootAnimation.css";
+body{
+    overflow-y:scroll;
+}
+
+.header{
+    margin-top: 200px;
+    height: 500px;
+}
+
+.form{
+    padding-top: 250px;  
+    margin-left: 5%;
+    width: fit-content;
+    text-align: center; 
+}
+
+/* Header + text input container */
+
+h1{
+    margin: 0;
+    padding-right: 10px;
+    font-size: 1.5em;
+}
+
+.flex-container{   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pointer{
+    height: 1rem;
+}
+
+#header-image{
+    width: 100%;
+    margin-top: -550px;
+}
+#header-image>img{
+    margin-left: 15%;
+    display: block;
+    width:35%;
+} 
+
+/* Inputs */
+
+input{
+    border: none;
+    background-color: hsl(0, 0%, 94%);
+    position: relative;
+}
+
+#script-container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+.lineDiv{
+    margin-bottom: 2rem;
+}
+
+.speaker{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dialogue{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.script-title{
+    max-width: 70%;
+    font-weight: bold;
+    font-size: 2.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#title{
+    font-size: 1.5em;
+    padding: 2px;
+    
+}
+
+#title:focus{
+    outline: none;
+}
+
+#empty-input{
+    display: none;
+    color: red;
+    margin-bottom: -2px;
+}
+#submit{
+    margin-top: 15px;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+#submit:hover{
+    background-color: #d4d4d4;
+}
+
+/* Image */
+
+
+#eating-head{
+    position: absolute;
+    left:400px;
+    top: 150px;
+    width: 70%;
+    pointer-events: none;
+}
+#top-half{
+    position:absolute;
+    left: 455px;
+}
+
+#bottom-half{
+    position: absolute;
+    left:400px;
+    width: 1000px;
+}
+
+.splash{
+    cursor : pointer;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 100%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    transition: all ease-in-out 600ms;
+}
+.hidden{
+    transition: 0.5s;
+    display: none;
+}

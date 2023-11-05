@@ -1,0 +1,29 @@
+#foot-image{
+    width: 700px;
+    height: auto;
+}
+#foot{
+    position: absolute;
+    left:1000px;
+    top: -650px;
+}
+
+.foot-animation{
+    animation: pos 1s linear 0.5s 1 normal forwards;
+}
+
+@keyframes pos {
+    100% {
+        transform: translateY(120%);
+      }
+  }
+
+.foot-squash{
+    animation: squash 1s linear 0.5s 1 normal forwards;
+}
+@keyframes squash {
+    100% {
+        display: none;
+        opacity: 0;
+      }
+}
