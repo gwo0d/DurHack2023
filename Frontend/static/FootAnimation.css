@@ -24,5 +24,6 @@
 @keyframes squash {
     100% {
         display: none;
+        opacity: 0;
       }
 }
