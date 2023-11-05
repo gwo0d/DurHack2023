@@ -2,7 +2,6 @@
 @import "OutputAnimation.css";
 @import "Modal.css";
 body{
-    overflow-x:hidden;
     overflow-y:scroll;
 }
 
@@ -68,14 +67,18 @@ input{
 
 #eating-head{
     position: absolute;
-    right:0;
+    left:400px;
     top: 150px;
     width: 70%;
     pointer-events: none;
 }
+#top-half{
+    position:absolute;
+    left: 455px;
+}
 
 #bottom-half{
     position: absolute;
-    right:0;
+    left:400px;
     width: 1000px;
 }

@@ -15,7 +15,7 @@
   
 .transform-active {
     top: 0px;
-    right: 0px;
+    left: -100px;
     transform: rotate(0deg);
     animation: close 0.5s linear 2.5s 1 normal forwards;
 }
@@ -28,25 +28,6 @@
     }
 }
 
-.head-shake{
-    animation: shake 0.5s;
-    animation-delay: 3.5s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(-40deg); }
-    10% { transform: translate(-1px, -2px) rotate(-39deg); }
-    20% { transform: translate(-3px, 0px) rotate(-41deg); }
-    30% { transform: translate(3px, 2px) rotate(-40deg); }
-    40% { transform: translate(1px, -1px) rotate(-41deg); }
-    50% { transform: translate(-1px, 2px) rotate(-39deg); }
-    60% { transform: translate(-3px, 1px) rotate(-40deg); }
-    70% { transform: translate(3px, 1px) rotate(-39deg); }
-    80% { transform: translate(-1px, -1px) rotate(-41deg); }
-    90% { transform: translate(1px, 2px) rotate(-40deg); }
-    100% { transform: translate(1px, -2px) rotate(-39deg); }
-  }
 /* Text Animation */
 
 .transformation{

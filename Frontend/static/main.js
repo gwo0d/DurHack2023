@@ -6,7 +6,7 @@ function add_image(){
 function image_animation(){
     document.getElementById("top-half").classList.remove("head-shake");
     setTimeout(reset, 1000);
-    setTimeout(add_image, 2500);
+    setTimeout(add_image, 2000);
 }
 
 //TODO: HAVE TO UNCOMMENT THIS STUFF, REMOVE THE `setTimeout(image_animation, 8000);` bit
