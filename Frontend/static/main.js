@@ -15,9 +15,11 @@ function add_script(text){
         line_div.className = "lineDiv"
         let speaker = document.createElement('p')
         speaker.innerHTML = lines[i][0]
+        speaker.className = "speaker"
         line_div.appendChild(speaker)
         let dialogue = document.createElement('p')
         dialogue.innerHTML = lines[i][1]
+        dialogue.className = "dialouge"
         line_div.appendChild(dialogue)
     }
 }
@@ -47,7 +49,6 @@ function request_image(){
         add_script(script_http.responseText)
     }
     setTimeout(reset, 30000); 
-    setTimeout(output, 30000); 
 }
 
 function submission(){
