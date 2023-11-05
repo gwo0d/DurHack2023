@@ -55,7 +55,7 @@ function request_image(){
     script_http.send("");
     
     script_http.onload = function() {
-        setTimeout(function() {add_script(script_http.responseText)}, 8000);
+        add_script(script_http.responseText);
     }
 }
 
