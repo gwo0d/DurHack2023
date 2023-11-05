@@ -14,7 +14,8 @@ def index():
 def query():
     prompt = request.form.to_dict()
     print(prompt)
-    generate_image(prompt["prompt"], Path(__file__).parent.joinpath("Frontend", "static", "ai.png"))
+    prompt = f"Live action scene from Monty Python in color. {prompt['prompt']}. The script is a Monty Python sketch and it is full of humor. The scene looks as if it is a low-budget British TV show from the 1970s"
+    generate_image(prompt, Path(__file__).parent.joinpath("Frontend", "static", "ai.png"))
     return '', 200
 
 @app.route("/script", methods=["POST"])
