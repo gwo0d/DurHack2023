@@ -20,7 +20,8 @@ function add_script(text){
         let speaker = document.createElement('p');
         speaker.className = "speaker";
         line_div.appendChild(speaker);
-        speaker.appendChild(pointer)
+        speaker.appendChild(pointer);
+        speaker.style.fontWeight = "bold";
         speaker.innerHTML += lines[i][0];
         let dialogue = document.createElement('p');
         dialogue.innerHTML = lines[i][1];
