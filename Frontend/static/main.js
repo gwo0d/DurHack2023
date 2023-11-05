@@ -3,14 +3,12 @@ function add_image(){
     let img = document.createElement('img');
     img.src = "/static/ai.png"
     document.getElementById('header-image').appendChild(img);
-    img.scrollIntoView({
-        behavior: 'smooth'
-    });
 }
 
 function add_script(text){
     document.getElementById("top-half").classList.remove("head-shake");
     document.getElementById("top-half").classList.add("transform-active");
+    foot();
     lines = JSON.parse(text)["response"]
     for(i=0; i<lines.length; i++){
         let line_div = document.createElement('div');
@@ -86,4 +84,11 @@ span.onclick = function() {
 }
 function removeEatingAnimation(){
     document.getElementById("top-half").classList.remove("transform-active");
+}
+
+function foot(){
+    var foot = document.getElementById("foot");
+    foot.classList.toggle("foot-animation");
+    var head = document.getElementById("eating-head");
+    head.classList.toggle("foot-squash");
 }
