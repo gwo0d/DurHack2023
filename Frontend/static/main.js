@@ -3,12 +3,12 @@ function add_image(){
     let img = document.createElement('img');
     img.src = "/static/ai.png"
     document.getElementById('header-image').appendChild(img);
+    document.getElementById('script-container').style.display = "block";
+    foot();
 }
 
 function add_script(text){
-    document.getElementById("top-half").classList.remove("head-shake");
     document.getElementById("top-half").classList.add("transform-active");
-    foot();
     lines = JSON.parse(text)["response"]
     for(i=0; i<lines.length; i++){
         let line_div = document.createElement('div');
