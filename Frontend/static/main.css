@@ -33,6 +33,23 @@ h1{
 
 }
 
+.splash{
+    cursor : pointer;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 100%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    background-image: url("Images/Splash.jpeg");
+    transition: all ease-in-out 600ms;
+}
+
+.hidden{
+    transition: 0.5s;
+    display: none;
+}
+
 #header-image{
     width: 100%;
 }
