@@ -22,6 +22,8 @@ def script():
     prompt = request.form.to_dict()
     print(prompt)
     text = create_script_with_ChatGPT(prompt["prompt"])
+    text = text[8:].replace('\\n', '\n')
+    print(text)
     lines = text.split("\n\n")
     response = {"response":[]}
     for line in lines:

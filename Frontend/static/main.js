@@ -52,7 +52,8 @@ function request_image(){
     var script_http = new XMLHttpRequest();
     script_http.open("POST", "/script", true);
     script_http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-    script_http.send("");
+    var params2 = "prompt=" + query.value;
+    script_http.send(params2);
     
     script_http.onload = function() {
         add_script(script_http.responseText);

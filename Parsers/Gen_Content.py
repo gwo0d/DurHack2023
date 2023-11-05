@@ -24,7 +24,7 @@ class LLMAccessor(ABC):
     def __init__(self):
 
         try:
-            configs = yaml.safe_load(open("LLM_config.yaml", "r"))
+            configs = yaml.safe_load(open("Parsers/LLM_config.yaml", "r"))
         except yaml.YAMLError:
             print("Error loading LLM configurations")
             exit(1)
@@ -104,7 +104,5 @@ class LLMAccessor(ABC):
 def create_script_with_ChatGPT(prompt):
 
     Accessor = LLMAccessor()
+    return str(Accessor.generate_prompts(prompt))
 
-    f = open("output.txt", "a")
-    f.write(str(Accessor.generate_prompts(prompt)))
-    f.close()
