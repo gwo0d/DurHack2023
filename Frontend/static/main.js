@@ -1,3 +1,4 @@
+//Renders image on page
 function add_image(){
     document.getElementById("top-half").classList.remove("head-shake");
     let img = document.createElement('img');
@@ -7,6 +8,7 @@ function add_image(){
     foot();
 }
 
+//Renders script on page
 function add_script(text){
     document.getElementById("top-half").classList.add("transform-active");
     lines = JSON.parse(text)["response"]
@@ -29,6 +31,7 @@ function add_script(text){
         line_div.appendChild(dialogue);
     }
 }
+
 function request_image(){
     shaking();
     var query = document.getElementById("title");
@@ -53,6 +56,7 @@ function request_image(){
     }
 }
 
+//Functionality on form submit
 function submission(){
     var empty =  document.getElementById("empty-input");
     if(!(document.getElementById("title").value)){
@@ -77,11 +81,14 @@ function shaking(){
     var head = document.getElementById("top-half");
     head.classList.toggle("head-shake");
 }
+
+//Toggles the eating animation
 function reset(){
     var head = document.getElementById("top-half");
     head.classList.toggle("transform-active");
 }
 
+//Modal functionality
 var modal = document.getElementById("modal");
 var span = document.getElementsByClassName("close")[0];
 span.onclick = function() {
@@ -91,9 +98,20 @@ function removeEatingAnimation(){
     document.getElementById("top-half").classList.remove("transform-active");
 }
 
+//Foot animation
 function foot(){
     var foot = document.getElementById("foot");
     foot.classList.toggle("foot-animation");
     var head = document.getElementById("eating-head");
     head.classList.toggle("foot-squash");
 }
+
+//Splash Screen
+var splashScreen = document.querySelector('.splash')
+splashScreen.addEventListener('click',()=>{
+    splashScreen.style.opacity = 0;
+    setTimeout(()=>{
+        splashScreen.classList.add('hidden')
+    },610)
+    window.scrollTo(0,0);
+})
