@@ -6,7 +6,7 @@ A humorous web-project that writes Monty Python-esque scripts and appropriate gr
 
 Clone the repo onto your local machine
 In your terminal, run:
-1. pip install -r requirements.txt
+1. `pip install -r requirements.txt`
 2. `python3 -m venv venv`
 3. `source venv/bin/activate`
 4. `python3 -m pip install requests`
