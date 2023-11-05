@@ -1,6 +1,7 @@
 from flask import Flask, request, send_from_directory
 from stable_diffusion.stable_diffusion import generate_image
 from pathlib import Path
+import json
 
 app = Flask(__name__, static_folder='Frontend/static')
 
@@ -14,6 +15,26 @@ def query():
     print(prompt)
     generate_image(prompt["prompt"], Path(__file__).parent.joinpath("Frontend", "static", "ai.png"))
     return '', 200
+
+@app.route("/script", methods=["POST"])
+def script():
+    prompt = request.form.to_dict()
+    print(prompt)
+    with open("training_data/data/Bruces.txt") as f:
+        text = f.read()
+    lines = text.split("\n\n")
+    response = {"response":[]}
+    for line in lines:
+        print(line)
+        try:
+            speaker, dialogue = line.split("\n")
+            response["response"].append([speaker, dialogue])
+        except ValueError:
+            pass
+    print(response)
+    response = json.dumps(response)
+    
+    return response, 200
 
 
 if __name__ == '__main__':
