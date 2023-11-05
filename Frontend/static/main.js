@@ -1,4 +1,5 @@
 function add_image(){
+    document.getElementById("top-half").classList.remove("head-shake");
     let img = document.createElement('img');
     img.src = "/static/ai.png"
     document.getElementById('header-image').appendChild(img);
@@ -8,6 +9,8 @@ function add_image(){
 }
 
 function add_script(text){
+    document.getElementById("top-half").classList.remove("head-shake");
+    document.getElementById("top-half").classList.add("transform-active");
     lines = JSON.parse(text)["response"]
     for(i=0; i<lines.length; i++){
         let line_div = document.createElement('div');
@@ -23,14 +26,8 @@ function add_script(text){
         line_div.appendChild(dialogue)
     }
 }
-function image_animation(){
-    document.getElementById("top-half").classList.remove("head-shake");
-    setTimeout(reset, 1000);
-    setTimeout(add_image, 2500);
-}
-
-//TODO: HAVE TO UNCOMMENT THIS STUFF, REMOVE THE `setTimeout(image_animation, 8000);` bit
 function request_image(){
+    shaking();
     var query = document.getElementById("title");
     // Stable diffusion request
     var image_http = new XMLHttpRequest();
@@ -38,6 +35,9 @@ function request_image(){
     image_http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
     var params = "prompt=" + query.value; // probably use document.getElementById(...).value
     image_http.send(params);
+    image_http.onload = function() {
+        setTimeout(add_image, 8000);
+    }
 
     // Script Request
     var script_http = new XMLHttpRequest();
@@ -46,9 +46,8 @@ function request_image(){
     script_http.send("");
     
     script_http.onload = function() {
-        add_script(script_http.responseText)
+        setTimeout(function() {add_script(script_http.responseText)}, 8000);
     }
-    setTimeout(reset, 30000); 
 }
 
 function submission(){

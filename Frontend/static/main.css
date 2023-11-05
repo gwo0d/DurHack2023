@@ -2,7 +2,6 @@
 @import "OutputAnimation.css";
 @import "Modal.css";
 body{
-    overflow-x:hidden;
     overflow-y:scroll;
 }
 
