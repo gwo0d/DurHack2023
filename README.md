@@ -12,9 +12,17 @@ In your terminal, run:
 4. `git submodule update --init`
 5. Download model.ckpt from https://huggingface.co/darkstorm2150/Protogen_Infinity_Official_Release/tree/main
 6. Put the model.ckpt in your `/Monty-Pythons-Infinite-Circus/stable_diffusion_stable-diffusion-webio/models/Stable-diffusion` folder
-7. Run `./webui.sh --no-half --nowebui --skip-torch-cuba-test` in your normal terminal, outside of venv
+7. Run `./webui.sh --no-half --nowebui --skip-torch-cuba-test` in your normal terminal, outside of the virtual environment
 8. In venv, run `python3 main.py` and you are set to create your Monty Python inspired images!
 
+### Running locally using ChatGPT
+Follow the steps as above. However, additionally create the file `Parsers\LLM_config.yaml` which should contain the following data:
+```
+OPENAI_API_KEY: YOUR-SECRET-API-KEY-HERE
+model: gpt-3.5-turbo
+temp: 0.6
+```
+Whilst we recommend the above model and temperature, feel free to tune to your liking.
 
 ## Backend tooling
 
