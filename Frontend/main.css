@@ -1,0 +1,80 @@
+@import "EatingAnimation.css";
+@import "OutputAnimation.css";
+body{
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+.header{
+    margin-top:400px;
+}
+
+.form{
+    margin-left: 150px;
+    width: fit-content;
+    text-align: center; 
+}
+
+/* Header + text input container */
+
+h1{
+    margin: 0;
+    padding-right: 10px;
+}
+
+.flex-container{   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/* Inputs */
+
+input{
+    border: none;
+    background-color: #f0f0f0;
+    position: relative;
+}
+
+#title{
+    font-size: 2em;
+    padding: 2px;
+}
+
+#title:focus{
+    outline: none;
+}
+
+#empty-input{
+    display: none;
+    color: red;
+    margin-bottom: -2px;
+}
+#submit{
+    margin-top: 15px;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+#submit:hover{
+    background-color: #d4d4d4;
+}
+
+/* Image */
+
+#eating-head{
+    position: absolute;
+    right:0;
+    top: 150px;
+    width: 70%;
+    pointer-events: none;
+}
+
+#bottom-half{
+    position: absolute;
+    right:0;
+    width: 1000px;
+}

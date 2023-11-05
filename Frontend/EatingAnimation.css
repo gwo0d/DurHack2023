@@ -1,0 +1,66 @@
+/*Head Animation*/
+
+.transform{
+    transform: rotate(-40deg);
+    -webkit-transition: all 0.5s linear;  
+    -moz-transition: all 0.5s linear ;  
+    -o-transition: all 0.5s linear ;  
+    -ms-transition: all 0.5s linear ;  
+    transition: all 0.5s linear ;
+    position: absolute;
+    right: -55px;
+    top: 52px;
+    width: 1000px;
+  }
+  
+.transform-active {
+    top: 0px;
+    right: 0px;
+    transform: rotate(0deg);
+    animation: close 0.5s linear 2.5s 1 normal forwards;
+}
+
+@keyframes close {
+    100% {
+        transform: rotate(-40deg);
+        right: -55px;
+        top: 52px;
+    }
+}
+
+/* Text Animation */
+
+.transformation{
+    -webkit-transition: all 1s ease;  
+    -moz-transition: all 1s ease ;  
+    -o-transition: all 1s ease ;  
+    -ms-transition: all 1s ease ;  
+    transition: all 1s ease ;
+}
+
+.transformation-active{
+    animation: move 2s linear 0.5s 1 normal forwards;
+}
+
+@keyframes move {
+    25% {
+        transform: translateX(10vw) translateY(-80%);
+    }
+    45% {
+        transform-origin:right;
+        transform:translateX(20vw) translateY(-110%);
+    }
+    50% {
+        transform-origin:right;
+        transform: rotate(20deg) translateX(20vw) translateY(-110%);
+        opacity: 1;
+      }
+
+    100% {
+        transform-origin:right;
+        transform: rotate(15deg) translateX(60vw) translateY(-90%);
+        height: 0%;
+        display: none;
+        opacity: 0;
+      }
+  }
