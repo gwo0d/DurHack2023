@@ -13,15 +13,19 @@ function add_script(text){
     for(i=0; i<lines.length; i++){
         let line_div = document.createElement('div');
         document.getElementById('script-container').appendChild(line_div);
-        line_div.className = "lineDiv"
-        let speaker = document.createElement('p')
-        speaker.innerHTML = lines[i][0]
-        speaker.className = "speaker"
-        line_div.appendChild(speaker)
-        let dialogue = document.createElement('p')
-        dialogue.innerHTML = lines[i][1]
-        dialogue.className = "dialouge"
-        line_div.appendChild(dialogue)
+        line_div.className = "lineDiv";
+        let pointer = document.createElement('img');
+        pointer.src = "/static/Images/finger.png"
+        pointer.className = "pointer"
+        let speaker = document.createElement('p');
+        speaker.className = "speaker";
+        line_div.appendChild(speaker);
+        speaker.appendChild(pointer)
+        speaker.innerHTML += lines[i][0];
+        let dialogue = document.createElement('p');
+        dialogue.innerHTML = lines[i][1];
+        dialogue.className = "dialogue";
+        line_div.appendChild(dialogue);
     }
 }
 function request_image(){
@@ -34,7 +38,7 @@ function request_image(){
     var params = "prompt=" + query.value; // probably use document.getElementById(...).value
     image_http.send(params);
     image_http.onload = function() {
-        setTimeout(add_image, 8000);
+        add_image()
     }
 
     // Script Request

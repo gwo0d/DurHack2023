@@ -33,8 +33,13 @@ h1{
 
 }
 
+.pointer{
+    height: 1rem;
+}
+
 #header-image{
     width: 100%;
+    margin-top: -450px;
 }
 #header-image>img{
     margin-left: auto;
@@ -49,7 +54,24 @@ input{
     border: none;
     background-color: hsl(0, 0%, 94%);
     position: relative;
+}
 
+#script-container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lineDiv{
+    margin-bottom: 2rem;
+}
+
+.speaker{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.dialogue{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #title{
