@@ -7,11 +7,12 @@ body{
 }
 
 .header{
-    margin-top:400px;
+    margin-top: 200px;
+    height: 500px;
 }
 
 .form{
-    margin-left: 150px;
+    margin-left: 5%;
     width: fit-content;
     text-align: center; 
 }
@@ -21,6 +22,7 @@ body{
 h1{
     margin: 0;
     padding-right: 10px;
+    font-size: 1.5em;
 }
 
 .flex-container{   
@@ -31,18 +33,29 @@ h1{
 
 }
 
+#header-image{
+    width: 100%;
+}
+#header-image>img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width:35%;
+} 
 
 /* Inputs */
 
 input{
     border: none;
-    background-color: #f0f0f0;
+    background-color: hsl(0, 0%, 94%);
     position: relative;
+
 }
 
 #title{
-    font-size: 2em;
+    font-size: 1.5em;
     padding: 2px;
+    
 }
 
 #title:focus{
@@ -68,10 +81,11 @@ input{
 
 #eating-head{
     position: absolute;
-    right:0;
-    top: 150px;
-    width: 70%;
+    right: 0;
+    top: 50px;
+    width: 50%;
     pointer-events: none;
+    height: 70%;
 }
 
 #bottom-half{
