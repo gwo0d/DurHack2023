@@ -4,7 +4,7 @@ function add_image(){
     document.getElementById('header-image').appendChild(img);
 }
 function image_animation(){
-    shaking();
+    document.getElementById("top-half").classList.remove("head-shake");
     setTimeout(reset, 1000);
     setTimeout(add_image, 2500);
 }
@@ -14,9 +14,6 @@ function request_image(){
     var query = document.getElementById("title");
     var http = new XMLHttpRequest();
     shaking();
-
-    //Resets the head for next opening animation
-    reset();
     // http.open("POST", "/query", true);
     // http.setRequestHeader("Content-type","application/x-www-form-urlencoded");
     // var params = "prompt=" + query.value; // probably use document.getElementById(...).value
@@ -42,6 +39,7 @@ function submission(){
         //Text Animation
         var text = document.getElementById("form");
         text.classList.toggle("transformation-active");
+        setTimeout(removeEatingAnimation, 3000);
         request_image()
     }
 }
@@ -60,4 +58,7 @@ var modal = document.getElementById("modal");
 var span = document.getElementsByClassName("close")[0];
 span.onclick = function() {
   modal.style.display = "none";
+}
+function removeEatingAnimation(){
+    document.getElementById("top-half").classList.remove("transform-active");
 }
