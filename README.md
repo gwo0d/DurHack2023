@@ -2,10 +2,19 @@
 
 A humorous web-project that writes Monty Python-esque scripts and appropriate graphics using various AI tools given a specified prompt.
 
-## Usage
+## Running locally
 
-You can view our project at: https://infinitecirc.us
-To get started with a local version, run the command ```pip install -r requirements.txt``` followed by ```python3 main.py```
+Clone the repo onto your local machine
+In your terminal, run:
+1. `python3 -m venv venv`
+2. `source venv/bin/activate`
+3. `python3 -m pip install requests`
+4. `git submodule update --init`
+5. Download model.ckpt from https://huggingface.co/darkstorm2150/Protogen_Infinity_Official_Release/tree/main
+6. Put the model.ckpt in your `/Monty-Pythons-Infinite-Circus/stable_diffusion_stable-diffusion-webio/models/Stable-diffusion` folder
+7. Run `./webui.sh --no-half --nowebui --skip-torch-cuba-test` in your normal terminal, outside of venv
+8. In venv, run `python3 main.py` and you are set to create your Monty Python inspired images!
+
 
 ## Backend tooling
 
