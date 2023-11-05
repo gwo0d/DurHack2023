@@ -1,13 +1,14 @@
 function add_image(){
+    document.getElementById("top-half").classList.remove("head-shake");
     let img = document.createElement('img');
     img.src = "/static/ai.png"
     document.getElementById('header-image').appendChild(img);
-    img.scrollIntoView({
-        behavior: 'smooth'
-    });
 }
 
 function add_script(text){
+    document.getElementById("top-half").classList.remove("head-shake");
+    document.getElementById("top-half").classList.add("transform-active");
+    foot();
     lines = JSON.parse(text)["response"]
     for(i=0; i<lines.length; i++){
         let line_div = document.createElement('div');
@@ -27,13 +28,6 @@ function add_script(text){
         line_div.appendChild(dialogue);
     }
 }
-function image_animation(){
-    document.getElementById("top-half").classList.remove("head-shake");
-    setTimeout(reset, 1000);
-    setTimeout(add_image, 2500);
-}
-
-//TODO: HAVE TO UNCOMMENT THIS STUFF, REMOVE THE `setTimeout(image_animation, 8000);` bit
 function request_image(){
     shaking();
     var query = document.getElementById("title");
@@ -54,9 +48,8 @@ function request_image(){
     script_http.send("");
     
     script_http.onload = function() {
-        add_script(script_http.responseText)
+        setTimeout(function() {add_script(script_http.responseText)}, 8000);
     }
-    setTimeout(reset, 30000); 
 }
 
 function submission(){
@@ -95,4 +88,11 @@ span.onclick = function() {
 }
 function removeEatingAnimation(){
     document.getElementById("top-half").classList.remove("transform-active");
+}
+
+function foot(){
+    var foot = document.getElementById("foot");
+    foot.classList.toggle("foot-animation");
+    var head = document.getElementById("eating-head");
+    head.classList.toggle("foot-squash");
 }

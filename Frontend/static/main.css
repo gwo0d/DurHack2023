@@ -1,8 +1,8 @@
 @import "EatingAnimation.css";
 @import "OutputAnimation.css";
 @import "Modal.css";
+@import "FootAnimation.css";
 body{
-    overflow-x:hidden;
     overflow-y:scroll;
 }
 
