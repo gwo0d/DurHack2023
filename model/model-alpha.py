@@ -10,7 +10,7 @@ for filename in os.listdir(os.path.join(os.path.dirname(__file__), '..', 'traini
 
 print(filenames)
 
-path_to_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'training_data', 'shakespeare.txt')
+path_to_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'training_data', 'shakespeare.txt'))
 text = open(path_to_file, 'rb').read().decode(encoding='utf-8')
 
 vocab = sorted(set(text))
