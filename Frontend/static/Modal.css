@@ -1,0 +1,22 @@
+.modal {
+  position:absolute;
+  top:0;
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.close {
+    font-weight: bold;
+  }
+  
+.close:hover,
+.close:focus {
+    color: rgb(93, 93, 93);
+    text-decoration: none;
+    cursor: pointer;
+  }

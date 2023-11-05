@@ -21,7 +21,13 @@ function add_script(text){
         line_div.appendChild(dialogue)
     }
 }
+function image_animation(){
+    document.getElementById("top-half").classList.remove("head-shake");
+    setTimeout(reset, 1000);
+    setTimeout(add_image, 2500);
+}
 
+//TODO: HAVE TO UNCOMMENT THIS STUFF, REMOVE THE `setTimeout(image_animation, 8000);` bit
 function request_image(){
     var query = document.getElementById("title");
     // Stable diffusion request
@@ -58,15 +64,26 @@ function submission(){
         //Text Animation
         var text = document.getElementById("form");
         text.classList.toggle("transformation-active");
+        setTimeout(removeEatingAnimation, 3000);
         request_image()
     }
 }
 
+//Head shake while loading
+function shaking(){
+    var head = document.getElementById("top-half");
+    head.classList.toggle("head-shake");
+}
 function reset(){
     var head = document.getElementById("top-half");
     head.classList.toggle("transform-active");
 }
-function output(){
-    var head = document.getElementById("top-half");
-    head.classList.toggle("transform-active");
+
+var modal = document.getElementById("modal");
+var span = document.getElementsByClassName("close")[0];
+span.onclick = function() {
+  modal.style.display = "none";
+}
+function removeEatingAnimation(){
+    document.getElementById("top-half").classList.remove("transform-active");
 }
