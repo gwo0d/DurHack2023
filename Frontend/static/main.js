@@ -55,3 +55,9 @@ function reset(){
     var head = document.getElementById("top-half");
     head.classList.toggle("transform-active");
 }
+
+var modal = document.getElementById("modal");
+var span = document.getElementsByClassName("close")[0];
+span.onclick = function() {
+  modal.style.display = "none";
+}
