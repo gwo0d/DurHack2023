@@ -1,5 +1,6 @@
 from flask import Flask, request, send_from_directory
 from stable_diffusion.stable_diffusion import generate_image
+from Parsers.Gen_Content import create_script_with_ChatGPT
 from pathlib import Path
 import json
 
@@ -20,8 +21,7 @@ def query():
 def script():
     prompt = request.form.to_dict()
     print(prompt)
-    with open("training_data/data/Bruces.txt") as f:
-        text = f.read()
+    text = create_script_with_ChatGPT(prompt["prompt"])
     lines = text.split("\n\n")
     response = {"response":[]}
     for line in lines:

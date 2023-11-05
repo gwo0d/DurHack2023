@@ -101,10 +101,10 @@ class LLMAccessor(ABC):
         return response
 
 
-if __name__ == "__main__":
+def create_script_with_ChatGPT(prompt):
 
     Accessor = LLMAccessor()
 
     f = open("output.txt", "a")
-    f.write(str(Accessor.generate_prompts(input("Please give a prompt"))))
+    f.write(str(Accessor.generate_prompts(prompt)))
     f.close()
