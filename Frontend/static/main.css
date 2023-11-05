@@ -75,6 +75,15 @@ input{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.script-title{
+    max-width: 70%;
+    font-weight: bold;
+    font-size: 2.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
 #title{
     font-size: 1.5em;
     padding: 2px;

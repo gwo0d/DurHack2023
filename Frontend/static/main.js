@@ -5,6 +5,9 @@ function add_image(){
     img.src = "/static/ai.png"
     document.getElementById('header-image').appendChild(img);
     document.getElementById('script-container').style.display = "block";
+    let userInput = document.getElementById('title').value;
+    document.getElementById('script-title').innerHTML=userInput;
+    document.getElementById('script-title').style.display = "block";
     foot();
 }
 
